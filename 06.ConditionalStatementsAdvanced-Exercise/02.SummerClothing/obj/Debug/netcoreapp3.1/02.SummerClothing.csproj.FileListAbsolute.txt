@@ -1,0 +1,14 @@
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\06.ConditionalStatementsAdvanced-Exercise\02.SummerClothing\bin\Debug\netcoreapp3.1\02.SummerClothing.exe
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\06.ConditionalStatementsAdvanced-Exercise\02.SummerClothing\bin\Debug\netcoreapp3.1\02.SummerClothing.deps.json
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\06.ConditionalStatementsAdvanced-Exercise\02.SummerClothing\bin\Debug\netcoreapp3.1\02.SummerClothing.runtimeconfig.json
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\06.ConditionalStatementsAdvanced-Exercise\02.SummerClothing\bin\Debug\netcoreapp3.1\02.SummerClothing.runtimeconfig.dev.json
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\06.ConditionalStatementsAdvanced-Exercise\02.SummerClothing\bin\Debug\netcoreapp3.1\02.SummerClothing.dll
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\06.ConditionalStatementsAdvanced-Exercise\02.SummerClothing\bin\Debug\netcoreapp3.1\02.SummerClothing.pdb
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\06.ConditionalStatementsAdvanced-Exercise\02.SummerClothing\obj\Debug\netcoreapp3.1\02.SummerClothing.csproj.AssemblyReference.cache
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\06.ConditionalStatementsAdvanced-Exercise\02.SummerClothing\obj\Debug\netcoreapp3.1\02.SummerClothing.GeneratedMSBuildEditorConfig.editorconfig
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\06.ConditionalStatementsAdvanced-Exercise\02.SummerClothing\obj\Debug\netcoreapp3.1\02.SummerClothing.AssemblyInfoInputs.cache
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\06.ConditionalStatementsAdvanced-Exercise\02.SummerClothing\obj\Debug\netcoreapp3.1\02.SummerClothing.AssemblyInfo.cs
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\06.ConditionalStatementsAdvanced-Exercise\02.SummerClothing\obj\Debug\netcoreapp3.1\02.SummerClothing.csproj.CoreCompileInputs.cache
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\06.ConditionalStatementsAdvanced-Exercise\02.SummerClothing\obj\Debug\netcoreapp3.1\02.SummerClothing.dll
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\06.ConditionalStatementsAdvanced-Exercise\02.SummerClothing\obj\Debug\netcoreapp3.1\02.SummerClothing.pdb
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\06.ConditionalStatementsAdvanced-Exercise\02.SummerClothing\obj\Debug\netcoreapp3.1\02.SummerClothing.genruntimeconfig.cache

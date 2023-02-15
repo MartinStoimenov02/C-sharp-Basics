@@ -1,0 +1,14 @@
+D:\Moi_raboti\Mои работи\Документи\СофтУни\1. откриване на курса-първи стъпки\HW-05.02\01.FirstStepsInCoding-Exercise\07.FoodDelivery\bin\Debug\netcoreapp3.1\07.FoodDelivery.exe
+D:\Moi_raboti\Mои работи\Документи\СофтУни\1. откриване на курса-първи стъпки\HW-05.02\01.FirstStepsInCoding-Exercise\07.FoodDelivery\bin\Debug\netcoreapp3.1\07.FoodDelivery.deps.json
+D:\Moi_raboti\Mои работи\Документи\СофтУни\1. откриване на курса-първи стъпки\HW-05.02\01.FirstStepsInCoding-Exercise\07.FoodDelivery\bin\Debug\netcoreapp3.1\07.FoodDelivery.runtimeconfig.json
+D:\Moi_raboti\Mои работи\Документи\СофтУни\1. откриване на курса-първи стъпки\HW-05.02\01.FirstStepsInCoding-Exercise\07.FoodDelivery\bin\Debug\netcoreapp3.1\07.FoodDelivery.runtimeconfig.dev.json
+D:\Moi_raboti\Mои работи\Документи\СофтУни\1. откриване на курса-първи стъпки\HW-05.02\01.FirstStepsInCoding-Exercise\07.FoodDelivery\bin\Debug\netcoreapp3.1\07.FoodDelivery.dll
+D:\Moi_raboti\Mои работи\Документи\СофтУни\1. откриване на курса-първи стъпки\HW-05.02\01.FirstStepsInCoding-Exercise\07.FoodDelivery\bin\Debug\netcoreapp3.1\07.FoodDelivery.pdb
+D:\Moi_raboti\Mои работи\Документи\СофтУни\1. откриване на курса-първи стъпки\HW-05.02\01.FirstStepsInCoding-Exercise\07.FoodDelivery\obj\Debug\netcoreapp3.1\07.FoodDelivery.csproj.AssemblyReference.cache
+D:\Moi_raboti\Mои работи\Документи\СофтУни\1. откриване на курса-първи стъпки\HW-05.02\01.FirstStepsInCoding-Exercise\07.FoodDelivery\obj\Debug\netcoreapp3.1\07.FoodDelivery.GeneratedMSBuildEditorConfig.editorconfig
+D:\Moi_raboti\Mои работи\Документи\СофтУни\1. откриване на курса-първи стъпки\HW-05.02\01.FirstStepsInCoding-Exercise\07.FoodDelivery\obj\Debug\netcoreapp3.1\07.FoodDelivery.AssemblyInfoInputs.cache
+D:\Moi_raboti\Mои работи\Документи\СофтУни\1. откриване на курса-първи стъпки\HW-05.02\01.FirstStepsInCoding-Exercise\07.FoodDelivery\obj\Debug\netcoreapp3.1\07.FoodDelivery.AssemblyInfo.cs
+D:\Moi_raboti\Mои работи\Документи\СофтУни\1. откриване на курса-първи стъпки\HW-05.02\01.FirstStepsInCoding-Exercise\07.FoodDelivery\obj\Debug\netcoreapp3.1\07.FoodDelivery.csproj.CoreCompileInputs.cache
+D:\Moi_raboti\Mои работи\Документи\СофтУни\1. откриване на курса-първи стъпки\HW-05.02\01.FirstStepsInCoding-Exercise\07.FoodDelivery\obj\Debug\netcoreapp3.1\07.FoodDelivery.dll
+D:\Moi_raboti\Mои работи\Документи\СофтУни\1. откриване на курса-първи стъпки\HW-05.02\01.FirstStepsInCoding-Exercise\07.FoodDelivery\obj\Debug\netcoreapp3.1\07.FoodDelivery.pdb
+D:\Moi_raboti\Mои работи\Документи\СофтУни\1. откриване на курса-първи стъпки\HW-05.02\01.FirstStepsInCoding-Exercise\07.FoodDelivery\obj\Debug\netcoreapp3.1\07.FoodDelivery.genruntimeconfig.cache

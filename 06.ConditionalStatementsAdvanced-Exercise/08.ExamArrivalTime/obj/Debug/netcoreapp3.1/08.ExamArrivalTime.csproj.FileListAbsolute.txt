@@ -1,0 +1,14 @@
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\06.ConditionalStatementsAdvanced-Exercise\08.ExamArrivalTime\bin\Debug\netcoreapp3.1\08.ExamArrivalTime.exe
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\06.ConditionalStatementsAdvanced-Exercise\08.ExamArrivalTime\bin\Debug\netcoreapp3.1\08.ExamArrivalTime.deps.json
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\06.ConditionalStatementsAdvanced-Exercise\08.ExamArrivalTime\bin\Debug\netcoreapp3.1\08.ExamArrivalTime.runtimeconfig.json
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\06.ConditionalStatementsAdvanced-Exercise\08.ExamArrivalTime\bin\Debug\netcoreapp3.1\08.ExamArrivalTime.runtimeconfig.dev.json
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\06.ConditionalStatementsAdvanced-Exercise\08.ExamArrivalTime\bin\Debug\netcoreapp3.1\08.ExamArrivalTime.dll
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\06.ConditionalStatementsAdvanced-Exercise\08.ExamArrivalTime\bin\Debug\netcoreapp3.1\08.ExamArrivalTime.pdb
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\06.ConditionalStatementsAdvanced-Exercise\08.ExamArrivalTime\obj\Debug\netcoreapp3.1\08.ExamArrivalTime.csproj.AssemblyReference.cache
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\06.ConditionalStatementsAdvanced-Exercise\08.ExamArrivalTime\obj\Debug\netcoreapp3.1\08.ExamArrivalTime.GeneratedMSBuildEditorConfig.editorconfig
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\06.ConditionalStatementsAdvanced-Exercise\08.ExamArrivalTime\obj\Debug\netcoreapp3.1\08.ExamArrivalTime.AssemblyInfoInputs.cache
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\06.ConditionalStatementsAdvanced-Exercise\08.ExamArrivalTime\obj\Debug\netcoreapp3.1\08.ExamArrivalTime.AssemblyInfo.cs
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\06.ConditionalStatementsAdvanced-Exercise\08.ExamArrivalTime\obj\Debug\netcoreapp3.1\08.ExamArrivalTime.csproj.CoreCompileInputs.cache
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\06.ConditionalStatementsAdvanced-Exercise\08.ExamArrivalTime\obj\Debug\netcoreapp3.1\08.ExamArrivalTime.dll
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\06.ConditionalStatementsAdvanced-Exercise\08.ExamArrivalTime\obj\Debug\netcoreapp3.1\08.ExamArrivalTime.pdb
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\06.ConditionalStatementsAdvanced-Exercise\08.ExamArrivalTime\obj\Debug\netcoreapp3.1\08.ExamArrivalTime.genruntimeconfig.cache

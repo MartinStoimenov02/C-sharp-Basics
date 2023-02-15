@@ -1,0 +1,14 @@
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\06.ConditionalStatementsAdvanced-Exercise\04.FishBoat\bin\Debug\netcoreapp3.1\04.FishBoat.exe
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\06.ConditionalStatementsAdvanced-Exercise\04.FishBoat\bin\Debug\netcoreapp3.1\04.FishBoat.deps.json
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\06.ConditionalStatementsAdvanced-Exercise\04.FishBoat\bin\Debug\netcoreapp3.1\04.FishBoat.runtimeconfig.json
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\06.ConditionalStatementsAdvanced-Exercise\04.FishBoat\bin\Debug\netcoreapp3.1\04.FishBoat.runtimeconfig.dev.json
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\06.ConditionalStatementsAdvanced-Exercise\04.FishBoat\bin\Debug\netcoreapp3.1\04.FishBoat.dll
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\06.ConditionalStatementsAdvanced-Exercise\04.FishBoat\bin\Debug\netcoreapp3.1\04.FishBoat.pdb
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\06.ConditionalStatementsAdvanced-Exercise\04.FishBoat\obj\Debug\netcoreapp3.1\04.FishBoat.csproj.AssemblyReference.cache
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\06.ConditionalStatementsAdvanced-Exercise\04.FishBoat\obj\Debug\netcoreapp3.1\04.FishBoat.GeneratedMSBuildEditorConfig.editorconfig
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\06.ConditionalStatementsAdvanced-Exercise\04.FishBoat\obj\Debug\netcoreapp3.1\04.FishBoat.AssemblyInfoInputs.cache
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\06.ConditionalStatementsAdvanced-Exercise\04.FishBoat\obj\Debug\netcoreapp3.1\04.FishBoat.AssemblyInfo.cs
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\06.ConditionalStatementsAdvanced-Exercise\04.FishBoat\obj\Debug\netcoreapp3.1\04.FishBoat.csproj.CoreCompileInputs.cache
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\06.ConditionalStatementsAdvanced-Exercise\04.FishBoat\obj\Debug\netcoreapp3.1\04.FishBoat.dll
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\06.ConditionalStatementsAdvanced-Exercise\04.FishBoat\obj\Debug\netcoreapp3.1\04.FishBoat.pdb
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\06.ConditionalStatementsAdvanced-Exercise\04.FishBoat\obj\Debug\netcoreapp3.1\04.FishBoat.genruntimeconfig.cache

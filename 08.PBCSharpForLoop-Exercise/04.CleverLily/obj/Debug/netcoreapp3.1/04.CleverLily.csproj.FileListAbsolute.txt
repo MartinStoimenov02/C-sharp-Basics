@@ -1,0 +1,14 @@
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\08.PBCSharpForLoop-Exercise\04.CleverLily\obj\Debug\netcoreapp3.1\04.CleverLily.csproj.AssemblyReference.cache
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\08.PBCSharpForLoop-Exercise\04.CleverLily\obj\Debug\netcoreapp3.1\04.CleverLily.GeneratedMSBuildEditorConfig.editorconfig
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\08.PBCSharpForLoop-Exercise\04.CleverLily\obj\Debug\netcoreapp3.1\04.CleverLily.AssemblyInfoInputs.cache
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\08.PBCSharpForLoop-Exercise\04.CleverLily\obj\Debug\netcoreapp3.1\04.CleverLily.AssemblyInfo.cs
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\08.PBCSharpForLoop-Exercise\04.CleverLily\obj\Debug\netcoreapp3.1\04.CleverLily.csproj.CoreCompileInputs.cache
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\08.PBCSharpForLoop-Exercise\04.CleverLily\bin\Debug\netcoreapp3.1\04.CleverLily.exe
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\08.PBCSharpForLoop-Exercise\04.CleverLily\bin\Debug\netcoreapp3.1\04.CleverLily.deps.json
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\08.PBCSharpForLoop-Exercise\04.CleverLily\bin\Debug\netcoreapp3.1\04.CleverLily.runtimeconfig.json
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\08.PBCSharpForLoop-Exercise\04.CleverLily\bin\Debug\netcoreapp3.1\04.CleverLily.runtimeconfig.dev.json
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\08.PBCSharpForLoop-Exercise\04.CleverLily\bin\Debug\netcoreapp3.1\04.CleverLily.dll
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\08.PBCSharpForLoop-Exercise\04.CleverLily\bin\Debug\netcoreapp3.1\04.CleverLily.pdb
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\08.PBCSharpForLoop-Exercise\04.CleverLily\obj\Debug\netcoreapp3.1\04.CleverLily.dll
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\08.PBCSharpForLoop-Exercise\04.CleverLily\obj\Debug\netcoreapp3.1\04.CleverLily.pdb
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\08.PBCSharpForLoop-Exercise\04.CleverLily\obj\Debug\netcoreapp3.1\04.CleverLily.genruntimeconfig.cache

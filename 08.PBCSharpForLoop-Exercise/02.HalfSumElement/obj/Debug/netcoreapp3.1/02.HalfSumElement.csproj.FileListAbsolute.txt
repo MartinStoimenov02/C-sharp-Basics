@@ -1,0 +1,14 @@
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\08.PBCSharpForLoop-Exercise\02.HalfSumElement\bin\Debug\netcoreapp3.1\02.HalfSumElement.exe
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\08.PBCSharpForLoop-Exercise\02.HalfSumElement\bin\Debug\netcoreapp3.1\02.HalfSumElement.deps.json
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\08.PBCSharpForLoop-Exercise\02.HalfSumElement\bin\Debug\netcoreapp3.1\02.HalfSumElement.runtimeconfig.json
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\08.PBCSharpForLoop-Exercise\02.HalfSumElement\bin\Debug\netcoreapp3.1\02.HalfSumElement.runtimeconfig.dev.json
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\08.PBCSharpForLoop-Exercise\02.HalfSumElement\bin\Debug\netcoreapp3.1\02.HalfSumElement.dll
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\08.PBCSharpForLoop-Exercise\02.HalfSumElement\bin\Debug\netcoreapp3.1\02.HalfSumElement.pdb
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\08.PBCSharpForLoop-Exercise\02.HalfSumElement\obj\Debug\netcoreapp3.1\02.HalfSumElement.csproj.AssemblyReference.cache
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\08.PBCSharpForLoop-Exercise\02.HalfSumElement\obj\Debug\netcoreapp3.1\02.HalfSumElement.GeneratedMSBuildEditorConfig.editorconfig
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\08.PBCSharpForLoop-Exercise\02.HalfSumElement\obj\Debug\netcoreapp3.1\02.HalfSumElement.AssemblyInfoInputs.cache
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\08.PBCSharpForLoop-Exercise\02.HalfSumElement\obj\Debug\netcoreapp3.1\02.HalfSumElement.AssemblyInfo.cs
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\08.PBCSharpForLoop-Exercise\02.HalfSumElement\obj\Debug\netcoreapp3.1\02.HalfSumElement.csproj.CoreCompileInputs.cache
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\08.PBCSharpForLoop-Exercise\02.HalfSumElement\obj\Debug\netcoreapp3.1\02.HalfSumElement.dll
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\08.PBCSharpForLoop-Exercise\02.HalfSumElement\obj\Debug\netcoreapp3.1\02.HalfSumElement.pdb
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\08.PBCSharpForLoop-Exercise\02.HalfSumElement\obj\Debug\netcoreapp3.1\02.HalfSumElement.genruntimeconfig.cache

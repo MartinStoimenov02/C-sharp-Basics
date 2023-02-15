@@ -1,0 +1,14 @@
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\06.ConditionalStatementsAdvanced-Exercise\09.SkiHoliday\bin\Debug\netcoreapp3.1\09.SkiHoliday.exe
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\06.ConditionalStatementsAdvanced-Exercise\09.SkiHoliday\bin\Debug\netcoreapp3.1\09.SkiHoliday.deps.json
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\06.ConditionalStatementsAdvanced-Exercise\09.SkiHoliday\bin\Debug\netcoreapp3.1\09.SkiHoliday.runtimeconfig.json
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\06.ConditionalStatementsAdvanced-Exercise\09.SkiHoliday\bin\Debug\netcoreapp3.1\09.SkiHoliday.runtimeconfig.dev.json
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\06.ConditionalStatementsAdvanced-Exercise\09.SkiHoliday\bin\Debug\netcoreapp3.1\09.SkiHoliday.dll
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\06.ConditionalStatementsAdvanced-Exercise\09.SkiHoliday\bin\Debug\netcoreapp3.1\09.SkiHoliday.pdb
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\06.ConditionalStatementsAdvanced-Exercise\09.SkiHoliday\obj\Debug\netcoreapp3.1\09.SkiHoliday.csproj.AssemblyReference.cache
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\06.ConditionalStatementsAdvanced-Exercise\09.SkiHoliday\obj\Debug\netcoreapp3.1\09.SkiHoliday.GeneratedMSBuildEditorConfig.editorconfig
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\06.ConditionalStatementsAdvanced-Exercise\09.SkiHoliday\obj\Debug\netcoreapp3.1\09.SkiHoliday.AssemblyInfoInputs.cache
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\06.ConditionalStatementsAdvanced-Exercise\09.SkiHoliday\obj\Debug\netcoreapp3.1\09.SkiHoliday.AssemblyInfo.cs
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\06.ConditionalStatementsAdvanced-Exercise\09.SkiHoliday\obj\Debug\netcoreapp3.1\09.SkiHoliday.csproj.CoreCompileInputs.cache
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\06.ConditionalStatementsAdvanced-Exercise\09.SkiHoliday\obj\Debug\netcoreapp3.1\09.SkiHoliday.dll
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\06.ConditionalStatementsAdvanced-Exercise\09.SkiHoliday\obj\Debug\netcoreapp3.1\09.SkiHoliday.pdb
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\06.ConditionalStatementsAdvanced-Exercise\09.SkiHoliday\obj\Debug\netcoreapp3.1\09.SkiHoliday.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\04.ConditionalStatements-Exercise\03.TimePlus15Minutes\bin\Debug\netcoreapp3.1\03.TimePlus15Minutes.exe
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\04.ConditionalStatements-Exercise\03.TimePlus15Minutes\bin\Debug\netcoreapp3.1\03.TimePlus15Minutes.deps.json
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\04.ConditionalStatements-Exercise\03.TimePlus15Minutes\bin\Debug\netcoreapp3.1\03.TimePlus15Minutes.runtimeconfig.json
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\04.ConditionalStatements-Exercise\03.TimePlus15Minutes\bin\Debug\netcoreapp3.1\03.TimePlus15Minutes.runtimeconfig.dev.json
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\04.ConditionalStatements-Exercise\03.TimePlus15Minutes\bin\Debug\netcoreapp3.1\03.TimePlus15Minutes.dll
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\04.ConditionalStatements-Exercise\03.TimePlus15Minutes\bin\Debug\netcoreapp3.1\03.TimePlus15Minutes.pdb
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\04.ConditionalStatements-Exercise\03.TimePlus15Minutes\obj\Debug\netcoreapp3.1\03.TimePlus15Minutes.csproj.AssemblyReference.cache
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\04.ConditionalStatements-Exercise\03.TimePlus15Minutes\obj\Debug\netcoreapp3.1\03.TimePlus15Minutes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\04.ConditionalStatements-Exercise\03.TimePlus15Minutes\obj\Debug\netcoreapp3.1\03.TimePlus15Minutes.AssemblyInfoInputs.cache
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\04.ConditionalStatements-Exercise\03.TimePlus15Minutes\obj\Debug\netcoreapp3.1\03.TimePlus15Minutes.AssemblyInfo.cs
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\04.ConditionalStatements-Exercise\03.TimePlus15Minutes\obj\Debug\netcoreapp3.1\03.TimePlus15Minutes.csproj.CoreCompileInputs.cache
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\04.ConditionalStatements-Exercise\03.TimePlus15Minutes\obj\Debug\netcoreapp3.1\03.TimePlus15Minutes.dll
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\04.ConditionalStatements-Exercise\03.TimePlus15Minutes\obj\Debug\netcoreapp3.1\03.TimePlus15Minutes.pdb
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\04.ConditionalStatements-Exercise\03.TimePlus15Minutes\obj\Debug\netcoreapp3.1\03.TimePlus15Minutes.genruntimeconfig.cache

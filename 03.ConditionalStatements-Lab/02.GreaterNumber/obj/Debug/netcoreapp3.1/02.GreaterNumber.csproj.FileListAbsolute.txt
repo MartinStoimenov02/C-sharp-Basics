@@ -1,0 +1,14 @@
+D:\Moi_raboti\Mои работи\Документи\СофтУни\1. откриване на курса-първи стъпки\HW-05.02\03.ConditionalStatements-Lab\02.GreaterNumber\bin\Debug\netcoreapp3.1\02.GreaterNumber.exe
+D:\Moi_raboti\Mои работи\Документи\СофтУни\1. откриване на курса-първи стъпки\HW-05.02\03.ConditionalStatements-Lab\02.GreaterNumber\bin\Debug\netcoreapp3.1\02.GreaterNumber.deps.json
+D:\Moi_raboti\Mои работи\Документи\СофтУни\1. откриване на курса-първи стъпки\HW-05.02\03.ConditionalStatements-Lab\02.GreaterNumber\bin\Debug\netcoreapp3.1\02.GreaterNumber.runtimeconfig.json
+D:\Moi_raboti\Mои работи\Документи\СофтУни\1. откриване на курса-първи стъпки\HW-05.02\03.ConditionalStatements-Lab\02.GreaterNumber\bin\Debug\netcoreapp3.1\02.GreaterNumber.runtimeconfig.dev.json
+D:\Moi_raboti\Mои работи\Документи\СофтУни\1. откриване на курса-първи стъпки\HW-05.02\03.ConditionalStatements-Lab\02.GreaterNumber\bin\Debug\netcoreapp3.1\02.GreaterNumber.dll
+D:\Moi_raboti\Mои работи\Документи\СофтУни\1. откриване на курса-първи стъпки\HW-05.02\03.ConditionalStatements-Lab\02.GreaterNumber\bin\Debug\netcoreapp3.1\02.GreaterNumber.pdb
+D:\Moi_raboti\Mои работи\Документи\СофтУни\1. откриване на курса-първи стъпки\HW-05.02\03.ConditionalStatements-Lab\02.GreaterNumber\obj\Debug\netcoreapp3.1\02.GreaterNumber.csproj.AssemblyReference.cache
+D:\Moi_raboti\Mои работи\Документи\СофтУни\1. откриване на курса-първи стъпки\HW-05.02\03.ConditionalStatements-Lab\02.GreaterNumber\obj\Debug\netcoreapp3.1\02.GreaterNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\Moi_raboti\Mои работи\Документи\СофтУни\1. откриване на курса-първи стъпки\HW-05.02\03.ConditionalStatements-Lab\02.GreaterNumber\obj\Debug\netcoreapp3.1\02.GreaterNumber.AssemblyInfoInputs.cache
+D:\Moi_raboti\Mои работи\Документи\СофтУни\1. откриване на курса-първи стъпки\HW-05.02\03.ConditionalStatements-Lab\02.GreaterNumber\obj\Debug\netcoreapp3.1\02.GreaterNumber.AssemblyInfo.cs
+D:\Moi_raboti\Mои работи\Документи\СофтУни\1. откриване на курса-първи стъпки\HW-05.02\03.ConditionalStatements-Lab\02.GreaterNumber\obj\Debug\netcoreapp3.1\02.GreaterNumber.csproj.CoreCompileInputs.cache
+D:\Moi_raboti\Mои работи\Документи\СофтУни\1. откриване на курса-първи стъпки\HW-05.02\03.ConditionalStatements-Lab\02.GreaterNumber\obj\Debug\netcoreapp3.1\02.GreaterNumber.dll
+D:\Moi_raboti\Mои работи\Документи\СофтУни\1. откриване на курса-първи стъпки\HW-05.02\03.ConditionalStatements-Lab\02.GreaterNumber\obj\Debug\netcoreapp3.1\02.GreaterNumber.pdb
+D:\Moi_raboti\Mои работи\Документи\СофтУни\1. откриване на курса-първи стъпки\HW-05.02\03.ConditionalStatements-Lab\02.GreaterNumber\obj\Debug\netcoreapp3.1\02.GreaterNumber.genruntimeconfig.cache

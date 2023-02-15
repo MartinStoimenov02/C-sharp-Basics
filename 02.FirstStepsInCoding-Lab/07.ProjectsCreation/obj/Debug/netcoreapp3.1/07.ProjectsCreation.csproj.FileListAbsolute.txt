@@ -1,0 +1,14 @@
+D:\Moi_raboti\Mои работи\Документи\СофтУни\1. откриване на курса-първи стъпки\HW-04.02\01.FirstStepsInCoding-Lab\07.ProjectsCreation\bin\Debug\netcoreapp3.1\07.ProjectsCreation.exe
+D:\Moi_raboti\Mои работи\Документи\СофтУни\1. откриване на курса-първи стъпки\HW-04.02\01.FirstStepsInCoding-Lab\07.ProjectsCreation\bin\Debug\netcoreapp3.1\07.ProjectsCreation.deps.json
+D:\Moi_raboti\Mои работи\Документи\СофтУни\1. откриване на курса-първи стъпки\HW-04.02\01.FirstStepsInCoding-Lab\07.ProjectsCreation\bin\Debug\netcoreapp3.1\07.ProjectsCreation.runtimeconfig.json
+D:\Moi_raboti\Mои работи\Документи\СофтУни\1. откриване на курса-първи стъпки\HW-04.02\01.FirstStepsInCoding-Lab\07.ProjectsCreation\bin\Debug\netcoreapp3.1\07.ProjectsCreation.runtimeconfig.dev.json
+D:\Moi_raboti\Mои работи\Документи\СофтУни\1. откриване на курса-първи стъпки\HW-04.02\01.FirstStepsInCoding-Lab\07.ProjectsCreation\bin\Debug\netcoreapp3.1\07.ProjectsCreation.dll
+D:\Moi_raboti\Mои работи\Документи\СофтУни\1. откриване на курса-първи стъпки\HW-04.02\01.FirstStepsInCoding-Lab\07.ProjectsCreation\bin\Debug\netcoreapp3.1\07.ProjectsCreation.pdb
+D:\Moi_raboti\Mои работи\Документи\СофтУни\1. откриване на курса-първи стъпки\HW-04.02\01.FirstStepsInCoding-Lab\07.ProjectsCreation\obj\Debug\netcoreapp3.1\07.ProjectsCreation.csproj.AssemblyReference.cache
+D:\Moi_raboti\Mои работи\Документи\СофтУни\1. откриване на курса-първи стъпки\HW-04.02\01.FirstStepsInCoding-Lab\07.ProjectsCreation\obj\Debug\netcoreapp3.1\07.ProjectsCreation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Moi_raboti\Mои работи\Документи\СофтУни\1. откриване на курса-първи стъпки\HW-04.02\01.FirstStepsInCoding-Lab\07.ProjectsCreation\obj\Debug\netcoreapp3.1\07.ProjectsCreation.AssemblyInfoInputs.cache
+D:\Moi_raboti\Mои работи\Документи\СофтУни\1. откриване на курса-първи стъпки\HW-04.02\01.FirstStepsInCoding-Lab\07.ProjectsCreation\obj\Debug\netcoreapp3.1\07.ProjectsCreation.AssemblyInfo.cs
+D:\Moi_raboti\Mои работи\Документи\СофтУни\1. откриване на курса-първи стъпки\HW-04.02\01.FirstStepsInCoding-Lab\07.ProjectsCreation\obj\Debug\netcoreapp3.1\07.ProjectsCreation.csproj.CoreCompileInputs.cache
+D:\Moi_raboti\Mои работи\Документи\СофтУни\1. откриване на курса-първи стъпки\HW-04.02\01.FirstStepsInCoding-Lab\07.ProjectsCreation\obj\Debug\netcoreapp3.1\07.ProjectsCreation.dll
+D:\Moi_raboti\Mои работи\Документи\СофтУни\1. откриване на курса-първи стъпки\HW-04.02\01.FirstStepsInCoding-Lab\07.ProjectsCreation\obj\Debug\netcoreapp3.1\07.ProjectsCreation.pdb
+D:\Moi_raboti\Mои работи\Документи\СофтУни\1. откриване на курса-първи стъпки\HW-04.02\01.FirstStepsInCoding-Lab\07.ProjectsCreation\obj\Debug\netcoreapp3.1\07.ProjectsCreation.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+D:\Moi_raboti\Mои работи\Документи\СофтУни\1. откриване на курса-първи стъпки\HW-04.02\01.FirstStepsInCoding-Lab\06.ConcatenateData\bin\Debug\netcoreapp3.1\06.ConcatenateData.exe
+D:\Moi_raboti\Mои работи\Документи\СофтУни\1. откриване на курса-първи стъпки\HW-04.02\01.FirstStepsInCoding-Lab\06.ConcatenateData\bin\Debug\netcoreapp3.1\06.ConcatenateData.deps.json
+D:\Moi_raboti\Mои работи\Документи\СофтУни\1. откриване на курса-първи стъпки\HW-04.02\01.FirstStepsInCoding-Lab\06.ConcatenateData\bin\Debug\netcoreapp3.1\06.ConcatenateData.runtimeconfig.json
+D:\Moi_raboti\Mои работи\Документи\СофтУни\1. откриване на курса-първи стъпки\HW-04.02\01.FirstStepsInCoding-Lab\06.ConcatenateData\bin\Debug\netcoreapp3.1\06.ConcatenateData.runtimeconfig.dev.json
+D:\Moi_raboti\Mои работи\Документи\СофтУни\1. откриване на курса-първи стъпки\HW-04.02\01.FirstStepsInCoding-Lab\06.ConcatenateData\bin\Debug\netcoreapp3.1\06.ConcatenateData.dll
+D:\Moi_raboti\Mои работи\Документи\СофтУни\1. откриване на курса-първи стъпки\HW-04.02\01.FirstStepsInCoding-Lab\06.ConcatenateData\bin\Debug\netcoreapp3.1\06.ConcatenateData.pdb
+D:\Moi_raboti\Mои работи\Документи\СофтУни\1. откриване на курса-първи стъпки\HW-04.02\01.FirstStepsInCoding-Lab\06.ConcatenateData\obj\Debug\netcoreapp3.1\06.ConcatenateData.csproj.AssemblyReference.cache
+D:\Moi_raboti\Mои работи\Документи\СофтУни\1. откриване на курса-първи стъпки\HW-04.02\01.FirstStepsInCoding-Lab\06.ConcatenateData\obj\Debug\netcoreapp3.1\06.ConcatenateData.GeneratedMSBuildEditorConfig.editorconfig
+D:\Moi_raboti\Mои работи\Документи\СофтУни\1. откриване на курса-първи стъпки\HW-04.02\01.FirstStepsInCoding-Lab\06.ConcatenateData\obj\Debug\netcoreapp3.1\06.ConcatenateData.AssemblyInfoInputs.cache
+D:\Moi_raboti\Mои работи\Документи\СофтУни\1. откриване на курса-първи стъпки\HW-04.02\01.FirstStepsInCoding-Lab\06.ConcatenateData\obj\Debug\netcoreapp3.1\06.ConcatenateData.AssemblyInfo.cs
+D:\Moi_raboti\Mои работи\Документи\СофтУни\1. откриване на курса-първи стъпки\HW-04.02\01.FirstStepsInCoding-Lab\06.ConcatenateData\obj\Debug\netcoreapp3.1\06.ConcatenateData.csproj.CoreCompileInputs.cache
+D:\Moi_raboti\Mои работи\Документи\СофтУни\1. откриване на курса-първи стъпки\HW-04.02\01.FirstStepsInCoding-Lab\06.ConcatenateData\obj\Debug\netcoreapp3.1\06.ConcatenateData.dll
+D:\Moi_raboti\Mои работи\Документи\СофтУни\1. откриване на курса-първи стъпки\HW-04.02\01.FirstStepsInCoding-Lab\06.ConcatenateData\obj\Debug\netcoreapp3.1\06.ConcatenateData.pdb
+D:\Moi_raboti\Mои работи\Документи\СофтУни\1. откриване на курса-първи стъпки\HW-04.02\01.FirstStepsInCoding-Lab\06.ConcatenateData\obj\Debug\netcoreapp3.1\06.ConcatenateData.genruntimeconfig.cache

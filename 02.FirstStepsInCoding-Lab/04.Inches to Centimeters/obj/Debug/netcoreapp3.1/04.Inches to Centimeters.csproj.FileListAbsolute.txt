@@ -1,0 +1,14 @@
+D:\Moi_raboti\Mои работи\Документи\СофтУни\1. откриване на курса-първи стъпки\HW-04.02\01.FirstStepsInCoding-Lab\04.Inches to Centimeters\bin\Debug\netcoreapp3.1\04.Inches to Centimeters.exe
+D:\Moi_raboti\Mои работи\Документи\СофтУни\1. откриване на курса-първи стъпки\HW-04.02\01.FirstStepsInCoding-Lab\04.Inches to Centimeters\bin\Debug\netcoreapp3.1\04.Inches to Centimeters.deps.json
+D:\Moi_raboti\Mои работи\Документи\СофтУни\1. откриване на курса-първи стъпки\HW-04.02\01.FirstStepsInCoding-Lab\04.Inches to Centimeters\bin\Debug\netcoreapp3.1\04.Inches to Centimeters.runtimeconfig.json
+D:\Moi_raboti\Mои работи\Документи\СофтУни\1. откриване на курса-първи стъпки\HW-04.02\01.FirstStepsInCoding-Lab\04.Inches to Centimeters\bin\Debug\netcoreapp3.1\04.Inches to Centimeters.runtimeconfig.dev.json
+D:\Moi_raboti\Mои работи\Документи\СофтУни\1. откриване на курса-първи стъпки\HW-04.02\01.FirstStepsInCoding-Lab\04.Inches to Centimeters\bin\Debug\netcoreapp3.1\04.Inches to Centimeters.dll
+D:\Moi_raboti\Mои работи\Документи\СофтУни\1. откриване на курса-първи стъпки\HW-04.02\01.FirstStepsInCoding-Lab\04.Inches to Centimeters\bin\Debug\netcoreapp3.1\04.Inches to Centimeters.pdb
+D:\Moi_raboti\Mои работи\Документи\СофтУни\1. откриване на курса-първи стъпки\HW-04.02\01.FirstStepsInCoding-Lab\04.Inches to Centimeters\obj\Debug\netcoreapp3.1\04.Inches to Centimeters.csproj.AssemblyReference.cache
+D:\Moi_raboti\Mои работи\Документи\СофтУни\1. откриване на курса-първи стъпки\HW-04.02\01.FirstStepsInCoding-Lab\04.Inches to Centimeters\obj\Debug\netcoreapp3.1\04.Inches to Centimeters.GeneratedMSBuildEditorConfig.editorconfig
+D:\Moi_raboti\Mои работи\Документи\СофтУни\1. откриване на курса-първи стъпки\HW-04.02\01.FirstStepsInCoding-Lab\04.Inches to Centimeters\obj\Debug\netcoreapp3.1\04.Inches to Centimeters.AssemblyInfoInputs.cache
+D:\Moi_raboti\Mои работи\Документи\СофтУни\1. откриване на курса-първи стъпки\HW-04.02\01.FirstStepsInCoding-Lab\04.Inches to Centimeters\obj\Debug\netcoreapp3.1\04.Inches to Centimeters.AssemblyInfo.cs
+D:\Moi_raboti\Mои работи\Документи\СофтУни\1. откриване на курса-първи стъпки\HW-04.02\01.FirstStepsInCoding-Lab\04.Inches to Centimeters\obj\Debug\netcoreapp3.1\04.Inches to Centimeters.csproj.CoreCompileInputs.cache
+D:\Moi_raboti\Mои работи\Документи\СофтУни\1. откриване на курса-първи стъпки\HW-04.02\01.FirstStepsInCoding-Lab\04.Inches to Centimeters\obj\Debug\netcoreapp3.1\04.Inches to Centimeters.dll
+D:\Moi_raboti\Mои работи\Документи\СофтУни\1. откриване на курса-първи стъпки\HW-04.02\01.FirstStepsInCoding-Lab\04.Inches to Centimeters\obj\Debug\netcoreapp3.1\04.Inches to Centimeters.pdb
+D:\Moi_raboti\Mои работи\Документи\СофтУни\1. откриване на курса-първи стъпки\HW-04.02\01.FirstStepsInCoding-Lab\04.Inches to Centimeters\obj\Debug\netcoreapp3.1\04.Inches to Centimeters.genruntimeconfig.cache

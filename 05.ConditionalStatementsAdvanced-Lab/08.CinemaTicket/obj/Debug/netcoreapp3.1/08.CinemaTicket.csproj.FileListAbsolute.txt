@@ -1,0 +1,14 @@
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\05.ConditionalStatementsAdvanced-Lab\08.CinemaTicket\bin\Debug\netcoreapp3.1\08.CinemaTicket.exe
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\05.ConditionalStatementsAdvanced-Lab\08.CinemaTicket\bin\Debug\netcoreapp3.1\08.CinemaTicket.deps.json
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\05.ConditionalStatementsAdvanced-Lab\08.CinemaTicket\bin\Debug\netcoreapp3.1\08.CinemaTicket.runtimeconfig.json
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\05.ConditionalStatementsAdvanced-Lab\08.CinemaTicket\bin\Debug\netcoreapp3.1\08.CinemaTicket.runtimeconfig.dev.json
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\05.ConditionalStatementsAdvanced-Lab\08.CinemaTicket\bin\Debug\netcoreapp3.1\08.CinemaTicket.dll
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\05.ConditionalStatementsAdvanced-Lab\08.CinemaTicket\bin\Debug\netcoreapp3.1\08.CinemaTicket.pdb
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\05.ConditionalStatementsAdvanced-Lab\08.CinemaTicket\obj\Debug\netcoreapp3.1\08.CinemaTicket.csproj.AssemblyReference.cache
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\05.ConditionalStatementsAdvanced-Lab\08.CinemaTicket\obj\Debug\netcoreapp3.1\08.CinemaTicket.GeneratedMSBuildEditorConfig.editorconfig
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\05.ConditionalStatementsAdvanced-Lab\08.CinemaTicket\obj\Debug\netcoreapp3.1\08.CinemaTicket.AssemblyInfoInputs.cache
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\05.ConditionalStatementsAdvanced-Lab\08.CinemaTicket\obj\Debug\netcoreapp3.1\08.CinemaTicket.AssemblyInfo.cs
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\05.ConditionalStatementsAdvanced-Lab\08.CinemaTicket\obj\Debug\netcoreapp3.1\08.CinemaTicket.csproj.CoreCompileInputs.cache
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\05.ConditionalStatementsAdvanced-Lab\08.CinemaTicket\obj\Debug\netcoreapp3.1\08.CinemaTicket.dll
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\05.ConditionalStatementsAdvanced-Lab\08.CinemaTicket\obj\Debug\netcoreapp3.1\08.CinemaTicket.pdb
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\05.ConditionalStatementsAdvanced-Lab\08.CinemaTicket\obj\Debug\netcoreapp3.1\08.CinemaTicket.genruntimeconfig.cache

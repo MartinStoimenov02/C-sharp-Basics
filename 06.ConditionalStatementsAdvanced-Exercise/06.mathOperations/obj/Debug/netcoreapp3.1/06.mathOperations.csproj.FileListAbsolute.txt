@@ -1,0 +1,14 @@
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\06.ConditionalStatementsAdvanced-Exercise\06.mathOperations\bin\Debug\netcoreapp3.1\06.mathOperations.exe
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\06.ConditionalStatementsAdvanced-Exercise\06.mathOperations\bin\Debug\netcoreapp3.1\06.mathOperations.deps.json
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\06.ConditionalStatementsAdvanced-Exercise\06.mathOperations\bin\Debug\netcoreapp3.1\06.mathOperations.runtimeconfig.json
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\06.ConditionalStatementsAdvanced-Exercise\06.mathOperations\bin\Debug\netcoreapp3.1\06.mathOperations.runtimeconfig.dev.json
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\06.ConditionalStatementsAdvanced-Exercise\06.mathOperations\bin\Debug\netcoreapp3.1\06.mathOperations.dll
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\06.ConditionalStatementsAdvanced-Exercise\06.mathOperations\bin\Debug\netcoreapp3.1\06.mathOperations.pdb
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\06.ConditionalStatementsAdvanced-Exercise\06.mathOperations\obj\Debug\netcoreapp3.1\06.mathOperations.csproj.AssemblyReference.cache
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\06.ConditionalStatementsAdvanced-Exercise\06.mathOperations\obj\Debug\netcoreapp3.1\06.mathOperations.GeneratedMSBuildEditorConfig.editorconfig
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\06.ConditionalStatementsAdvanced-Exercise\06.mathOperations\obj\Debug\netcoreapp3.1\06.mathOperations.AssemblyInfoInputs.cache
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\06.ConditionalStatementsAdvanced-Exercise\06.mathOperations\obj\Debug\netcoreapp3.1\06.mathOperations.AssemblyInfo.cs
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\06.ConditionalStatementsAdvanced-Exercise\06.mathOperations\obj\Debug\netcoreapp3.1\06.mathOperations.csproj.CoreCompileInputs.cache
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\06.ConditionalStatementsAdvanced-Exercise\06.mathOperations\obj\Debug\netcoreapp3.1\06.mathOperations.dll
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\06.ConditionalStatementsAdvanced-Exercise\06.mathOperations\obj\Debug\netcoreapp3.1\06.mathOperations.pdb
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\06.ConditionalStatementsAdvanced-Exercise\06.mathOperations\obj\Debug\netcoreapp3.1\06.mathOperations.genruntimeconfig.cache

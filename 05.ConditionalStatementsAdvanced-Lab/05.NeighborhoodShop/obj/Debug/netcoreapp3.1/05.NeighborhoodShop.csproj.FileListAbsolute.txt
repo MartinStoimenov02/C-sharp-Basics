@@ -1,0 +1,14 @@
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\05.ConditionalStatementsAdvanced-Lab\05.NeighborhoodShop\bin\Debug\netcoreapp3.1\05.NeighborhoodShop.exe
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\05.ConditionalStatementsAdvanced-Lab\05.NeighborhoodShop\bin\Debug\netcoreapp3.1\05.NeighborhoodShop.deps.json
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\05.ConditionalStatementsAdvanced-Lab\05.NeighborhoodShop\bin\Debug\netcoreapp3.1\05.NeighborhoodShop.runtimeconfig.json
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\05.ConditionalStatementsAdvanced-Lab\05.NeighborhoodShop\bin\Debug\netcoreapp3.1\05.NeighborhoodShop.runtimeconfig.dev.json
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\05.ConditionalStatementsAdvanced-Lab\05.NeighborhoodShop\bin\Debug\netcoreapp3.1\05.NeighborhoodShop.dll
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\05.ConditionalStatementsAdvanced-Lab\05.NeighborhoodShop\bin\Debug\netcoreapp3.1\05.NeighborhoodShop.pdb
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\05.ConditionalStatementsAdvanced-Lab\05.NeighborhoodShop\obj\Debug\netcoreapp3.1\05.NeighborhoodShop.csproj.AssemblyReference.cache
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\05.ConditionalStatementsAdvanced-Lab\05.NeighborhoodShop\obj\Debug\netcoreapp3.1\05.NeighborhoodShop.GeneratedMSBuildEditorConfig.editorconfig
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\05.ConditionalStatementsAdvanced-Lab\05.NeighborhoodShop\obj\Debug\netcoreapp3.1\05.NeighborhoodShop.AssemblyInfoInputs.cache
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\05.ConditionalStatementsAdvanced-Lab\05.NeighborhoodShop\obj\Debug\netcoreapp3.1\05.NeighborhoodShop.AssemblyInfo.cs
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\05.ConditionalStatementsAdvanced-Lab\05.NeighborhoodShop\obj\Debug\netcoreapp3.1\05.NeighborhoodShop.csproj.CoreCompileInputs.cache
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\05.ConditionalStatementsAdvanced-Lab\05.NeighborhoodShop\obj\Debug\netcoreapp3.1\05.NeighborhoodShop.dll
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\05.ConditionalStatementsAdvanced-Lab\05.NeighborhoodShop\obj\Debug\netcoreapp3.1\05.NeighborhoodShop.pdb
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\05.ConditionalStatementsAdvanced-Lab\05.NeighborhoodShop\obj\Debug\netcoreapp3.1\05.NeighborhoodShop.genruntimeconfig.cache

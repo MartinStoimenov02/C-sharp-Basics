@@ -1,0 +1,14 @@
+D:\Moi_raboti\Mои работи\Документи\СофтУни\1. откриване на курса-първи стъпки\HW-05.02\03.ConditionalStatements-Lab\01.ExcellentResult\bin\Debug\netcoreapp3.1\01.ExcellentResult.exe
+D:\Moi_raboti\Mои работи\Документи\СофтУни\1. откриване на курса-първи стъпки\HW-05.02\03.ConditionalStatements-Lab\01.ExcellentResult\bin\Debug\netcoreapp3.1\01.ExcellentResult.deps.json
+D:\Moi_raboti\Mои работи\Документи\СофтУни\1. откриване на курса-първи стъпки\HW-05.02\03.ConditionalStatements-Lab\01.ExcellentResult\bin\Debug\netcoreapp3.1\01.ExcellentResult.runtimeconfig.json
+D:\Moi_raboti\Mои работи\Документи\СофтУни\1. откриване на курса-първи стъпки\HW-05.02\03.ConditionalStatements-Lab\01.ExcellentResult\bin\Debug\netcoreapp3.1\01.ExcellentResult.runtimeconfig.dev.json
+D:\Moi_raboti\Mои работи\Документи\СофтУни\1. откриване на курса-първи стъпки\HW-05.02\03.ConditionalStatements-Lab\01.ExcellentResult\bin\Debug\netcoreapp3.1\01.ExcellentResult.dll
+D:\Moi_raboti\Mои работи\Документи\СофтУни\1. откриване на курса-първи стъпки\HW-05.02\03.ConditionalStatements-Lab\01.ExcellentResult\bin\Debug\netcoreapp3.1\01.ExcellentResult.pdb
+D:\Moi_raboti\Mои работи\Документи\СофтУни\1. откриване на курса-първи стъпки\HW-05.02\03.ConditionalStatements-Lab\01.ExcellentResult\obj\Debug\netcoreapp3.1\01.ExcellentResult.csproj.AssemblyReference.cache
+D:\Moi_raboti\Mои работи\Документи\СофтУни\1. откриване на курса-първи стъпки\HW-05.02\03.ConditionalStatements-Lab\01.ExcellentResult\obj\Debug\netcoreapp3.1\01.ExcellentResult.GeneratedMSBuildEditorConfig.editorconfig
+D:\Moi_raboti\Mои работи\Документи\СофтУни\1. откриване на курса-първи стъпки\HW-05.02\03.ConditionalStatements-Lab\01.ExcellentResult\obj\Debug\netcoreapp3.1\01.ExcellentResult.AssemblyInfoInputs.cache
+D:\Moi_raboti\Mои работи\Документи\СофтУни\1. откриване на курса-първи стъпки\HW-05.02\03.ConditionalStatements-Lab\01.ExcellentResult\obj\Debug\netcoreapp3.1\01.ExcellentResult.AssemblyInfo.cs
+D:\Moi_raboti\Mои работи\Документи\СофтУни\1. откриване на курса-първи стъпки\HW-05.02\03.ConditionalStatements-Lab\01.ExcellentResult\obj\Debug\netcoreapp3.1\01.ExcellentResult.csproj.CoreCompileInputs.cache
+D:\Moi_raboti\Mои работи\Документи\СофтУни\1. откриване на курса-първи стъпки\HW-05.02\03.ConditionalStatements-Lab\01.ExcellentResult\obj\Debug\netcoreapp3.1\01.ExcellentResult.dll
+D:\Moi_raboti\Mои работи\Документи\СофтУни\1. откриване на курса-първи стъпки\HW-05.02\03.ConditionalStatements-Lab\01.ExcellentResult\obj\Debug\netcoreapp3.1\01.ExcellentResult.pdb
+D:\Moi_raboti\Mои работи\Документи\СофтУни\1. откриване на курса-първи стъпки\HW-05.02\03.ConditionalStatements-Lab\01.ExcellentResult\obj\Debug\netcoreapp3.1\01.ExcellentResult.genruntimeconfig.cache

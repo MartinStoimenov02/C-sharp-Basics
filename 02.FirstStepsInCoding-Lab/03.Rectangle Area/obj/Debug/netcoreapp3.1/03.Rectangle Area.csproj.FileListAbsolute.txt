@@ -1,0 +1,14 @@
+D:\Moi_raboti\Mои работи\Документи\СофтУни\1. откриване на курса-първи стъпки\HW-04.02\01.FirstStepsInCoding-Lab\03.Rectangle Area\bin\Debug\netcoreapp3.1\03.Rectangle Area.exe
+D:\Moi_raboti\Mои работи\Документи\СофтУни\1. откриване на курса-първи стъпки\HW-04.02\01.FirstStepsInCoding-Lab\03.Rectangle Area\bin\Debug\netcoreapp3.1\03.Rectangle Area.deps.json
+D:\Moi_raboti\Mои работи\Документи\СофтУни\1. откриване на курса-първи стъпки\HW-04.02\01.FirstStepsInCoding-Lab\03.Rectangle Area\bin\Debug\netcoreapp3.1\03.Rectangle Area.runtimeconfig.json
+D:\Moi_raboti\Mои работи\Документи\СофтУни\1. откриване на курса-първи стъпки\HW-04.02\01.FirstStepsInCoding-Lab\03.Rectangle Area\bin\Debug\netcoreapp3.1\03.Rectangle Area.runtimeconfig.dev.json
+D:\Moi_raboti\Mои работи\Документи\СофтУни\1. откриване на курса-първи стъпки\HW-04.02\01.FirstStepsInCoding-Lab\03.Rectangle Area\bin\Debug\netcoreapp3.1\03.Rectangle Area.dll
+D:\Moi_raboti\Mои работи\Документи\СофтУни\1. откриване на курса-първи стъпки\HW-04.02\01.FirstStepsInCoding-Lab\03.Rectangle Area\bin\Debug\netcoreapp3.1\03.Rectangle Area.pdb
+D:\Moi_raboti\Mои работи\Документи\СофтУни\1. откриване на курса-първи стъпки\HW-04.02\01.FirstStepsInCoding-Lab\03.Rectangle Area\obj\Debug\netcoreapp3.1\03.Rectangle Area.csproj.AssemblyReference.cache
+D:\Moi_raboti\Mои работи\Документи\СофтУни\1. откриване на курса-първи стъпки\HW-04.02\01.FirstStepsInCoding-Lab\03.Rectangle Area\obj\Debug\netcoreapp3.1\03.Rectangle Area.GeneratedMSBuildEditorConfig.editorconfig
+D:\Moi_raboti\Mои работи\Документи\СофтУни\1. откриване на курса-първи стъпки\HW-04.02\01.FirstStepsInCoding-Lab\03.Rectangle Area\obj\Debug\netcoreapp3.1\03.Rectangle Area.AssemblyInfoInputs.cache
+D:\Moi_raboti\Mои работи\Документи\СофтУни\1. откриване на курса-първи стъпки\HW-04.02\01.FirstStepsInCoding-Lab\03.Rectangle Area\obj\Debug\netcoreapp3.1\03.Rectangle Area.AssemblyInfo.cs
+D:\Moi_raboti\Mои работи\Документи\СофтУни\1. откриване на курса-първи стъпки\HW-04.02\01.FirstStepsInCoding-Lab\03.Rectangle Area\obj\Debug\netcoreapp3.1\03.Rectangle Area.csproj.CoreCompileInputs.cache
+D:\Moi_raboti\Mои работи\Документи\СофтУни\1. откриване на курса-първи стъпки\HW-04.02\01.FirstStepsInCoding-Lab\03.Rectangle Area\obj\Debug\netcoreapp3.1\03.Rectangle Area.dll
+D:\Moi_raboti\Mои работи\Документи\СофтУни\1. откриване на курса-първи стъпки\HW-04.02\01.FirstStepsInCoding-Lab\03.Rectangle Area\obj\Debug\netcoreapp3.1\03.Rectangle Area.pdb
+D:\Moi_raboti\Mои работи\Документи\СофтУни\1. откриване на курса-първи стъпки\HW-04.02\01.FirstStepsInCoding-Lab\03.Rectangle Area\obj\Debug\netcoreapp3.1\03.Rectangle Area.genruntimeconfig.cache

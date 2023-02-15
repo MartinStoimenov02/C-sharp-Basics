@@ -1,0 +1,14 @@
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\04.PBCSharpForLoop-Lab\07.SumNumber\bin\Debug\netcoreapp3.1\07.SumNumber.exe
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\04.PBCSharpForLoop-Lab\07.SumNumber\bin\Debug\netcoreapp3.1\07.SumNumber.deps.json
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\04.PBCSharpForLoop-Lab\07.SumNumber\bin\Debug\netcoreapp3.1\07.SumNumber.runtimeconfig.json
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\04.PBCSharpForLoop-Lab\07.SumNumber\bin\Debug\netcoreapp3.1\07.SumNumber.runtimeconfig.dev.json
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\04.PBCSharpForLoop-Lab\07.SumNumber\bin\Debug\netcoreapp3.1\07.SumNumber.dll
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\04.PBCSharpForLoop-Lab\07.SumNumber\bin\Debug\netcoreapp3.1\07.SumNumber.pdb
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\04.PBCSharpForLoop-Lab\07.SumNumber\obj\Debug\netcoreapp3.1\07.SumNumber.csproj.AssemblyReference.cache
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\04.PBCSharpForLoop-Lab\07.SumNumber\obj\Debug\netcoreapp3.1\07.SumNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\04.PBCSharpForLoop-Lab\07.SumNumber\obj\Debug\netcoreapp3.1\07.SumNumber.AssemblyInfoInputs.cache
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\04.PBCSharpForLoop-Lab\07.SumNumber\obj\Debug\netcoreapp3.1\07.SumNumber.AssemblyInfo.cs
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\04.PBCSharpForLoop-Lab\07.SumNumber\obj\Debug\netcoreapp3.1\07.SumNumber.csproj.CoreCompileInputs.cache
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\04.PBCSharpForLoop-Lab\07.SumNumber\obj\Debug\netcoreapp3.1\07.SumNumber.dll
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\04.PBCSharpForLoop-Lab\07.SumNumber\obj\Debug\netcoreapp3.1\07.SumNumber.pdb
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\04.PBCSharpForLoop-Lab\07.SumNumber\obj\Debug\netcoreapp3.1\07.SumNumber.genruntimeconfig.cache

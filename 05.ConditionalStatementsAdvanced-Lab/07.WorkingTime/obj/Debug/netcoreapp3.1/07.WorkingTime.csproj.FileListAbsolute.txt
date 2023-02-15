@@ -1,0 +1,14 @@
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\05.ConditionalStatementsAdvanced-Lab\07.WorkingTime\bin\Debug\netcoreapp3.1\07.WorkingTime.exe
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\05.ConditionalStatementsAdvanced-Lab\07.WorkingTime\bin\Debug\netcoreapp3.1\07.WorkingTime.deps.json
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\05.ConditionalStatementsAdvanced-Lab\07.WorkingTime\bin\Debug\netcoreapp3.1\07.WorkingTime.runtimeconfig.json
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\05.ConditionalStatementsAdvanced-Lab\07.WorkingTime\bin\Debug\netcoreapp3.1\07.WorkingTime.runtimeconfig.dev.json
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\05.ConditionalStatementsAdvanced-Lab\07.WorkingTime\bin\Debug\netcoreapp3.1\07.WorkingTime.dll
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\05.ConditionalStatementsAdvanced-Lab\07.WorkingTime\bin\Debug\netcoreapp3.1\07.WorkingTime.pdb
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\05.ConditionalStatementsAdvanced-Lab\07.WorkingTime\obj\Debug\netcoreapp3.1\07.WorkingTime.csproj.AssemblyReference.cache
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\05.ConditionalStatementsAdvanced-Lab\07.WorkingTime\obj\Debug\netcoreapp3.1\07.WorkingTime.GeneratedMSBuildEditorConfig.editorconfig
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\05.ConditionalStatementsAdvanced-Lab\07.WorkingTime\obj\Debug\netcoreapp3.1\07.WorkingTime.AssemblyInfoInputs.cache
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\05.ConditionalStatementsAdvanced-Lab\07.WorkingTime\obj\Debug\netcoreapp3.1\07.WorkingTime.AssemblyInfo.cs
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\05.ConditionalStatementsAdvanced-Lab\07.WorkingTime\obj\Debug\netcoreapp3.1\07.WorkingTime.csproj.CoreCompileInputs.cache
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\05.ConditionalStatementsAdvanced-Lab\07.WorkingTime\obj\Debug\netcoreapp3.1\07.WorkingTime.dll
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\05.ConditionalStatementsAdvanced-Lab\07.WorkingTime\obj\Debug\netcoreapp3.1\07.WorkingTime.pdb
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\05.ConditionalStatementsAdvanced-Lab\07.WorkingTime\obj\Debug\netcoreapp3.1\07.WorkingTime.genruntimeconfig.cache

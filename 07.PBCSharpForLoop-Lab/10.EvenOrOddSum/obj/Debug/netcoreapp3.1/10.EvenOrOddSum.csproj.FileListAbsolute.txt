@@ -1,0 +1,14 @@
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\04.PBCSharpForLoop-Lab\10.EvenOrOddSum\bin\Debug\netcoreapp3.1\10.EvenOrOddSum.exe
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\04.PBCSharpForLoop-Lab\10.EvenOrOddSum\bin\Debug\netcoreapp3.1\10.EvenOrOddSum.deps.json
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\04.PBCSharpForLoop-Lab\10.EvenOrOddSum\bin\Debug\netcoreapp3.1\10.EvenOrOddSum.runtimeconfig.json
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\04.PBCSharpForLoop-Lab\10.EvenOrOddSum\bin\Debug\netcoreapp3.1\10.EvenOrOddSum.runtimeconfig.dev.json
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\04.PBCSharpForLoop-Lab\10.EvenOrOddSum\bin\Debug\netcoreapp3.1\10.EvenOrOddSum.dll
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\04.PBCSharpForLoop-Lab\10.EvenOrOddSum\bin\Debug\netcoreapp3.1\10.EvenOrOddSum.pdb
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\04.PBCSharpForLoop-Lab\10.EvenOrOddSum\obj\Debug\netcoreapp3.1\10.EvenOrOddSum.csproj.AssemblyReference.cache
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\04.PBCSharpForLoop-Lab\10.EvenOrOddSum\obj\Debug\netcoreapp3.1\10.EvenOrOddSum.GeneratedMSBuildEditorConfig.editorconfig
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\04.PBCSharpForLoop-Lab\10.EvenOrOddSum\obj\Debug\netcoreapp3.1\10.EvenOrOddSum.AssemblyInfoInputs.cache
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\04.PBCSharpForLoop-Lab\10.EvenOrOddSum\obj\Debug\netcoreapp3.1\10.EvenOrOddSum.AssemblyInfo.cs
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\04.PBCSharpForLoop-Lab\10.EvenOrOddSum\obj\Debug\netcoreapp3.1\10.EvenOrOddSum.csproj.CoreCompileInputs.cache
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\04.PBCSharpForLoop-Lab\10.EvenOrOddSum\obj\Debug\netcoreapp3.1\10.EvenOrOddSum.dll
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\04.PBCSharpForLoop-Lab\10.EvenOrOddSum\obj\Debug\netcoreapp3.1\10.EvenOrOddSum.pdb
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\04.PBCSharpForLoop-Lab\10.EvenOrOddSum\obj\Debug\netcoreapp3.1\10.EvenOrOddSum.genruntimeconfig.cache

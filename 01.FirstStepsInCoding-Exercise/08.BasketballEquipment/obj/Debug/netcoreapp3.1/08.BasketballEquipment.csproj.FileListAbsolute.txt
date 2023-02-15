@@ -1,0 +1,14 @@
+D:\Moi_raboti\Mои работи\Документи\СофтУни\1. откриване на курса-първи стъпки\HW-05.02\01.FirstStepsInCoding-Exercise\08.BasketballEquipment\bin\Debug\netcoreapp3.1\08.BasketballEquipment.exe
+D:\Moi_raboti\Mои работи\Документи\СофтУни\1. откриване на курса-първи стъпки\HW-05.02\01.FirstStepsInCoding-Exercise\08.BasketballEquipment\bin\Debug\netcoreapp3.1\08.BasketballEquipment.deps.json
+D:\Moi_raboti\Mои работи\Документи\СофтУни\1. откриване на курса-първи стъпки\HW-05.02\01.FirstStepsInCoding-Exercise\08.BasketballEquipment\bin\Debug\netcoreapp3.1\08.BasketballEquipment.runtimeconfig.json
+D:\Moi_raboti\Mои работи\Документи\СофтУни\1. откриване на курса-първи стъпки\HW-05.02\01.FirstStepsInCoding-Exercise\08.BasketballEquipment\bin\Debug\netcoreapp3.1\08.BasketballEquipment.runtimeconfig.dev.json
+D:\Moi_raboti\Mои работи\Документи\СофтУни\1. откриване на курса-първи стъпки\HW-05.02\01.FirstStepsInCoding-Exercise\08.BasketballEquipment\bin\Debug\netcoreapp3.1\08.BasketballEquipment.dll
+D:\Moi_raboti\Mои работи\Документи\СофтУни\1. откриване на курса-първи стъпки\HW-05.02\01.FirstStepsInCoding-Exercise\08.BasketballEquipment\bin\Debug\netcoreapp3.1\08.BasketballEquipment.pdb
+D:\Moi_raboti\Mои работи\Документи\СофтУни\1. откриване на курса-първи стъпки\HW-05.02\01.FirstStepsInCoding-Exercise\08.BasketballEquipment\obj\Debug\netcoreapp3.1\08.BasketballEquipment.csproj.AssemblyReference.cache
+D:\Moi_raboti\Mои работи\Документи\СофтУни\1. откриване на курса-първи стъпки\HW-05.02\01.FirstStepsInCoding-Exercise\08.BasketballEquipment\obj\Debug\netcoreapp3.1\08.BasketballEquipment.GeneratedMSBuildEditorConfig.editorconfig
+D:\Moi_raboti\Mои работи\Документи\СофтУни\1. откриване на курса-първи стъпки\HW-05.02\01.FirstStepsInCoding-Exercise\08.BasketballEquipment\obj\Debug\netcoreapp3.1\08.BasketballEquipment.AssemblyInfoInputs.cache
+D:\Moi_raboti\Mои работи\Документи\СофтУни\1. откриване на курса-първи стъпки\HW-05.02\01.FirstStepsInCoding-Exercise\08.BasketballEquipment\obj\Debug\netcoreapp3.1\08.BasketballEquipment.AssemblyInfo.cs
+D:\Moi_raboti\Mои работи\Документи\СофтУни\1. откриване на курса-първи стъпки\HW-05.02\01.FirstStepsInCoding-Exercise\08.BasketballEquipment\obj\Debug\netcoreapp3.1\08.BasketballEquipment.csproj.CoreCompileInputs.cache
+D:\Moi_raboti\Mои работи\Документи\СофтУни\1. откриване на курса-първи стъпки\HW-05.02\01.FirstStepsInCoding-Exercise\08.BasketballEquipment\obj\Debug\netcoreapp3.1\08.BasketballEquipment.dll
+D:\Moi_raboti\Mои работи\Документи\СофтУни\1. откриване на курса-първи стъпки\HW-05.02\01.FirstStepsInCoding-Exercise\08.BasketballEquipment\obj\Debug\netcoreapp3.1\08.BasketballEquipment.pdb
+D:\Moi_raboti\Mои работи\Документи\СофтУни\1. откриване на курса-първи стъпки\HW-05.02\01.FirstStepsInCoding-Exercise\08.BasketballEquipment\obj\Debug\netcoreapp3.1\08.BasketballEquipment.genruntimeconfig.cache

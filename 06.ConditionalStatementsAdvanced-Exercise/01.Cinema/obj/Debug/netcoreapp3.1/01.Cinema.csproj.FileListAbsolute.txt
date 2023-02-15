@@ -1,0 +1,14 @@
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\06.ConditionalStatementsAdvanced-Exercise\01.Cinema\bin\Debug\netcoreapp3.1\01.Cinema.exe
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\06.ConditionalStatementsAdvanced-Exercise\01.Cinema\bin\Debug\netcoreapp3.1\01.Cinema.deps.json
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\06.ConditionalStatementsAdvanced-Exercise\01.Cinema\bin\Debug\netcoreapp3.1\01.Cinema.runtimeconfig.json
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\06.ConditionalStatementsAdvanced-Exercise\01.Cinema\bin\Debug\netcoreapp3.1\01.Cinema.runtimeconfig.dev.json
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\06.ConditionalStatementsAdvanced-Exercise\01.Cinema\bin\Debug\netcoreapp3.1\01.Cinema.dll
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\06.ConditionalStatementsAdvanced-Exercise\01.Cinema\bin\Debug\netcoreapp3.1\01.Cinema.pdb
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\06.ConditionalStatementsAdvanced-Exercise\01.Cinema\obj\Debug\netcoreapp3.1\01.Cinema.csproj.AssemblyReference.cache
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\06.ConditionalStatementsAdvanced-Exercise\01.Cinema\obj\Debug\netcoreapp3.1\01.Cinema.GeneratedMSBuildEditorConfig.editorconfig
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\06.ConditionalStatementsAdvanced-Exercise\01.Cinema\obj\Debug\netcoreapp3.1\01.Cinema.AssemblyInfoInputs.cache
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\06.ConditionalStatementsAdvanced-Exercise\01.Cinema\obj\Debug\netcoreapp3.1\01.Cinema.AssemblyInfo.cs
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\06.ConditionalStatementsAdvanced-Exercise\01.Cinema\obj\Debug\netcoreapp3.1\01.Cinema.csproj.CoreCompileInputs.cache
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\06.ConditionalStatementsAdvanced-Exercise\01.Cinema\obj\Debug\netcoreapp3.1\01.Cinema.dll
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\06.ConditionalStatementsAdvanced-Exercise\01.Cinema\obj\Debug\netcoreapp3.1\01.Cinema.pdb
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\06.ConditionalStatementsAdvanced-Exercise\01.Cinema\obj\Debug\netcoreapp3.1\01.Cinema.genruntimeconfig.cache

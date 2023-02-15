@@ -1,0 +1,14 @@
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\04.PBCSharpForLoop-Lab\05.StringStream\bin\Debug\netcoreapp3.1\05.StringStream.exe
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\04.PBCSharpForLoop-Lab\05.StringStream\bin\Debug\netcoreapp3.1\05.StringStream.deps.json
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\04.PBCSharpForLoop-Lab\05.StringStream\bin\Debug\netcoreapp3.1\05.StringStream.runtimeconfig.json
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\04.PBCSharpForLoop-Lab\05.StringStream\bin\Debug\netcoreapp3.1\05.StringStream.runtimeconfig.dev.json
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\04.PBCSharpForLoop-Lab\05.StringStream\bin\Debug\netcoreapp3.1\05.StringStream.dll
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\04.PBCSharpForLoop-Lab\05.StringStream\bin\Debug\netcoreapp3.1\05.StringStream.pdb
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\04.PBCSharpForLoop-Lab\05.StringStream\obj\Debug\netcoreapp3.1\05.StringStream.csproj.AssemblyReference.cache
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\04.PBCSharpForLoop-Lab\05.StringStream\obj\Debug\netcoreapp3.1\05.StringStream.GeneratedMSBuildEditorConfig.editorconfig
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\04.PBCSharpForLoop-Lab\05.StringStream\obj\Debug\netcoreapp3.1\05.StringStream.AssemblyInfoInputs.cache
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\04.PBCSharpForLoop-Lab\05.StringStream\obj\Debug\netcoreapp3.1\05.StringStream.AssemblyInfo.cs
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\04.PBCSharpForLoop-Lab\05.StringStream\obj\Debug\netcoreapp3.1\05.StringStream.csproj.CoreCompileInputs.cache
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\04.PBCSharpForLoop-Lab\05.StringStream\obj\Debug\netcoreapp3.1\05.StringStream.dll
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\04.PBCSharpForLoop-Lab\05.StringStream\obj\Debug\netcoreapp3.1\05.StringStream.pdb
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\04.PBCSharpForLoop-Lab\05.StringStream\obj\Debug\netcoreapp3.1\05.StringStream.genruntimeconfig.cache

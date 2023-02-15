@@ -1,0 +1,14 @@
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\03.ConditionalStatements-Lab\05.Number100-200\bin\Debug\netcoreapp3.1\05.Number100-200.exe
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\03.ConditionalStatements-Lab\05.Number100-200\bin\Debug\netcoreapp3.1\05.Number100-200.deps.json
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\03.ConditionalStatements-Lab\05.Number100-200\bin\Debug\netcoreapp3.1\05.Number100-200.runtimeconfig.json
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\03.ConditionalStatements-Lab\05.Number100-200\bin\Debug\netcoreapp3.1\05.Number100-200.runtimeconfig.dev.json
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\03.ConditionalStatements-Lab\05.Number100-200\bin\Debug\netcoreapp3.1\05.Number100-200.dll
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\03.ConditionalStatements-Lab\05.Number100-200\bin\Debug\netcoreapp3.1\05.Number100-200.pdb
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\03.ConditionalStatements-Lab\05.Number100-200\obj\Debug\netcoreapp3.1\05.Number100-200.csproj.AssemblyReference.cache
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\03.ConditionalStatements-Lab\05.Number100-200\obj\Debug\netcoreapp3.1\05.Number100-200.GeneratedMSBuildEditorConfig.editorconfig
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\03.ConditionalStatements-Lab\05.Number100-200\obj\Debug\netcoreapp3.1\05.Number100-200.AssemblyInfoInputs.cache
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\03.ConditionalStatements-Lab\05.Number100-200\obj\Debug\netcoreapp3.1\05.Number100-200.AssemblyInfo.cs
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\03.ConditionalStatements-Lab\05.Number100-200\obj\Debug\netcoreapp3.1\05.Number100-200.csproj.CoreCompileInputs.cache
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\03.ConditionalStatements-Lab\05.Number100-200\obj\Debug\netcoreapp3.1\05.Number100-200.dll
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\03.ConditionalStatements-Lab\05.Number100-200\obj\Debug\netcoreapp3.1\05.Number100-200.pdb
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\03.ConditionalStatements-Lab\05.Number100-200\obj\Debug\netcoreapp3.1\05.Number100-200.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\06.ConditionalStatementsAdvanced-Exercise\07.HotelRoom\bin\Debug\netcoreapp3.1\07.HotelRoom.exe
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\06.ConditionalStatementsAdvanced-Exercise\07.HotelRoom\bin\Debug\netcoreapp3.1\07.HotelRoom.deps.json
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\06.ConditionalStatementsAdvanced-Exercise\07.HotelRoom\bin\Debug\netcoreapp3.1\07.HotelRoom.runtimeconfig.json
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\06.ConditionalStatementsAdvanced-Exercise\07.HotelRoom\bin\Debug\netcoreapp3.1\07.HotelRoom.runtimeconfig.dev.json
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\06.ConditionalStatementsAdvanced-Exercise\07.HotelRoom\bin\Debug\netcoreapp3.1\07.HotelRoom.dll
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\06.ConditionalStatementsAdvanced-Exercise\07.HotelRoom\bin\Debug\netcoreapp3.1\07.HotelRoom.pdb
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\06.ConditionalStatementsAdvanced-Exercise\07.HotelRoom\obj\Debug\netcoreapp3.1\07.HotelRoom.csproj.AssemblyReference.cache
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\06.ConditionalStatementsAdvanced-Exercise\07.HotelRoom\obj\Debug\netcoreapp3.1\07.HotelRoom.GeneratedMSBuildEditorConfig.editorconfig
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\06.ConditionalStatementsAdvanced-Exercise\07.HotelRoom\obj\Debug\netcoreapp3.1\07.HotelRoom.AssemblyInfoInputs.cache
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\06.ConditionalStatementsAdvanced-Exercise\07.HotelRoom\obj\Debug\netcoreapp3.1\07.HotelRoom.AssemblyInfo.cs
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\06.ConditionalStatementsAdvanced-Exercise\07.HotelRoom\obj\Debug\netcoreapp3.1\07.HotelRoom.csproj.CoreCompileInputs.cache
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\06.ConditionalStatementsAdvanced-Exercise\07.HotelRoom\obj\Debug\netcoreapp3.1\07.HotelRoom.dll
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\06.ConditionalStatementsAdvanced-Exercise\07.HotelRoom\obj\Debug\netcoreapp3.1\07.HotelRoom.pdb
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\06.ConditionalStatementsAdvanced-Exercise\07.HotelRoom\obj\Debug\netcoreapp3.1\07.HotelRoom.genruntimeconfig.cache

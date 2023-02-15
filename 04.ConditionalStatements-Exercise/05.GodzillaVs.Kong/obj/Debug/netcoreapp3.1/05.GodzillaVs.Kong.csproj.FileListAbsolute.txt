@@ -1,0 +1,14 @@
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\04.ConditionalStatements-Exercise\05.GodzillaVs.Kong\bin\Debug\netcoreapp3.1\05.GodzillaVs.Kong.exe
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\04.ConditionalStatements-Exercise\05.GodzillaVs.Kong\bin\Debug\netcoreapp3.1\05.GodzillaVs.Kong.deps.json
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\04.ConditionalStatements-Exercise\05.GodzillaVs.Kong\bin\Debug\netcoreapp3.1\05.GodzillaVs.Kong.runtimeconfig.json
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\04.ConditionalStatements-Exercise\05.GodzillaVs.Kong\bin\Debug\netcoreapp3.1\05.GodzillaVs.Kong.runtimeconfig.dev.json
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\04.ConditionalStatements-Exercise\05.GodzillaVs.Kong\bin\Debug\netcoreapp3.1\05.GodzillaVs.Kong.dll
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\04.ConditionalStatements-Exercise\05.GodzillaVs.Kong\bin\Debug\netcoreapp3.1\05.GodzillaVs.Kong.pdb
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\04.ConditionalStatements-Exercise\05.GodzillaVs.Kong\obj\Debug\netcoreapp3.1\05.GodzillaVs.Kong.csproj.AssemblyReference.cache
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\04.ConditionalStatements-Exercise\05.GodzillaVs.Kong\obj\Debug\netcoreapp3.1\05.GodzillaVs.Kong.GeneratedMSBuildEditorConfig.editorconfig
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\04.ConditionalStatements-Exercise\05.GodzillaVs.Kong\obj\Debug\netcoreapp3.1\05.GodzillaVs.Kong.AssemblyInfoInputs.cache
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\04.ConditionalStatements-Exercise\05.GodzillaVs.Kong\obj\Debug\netcoreapp3.1\05.GodzillaVs.Kong.AssemblyInfo.cs
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\04.ConditionalStatements-Exercise\05.GodzillaVs.Kong\obj\Debug\netcoreapp3.1\05.GodzillaVs.Kong.csproj.CoreCompileInputs.cache
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\04.ConditionalStatements-Exercise\05.GodzillaVs.Kong\obj\Debug\netcoreapp3.1\05.GodzillaVs.Kong.dll
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\04.ConditionalStatements-Exercise\05.GodzillaVs.Kong\obj\Debug\netcoreapp3.1\05.GodzillaVs.Kong.pdb
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\04.ConditionalStatements-Exercise\05.GodzillaVs.Kong\obj\Debug\netcoreapp3.1\05.GodzillaVs.Kong.genruntimeconfig.cache

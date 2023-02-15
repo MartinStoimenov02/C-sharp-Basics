@@ -1,0 +1,14 @@
+D:\Moi_raboti\Mои работи\Документи\СофтУни\1. откриване на курса-първи стъпки\HW-05.02\01.FirstStepsInCoding-Exercise\09.FishTank\bin\Debug\netcoreapp3.1\09.FishTank.exe
+D:\Moi_raboti\Mои работи\Документи\СофтУни\1. откриване на курса-първи стъпки\HW-05.02\01.FirstStepsInCoding-Exercise\09.FishTank\bin\Debug\netcoreapp3.1\09.FishTank.deps.json
+D:\Moi_raboti\Mои работи\Документи\СофтУни\1. откриване на курса-първи стъпки\HW-05.02\01.FirstStepsInCoding-Exercise\09.FishTank\bin\Debug\netcoreapp3.1\09.FishTank.runtimeconfig.json
+D:\Moi_raboti\Mои работи\Документи\СофтУни\1. откриване на курса-първи стъпки\HW-05.02\01.FirstStepsInCoding-Exercise\09.FishTank\bin\Debug\netcoreapp3.1\09.FishTank.runtimeconfig.dev.json
+D:\Moi_raboti\Mои работи\Документи\СофтУни\1. откриване на курса-първи стъпки\HW-05.02\01.FirstStepsInCoding-Exercise\09.FishTank\bin\Debug\netcoreapp3.1\09.FishTank.dll
+D:\Moi_raboti\Mои работи\Документи\СофтУни\1. откриване на курса-първи стъпки\HW-05.02\01.FirstStepsInCoding-Exercise\09.FishTank\bin\Debug\netcoreapp3.1\09.FishTank.pdb
+D:\Moi_raboti\Mои работи\Документи\СофтУни\1. откриване на курса-първи стъпки\HW-05.02\01.FirstStepsInCoding-Exercise\09.FishTank\obj\Debug\netcoreapp3.1\09.FishTank.csproj.AssemblyReference.cache
+D:\Moi_raboti\Mои работи\Документи\СофтУни\1. откриване на курса-първи стъпки\HW-05.02\01.FirstStepsInCoding-Exercise\09.FishTank\obj\Debug\netcoreapp3.1\09.FishTank.GeneratedMSBuildEditorConfig.editorconfig
+D:\Moi_raboti\Mои работи\Документи\СофтУни\1. откриване на курса-първи стъпки\HW-05.02\01.FirstStepsInCoding-Exercise\09.FishTank\obj\Debug\netcoreapp3.1\09.FishTank.AssemblyInfoInputs.cache
+D:\Moi_raboti\Mои работи\Документи\СофтУни\1. откриване на курса-първи стъпки\HW-05.02\01.FirstStepsInCoding-Exercise\09.FishTank\obj\Debug\netcoreapp3.1\09.FishTank.AssemblyInfo.cs
+D:\Moi_raboti\Mои работи\Документи\СофтУни\1. откриване на курса-първи стъпки\HW-05.02\01.FirstStepsInCoding-Exercise\09.FishTank\obj\Debug\netcoreapp3.1\09.FishTank.csproj.CoreCompileInputs.cache
+D:\Moi_raboti\Mои работи\Документи\СофтУни\1. откриване на курса-първи стъпки\HW-05.02\01.FirstStepsInCoding-Exercise\09.FishTank\obj\Debug\netcoreapp3.1\09.FishTank.dll
+D:\Moi_raboti\Mои работи\Документи\СофтУни\1. откриване на курса-първи стъпки\HW-05.02\01.FirstStepsInCoding-Exercise\09.FishTank\obj\Debug\netcoreapp3.1\09.FishTank.pdb
+D:\Moi_raboti\Mои работи\Документи\СофтУни\1. откриване на курса-първи стъпки\HW-05.02\01.FirstStepsInCoding-Exercise\09.FishTank\obj\Debug\netcoreapp3.1\09.FishTank.genruntimeconfig.cache

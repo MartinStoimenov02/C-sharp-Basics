@@ -1,0 +1,14 @@
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\04.ConditionalStatements-Exercise\04.ToyShop\bin\Debug\netcoreapp3.1\04.ToyShop.exe
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\04.ConditionalStatements-Exercise\04.ToyShop\bin\Debug\netcoreapp3.1\04.ToyShop.deps.json
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\04.ConditionalStatements-Exercise\04.ToyShop\bin\Debug\netcoreapp3.1\04.ToyShop.runtimeconfig.json
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\04.ConditionalStatements-Exercise\04.ToyShop\bin\Debug\netcoreapp3.1\04.ToyShop.runtimeconfig.dev.json
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\04.ConditionalStatements-Exercise\04.ToyShop\bin\Debug\netcoreapp3.1\04.ToyShop.dll
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\04.ConditionalStatements-Exercise\04.ToyShop\bin\Debug\netcoreapp3.1\04.ToyShop.pdb
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\04.ConditionalStatements-Exercise\04.ToyShop\obj\Debug\netcoreapp3.1\04.ToyShop.csproj.AssemblyReference.cache
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\04.ConditionalStatements-Exercise\04.ToyShop\obj\Debug\netcoreapp3.1\04.ToyShop.GeneratedMSBuildEditorConfig.editorconfig
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\04.ConditionalStatements-Exercise\04.ToyShop\obj\Debug\netcoreapp3.1\04.ToyShop.AssemblyInfoInputs.cache
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\04.ConditionalStatements-Exercise\04.ToyShop\obj\Debug\netcoreapp3.1\04.ToyShop.AssemblyInfo.cs
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\04.ConditionalStatements-Exercise\04.ToyShop\obj\Debug\netcoreapp3.1\04.ToyShop.csproj.CoreCompileInputs.cache
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\04.ConditionalStatements-Exercise\04.ToyShop\obj\Debug\netcoreapp3.1\04.ToyShop.dll
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\04.ConditionalStatements-Exercise\04.ToyShop\obj\Debug\netcoreapp3.1\04.ToyShop.pdb
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\04.ConditionalStatements-Exercise\04.ToyShop\obj\Debug\netcoreapp3.1\04.ToyShop.genruntimeconfig.cache

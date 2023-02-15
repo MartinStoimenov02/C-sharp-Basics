@@ -1,0 +1,14 @@
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\05.ConditionalStatementsAdvanced-Lab\02.HolidayOrWorkingDay\bin\Debug\netcoreapp3.1\02.HolidayOrWorkingDay.exe
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\05.ConditionalStatementsAdvanced-Lab\02.HolidayOrWorkingDay\bin\Debug\netcoreapp3.1\02.HolidayOrWorkingDay.deps.json
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\05.ConditionalStatementsAdvanced-Lab\02.HolidayOrWorkingDay\bin\Debug\netcoreapp3.1\02.HolidayOrWorkingDay.runtimeconfig.json
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\05.ConditionalStatementsAdvanced-Lab\02.HolidayOrWorkingDay\bin\Debug\netcoreapp3.1\02.HolidayOrWorkingDay.runtimeconfig.dev.json
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\05.ConditionalStatementsAdvanced-Lab\02.HolidayOrWorkingDay\bin\Debug\netcoreapp3.1\02.HolidayOrWorkingDay.dll
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\05.ConditionalStatementsAdvanced-Lab\02.HolidayOrWorkingDay\bin\Debug\netcoreapp3.1\02.HolidayOrWorkingDay.pdb
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\05.ConditionalStatementsAdvanced-Lab\02.HolidayOrWorkingDay\obj\Debug\netcoreapp3.1\02.HolidayOrWorkingDay.csproj.AssemblyReference.cache
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\05.ConditionalStatementsAdvanced-Lab\02.HolidayOrWorkingDay\obj\Debug\netcoreapp3.1\02.HolidayOrWorkingDay.GeneratedMSBuildEditorConfig.editorconfig
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\05.ConditionalStatementsAdvanced-Lab\02.HolidayOrWorkingDay\obj\Debug\netcoreapp3.1\02.HolidayOrWorkingDay.AssemblyInfoInputs.cache
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\05.ConditionalStatementsAdvanced-Lab\02.HolidayOrWorkingDay\obj\Debug\netcoreapp3.1\02.HolidayOrWorkingDay.AssemblyInfo.cs
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\05.ConditionalStatementsAdvanced-Lab\02.HolidayOrWorkingDay\obj\Debug\netcoreapp3.1\02.HolidayOrWorkingDay.csproj.CoreCompileInputs.cache
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\05.ConditionalStatementsAdvanced-Lab\02.HolidayOrWorkingDay\obj\Debug\netcoreapp3.1\02.HolidayOrWorkingDay.dll
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\05.ConditionalStatementsAdvanced-Lab\02.HolidayOrWorkingDay\obj\Debug\netcoreapp3.1\02.HolidayOrWorkingDay.pdb
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\05.ConditionalStatementsAdvanced-Lab\02.HolidayOrWorkingDay\obj\Debug\netcoreapp3.1\02.HolidayOrWorkingDay.genruntimeconfig.cache

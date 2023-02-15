@@ -1,0 +1,14 @@
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\04.PBCSharpForLoop-Lab\06.VolewSum\obj\Debug\netcoreapp3.1\06.VolewSum.csproj.AssemblyReference.cache
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\04.PBCSharpForLoop-Lab\06.VolewSum\obj\Debug\netcoreapp3.1\06.VolewSum.GeneratedMSBuildEditorConfig.editorconfig
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\04.PBCSharpForLoop-Lab\06.VolewSum\obj\Debug\netcoreapp3.1\06.VolewSum.AssemblyInfoInputs.cache
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\04.PBCSharpForLoop-Lab\06.VolewSum\obj\Debug\netcoreapp3.1\06.VolewSum.AssemblyInfo.cs
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\04.PBCSharpForLoop-Lab\06.VolewSum\obj\Debug\netcoreapp3.1\06.VolewSum.csproj.CoreCompileInputs.cache
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\04.PBCSharpForLoop-Lab\06.VolewSum\bin\Debug\netcoreapp3.1\06.VolewSum.exe
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\04.PBCSharpForLoop-Lab\06.VolewSum\bin\Debug\netcoreapp3.1\06.VolewSum.deps.json
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\04.PBCSharpForLoop-Lab\06.VolewSum\bin\Debug\netcoreapp3.1\06.VolewSum.runtimeconfig.json
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\04.PBCSharpForLoop-Lab\06.VolewSum\bin\Debug\netcoreapp3.1\06.VolewSum.runtimeconfig.dev.json
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\04.PBCSharpForLoop-Lab\06.VolewSum\bin\Debug\netcoreapp3.1\06.VolewSum.dll
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\04.PBCSharpForLoop-Lab\06.VolewSum\bin\Debug\netcoreapp3.1\06.VolewSum.pdb
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\04.PBCSharpForLoop-Lab\06.VolewSum\obj\Debug\netcoreapp3.1\06.VolewSum.dll
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\04.PBCSharpForLoop-Lab\06.VolewSum\obj\Debug\netcoreapp3.1\06.VolewSum.pdb
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\04.PBCSharpForLoop-Lab\06.VolewSum\obj\Debug\netcoreapp3.1\06.VolewSum.genruntimeconfig.cache

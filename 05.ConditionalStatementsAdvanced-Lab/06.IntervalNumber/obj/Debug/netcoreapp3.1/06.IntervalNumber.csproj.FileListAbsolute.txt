@@ -1,0 +1,14 @@
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\05.ConditionalStatementsAdvanced-Lab\06.IntervalNumber\bin\Debug\netcoreapp3.1\06.IntervalNumber.exe
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\05.ConditionalStatementsAdvanced-Lab\06.IntervalNumber\bin\Debug\netcoreapp3.1\06.IntervalNumber.deps.json
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\05.ConditionalStatementsAdvanced-Lab\06.IntervalNumber\bin\Debug\netcoreapp3.1\06.IntervalNumber.runtimeconfig.json
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\05.ConditionalStatementsAdvanced-Lab\06.IntervalNumber\bin\Debug\netcoreapp3.1\06.IntervalNumber.runtimeconfig.dev.json
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\05.ConditionalStatementsAdvanced-Lab\06.IntervalNumber\bin\Debug\netcoreapp3.1\06.IntervalNumber.dll
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\05.ConditionalStatementsAdvanced-Lab\06.IntervalNumber\bin\Debug\netcoreapp3.1\06.IntervalNumber.pdb
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\05.ConditionalStatementsAdvanced-Lab\06.IntervalNumber\obj\Debug\netcoreapp3.1\06.IntervalNumber.csproj.AssemblyReference.cache
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\05.ConditionalStatementsAdvanced-Lab\06.IntervalNumber\obj\Debug\netcoreapp3.1\06.IntervalNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\05.ConditionalStatementsAdvanced-Lab\06.IntervalNumber\obj\Debug\netcoreapp3.1\06.IntervalNumber.AssemblyInfoInputs.cache
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\05.ConditionalStatementsAdvanced-Lab\06.IntervalNumber\obj\Debug\netcoreapp3.1\06.IntervalNumber.AssemblyInfo.cs
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\05.ConditionalStatementsAdvanced-Lab\06.IntervalNumber\obj\Debug\netcoreapp3.1\06.IntervalNumber.csproj.CoreCompileInputs.cache
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\05.ConditionalStatementsAdvanced-Lab\06.IntervalNumber\obj\Debug\netcoreapp3.1\06.IntervalNumber.dll
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\05.ConditionalStatementsAdvanced-Lab\06.IntervalNumber\obj\Debug\netcoreapp3.1\06.IntervalNumber.pdb
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\05.ConditionalStatementsAdvanced-Lab\06.IntervalNumber\obj\Debug\netcoreapp3.1\06.IntervalNumber.genruntimeconfig.cache

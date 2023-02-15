@@ -1,0 +1,14 @@
+D:\Moi_raboti\Mои работи\Документи\СофтУни\1. откриване на курса-първи стъпки\HW-04.02\01.FirstStepsInCoding-Lab\09.YardGreening\bin\Debug\netcoreapp3.1\09.YardGreening.exe
+D:\Moi_raboti\Mои работи\Документи\СофтУни\1. откриване на курса-първи стъпки\HW-04.02\01.FirstStepsInCoding-Lab\09.YardGreening\bin\Debug\netcoreapp3.1\09.YardGreening.deps.json
+D:\Moi_raboti\Mои работи\Документи\СофтУни\1. откриване на курса-първи стъпки\HW-04.02\01.FirstStepsInCoding-Lab\09.YardGreening\bin\Debug\netcoreapp3.1\09.YardGreening.runtimeconfig.json
+D:\Moi_raboti\Mои работи\Документи\СофтУни\1. откриване на курса-първи стъпки\HW-04.02\01.FirstStepsInCoding-Lab\09.YardGreening\bin\Debug\netcoreapp3.1\09.YardGreening.runtimeconfig.dev.json
+D:\Moi_raboti\Mои работи\Документи\СофтУни\1. откриване на курса-първи стъпки\HW-04.02\01.FirstStepsInCoding-Lab\09.YardGreening\bin\Debug\netcoreapp3.1\09.YardGreening.dll
+D:\Moi_raboti\Mои работи\Документи\СофтУни\1. откриване на курса-първи стъпки\HW-04.02\01.FirstStepsInCoding-Lab\09.YardGreening\bin\Debug\netcoreapp3.1\09.YardGreening.pdb
+D:\Moi_raboti\Mои работи\Документи\СофтУни\1. откриване на курса-първи стъпки\HW-04.02\01.FirstStepsInCoding-Lab\09.YardGreening\obj\Debug\netcoreapp3.1\09.YardGreening.csproj.AssemblyReference.cache
+D:\Moi_raboti\Mои работи\Документи\СофтУни\1. откриване на курса-първи стъпки\HW-04.02\01.FirstStepsInCoding-Lab\09.YardGreening\obj\Debug\netcoreapp3.1\09.YardGreening.GeneratedMSBuildEditorConfig.editorconfig
+D:\Moi_raboti\Mои работи\Документи\СофтУни\1. откриване на курса-първи стъпки\HW-04.02\01.FirstStepsInCoding-Lab\09.YardGreening\obj\Debug\netcoreapp3.1\09.YardGreening.AssemblyInfoInputs.cache
+D:\Moi_raboti\Mои работи\Документи\СофтУни\1. откриване на курса-първи стъпки\HW-04.02\01.FirstStepsInCoding-Lab\09.YardGreening\obj\Debug\netcoreapp3.1\09.YardGreening.AssemblyInfo.cs
+D:\Moi_raboti\Mои работи\Документи\СофтУни\1. откриване на курса-първи стъпки\HW-04.02\01.FirstStepsInCoding-Lab\09.YardGreening\obj\Debug\netcoreapp3.1\09.YardGreening.csproj.CoreCompileInputs.cache
+D:\Moi_raboti\Mои работи\Документи\СофтУни\1. откриване на курса-първи стъпки\HW-04.02\01.FirstStepsInCoding-Lab\09.YardGreening\obj\Debug\netcoreapp3.1\09.YardGreening.dll
+D:\Moi_raboti\Mои работи\Документи\СофтУни\1. откриване на курса-първи стъпки\HW-04.02\01.FirstStepsInCoding-Lab\09.YardGreening\obj\Debug\netcoreapp3.1\09.YardGreening.pdb
+D:\Moi_raboti\Mои работи\Документи\СофтУни\1. откриване на курса-първи стъпки\HW-04.02\01.FirstStepsInCoding-Lab\09.YardGreening\obj\Debug\netcoreapp3.1\09.YardGreening.genruntimeconfig.cache

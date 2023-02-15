@@ -1,0 +1,14 @@
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\03.ConditionalStatements-Lab\06.SpeedInfo\bin\Debug\netcoreapp3.1\06.SpeedInfo.exe
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\03.ConditionalStatements-Lab\06.SpeedInfo\bin\Debug\netcoreapp3.1\06.SpeedInfo.deps.json
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\03.ConditionalStatements-Lab\06.SpeedInfo\bin\Debug\netcoreapp3.1\06.SpeedInfo.runtimeconfig.json
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\03.ConditionalStatements-Lab\06.SpeedInfo\bin\Debug\netcoreapp3.1\06.SpeedInfo.runtimeconfig.dev.json
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\03.ConditionalStatements-Lab\06.SpeedInfo\bin\Debug\netcoreapp3.1\06.SpeedInfo.dll
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\03.ConditionalStatements-Lab\06.SpeedInfo\bin\Debug\netcoreapp3.1\06.SpeedInfo.pdb
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\03.ConditionalStatements-Lab\06.SpeedInfo\obj\Debug\netcoreapp3.1\06.SpeedInfo.csproj.AssemblyReference.cache
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\03.ConditionalStatements-Lab\06.SpeedInfo\obj\Debug\netcoreapp3.1\06.SpeedInfo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\03.ConditionalStatements-Lab\06.SpeedInfo\obj\Debug\netcoreapp3.1\06.SpeedInfo.AssemblyInfoInputs.cache
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\03.ConditionalStatements-Lab\06.SpeedInfo\obj\Debug\netcoreapp3.1\06.SpeedInfo.AssemblyInfo.cs
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\03.ConditionalStatements-Lab\06.SpeedInfo\obj\Debug\netcoreapp3.1\06.SpeedInfo.csproj.CoreCompileInputs.cache
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\03.ConditionalStatements-Lab\06.SpeedInfo\obj\Debug\netcoreapp3.1\06.SpeedInfo.dll
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\03.ConditionalStatements-Lab\06.SpeedInfo\obj\Debug\netcoreapp3.1\06.SpeedInfo.pdb
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\03.ConditionalStatements-Lab\06.SpeedInfo\obj\Debug\netcoreapp3.1\06.SpeedInfo.genruntimeconfig.cache

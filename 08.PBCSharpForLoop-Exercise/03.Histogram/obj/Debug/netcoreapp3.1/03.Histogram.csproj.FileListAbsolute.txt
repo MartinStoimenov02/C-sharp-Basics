@@ -1,0 +1,14 @@
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\08.PBCSharpForLoop-Exercise\03.Histogram\bin\Debug\netcoreapp3.1\03.Histogram.exe
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\08.PBCSharpForLoop-Exercise\03.Histogram\bin\Debug\netcoreapp3.1\03.Histogram.deps.json
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\08.PBCSharpForLoop-Exercise\03.Histogram\bin\Debug\netcoreapp3.1\03.Histogram.runtimeconfig.json
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\08.PBCSharpForLoop-Exercise\03.Histogram\bin\Debug\netcoreapp3.1\03.Histogram.runtimeconfig.dev.json
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\08.PBCSharpForLoop-Exercise\03.Histogram\bin\Debug\netcoreapp3.1\03.Histogram.dll
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\08.PBCSharpForLoop-Exercise\03.Histogram\bin\Debug\netcoreapp3.1\03.Histogram.pdb
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\08.PBCSharpForLoop-Exercise\03.Histogram\obj\Debug\netcoreapp3.1\03.Histogram.csproj.AssemblyReference.cache
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\08.PBCSharpForLoop-Exercise\03.Histogram\obj\Debug\netcoreapp3.1\03.Histogram.GeneratedMSBuildEditorConfig.editorconfig
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\08.PBCSharpForLoop-Exercise\03.Histogram\obj\Debug\netcoreapp3.1\03.Histogram.AssemblyInfoInputs.cache
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\08.PBCSharpForLoop-Exercise\03.Histogram\obj\Debug\netcoreapp3.1\03.Histogram.AssemblyInfo.cs
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\08.PBCSharpForLoop-Exercise\03.Histogram\obj\Debug\netcoreapp3.1\03.Histogram.csproj.CoreCompileInputs.cache
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\08.PBCSharpForLoop-Exercise\03.Histogram\obj\Debug\netcoreapp3.1\03.Histogram.dll
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\08.PBCSharpForLoop-Exercise\03.Histogram\obj\Debug\netcoreapp3.1\03.Histogram.pdb
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\08.PBCSharpForLoop-Exercise\03.Histogram\obj\Debug\netcoreapp3.1\03.Histogram.genruntimeconfig.cache

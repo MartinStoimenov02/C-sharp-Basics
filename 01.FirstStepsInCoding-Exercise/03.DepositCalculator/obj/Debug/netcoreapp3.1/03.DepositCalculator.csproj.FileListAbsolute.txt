@@ -1,0 +1,14 @@
+D:\Moi_raboti\Mои работи\Документи\СофтУни\1. откриване на курса-първи стъпки\HW-05.02\01.FirstStepsInCoding-Exercise\03.DepositCalculator\bin\Debug\netcoreapp3.1\03.DepositCalculator.exe
+D:\Moi_raboti\Mои работи\Документи\СофтУни\1. откриване на курса-първи стъпки\HW-05.02\01.FirstStepsInCoding-Exercise\03.DepositCalculator\bin\Debug\netcoreapp3.1\03.DepositCalculator.deps.json
+D:\Moi_raboti\Mои работи\Документи\СофтУни\1. откриване на курса-първи стъпки\HW-05.02\01.FirstStepsInCoding-Exercise\03.DepositCalculator\bin\Debug\netcoreapp3.1\03.DepositCalculator.runtimeconfig.json
+D:\Moi_raboti\Mои работи\Документи\СофтУни\1. откриване на курса-първи стъпки\HW-05.02\01.FirstStepsInCoding-Exercise\03.DepositCalculator\bin\Debug\netcoreapp3.1\03.DepositCalculator.runtimeconfig.dev.json
+D:\Moi_raboti\Mои работи\Документи\СофтУни\1. откриване на курса-първи стъпки\HW-05.02\01.FirstStepsInCoding-Exercise\03.DepositCalculator\bin\Debug\netcoreapp3.1\03.DepositCalculator.dll
+D:\Moi_raboti\Mои работи\Документи\СофтУни\1. откриване на курса-първи стъпки\HW-05.02\01.FirstStepsInCoding-Exercise\03.DepositCalculator\bin\Debug\netcoreapp3.1\03.DepositCalculator.pdb
+D:\Moi_raboti\Mои работи\Документи\СофтУни\1. откриване на курса-първи стъпки\HW-05.02\01.FirstStepsInCoding-Exercise\03.DepositCalculator\obj\Debug\netcoreapp3.1\03.DepositCalculator.csproj.AssemblyReference.cache
+D:\Moi_raboti\Mои работи\Документи\СофтУни\1. откриване на курса-първи стъпки\HW-05.02\01.FirstStepsInCoding-Exercise\03.DepositCalculator\obj\Debug\netcoreapp3.1\03.DepositCalculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Moi_raboti\Mои работи\Документи\СофтУни\1. откриване на курса-първи стъпки\HW-05.02\01.FirstStepsInCoding-Exercise\03.DepositCalculator\obj\Debug\netcoreapp3.1\03.DepositCalculator.AssemblyInfoInputs.cache
+D:\Moi_raboti\Mои работи\Документи\СофтУни\1. откриване на курса-първи стъпки\HW-05.02\01.FirstStepsInCoding-Exercise\03.DepositCalculator\obj\Debug\netcoreapp3.1\03.DepositCalculator.AssemblyInfo.cs
+D:\Moi_raboti\Mои работи\Документи\СофтУни\1. откриване на курса-първи стъпки\HW-05.02\01.FirstStepsInCoding-Exercise\03.DepositCalculator\obj\Debug\netcoreapp3.1\03.DepositCalculator.csproj.CoreCompileInputs.cache
+D:\Moi_raboti\Mои работи\Документи\СофтУни\1. откриване на курса-първи стъпки\HW-05.02\01.FirstStepsInCoding-Exercise\03.DepositCalculator\obj\Debug\netcoreapp3.1\03.DepositCalculator.dll
+D:\Moi_raboti\Mои работи\Документи\СофтУни\1. откриване на курса-първи стъпки\HW-05.02\01.FirstStepsInCoding-Exercise\03.DepositCalculator\obj\Debug\netcoreapp3.1\03.DepositCalculator.pdb
+D:\Moi_raboti\Mои работи\Документи\СофтУни\1. откриване на курса-първи стъпки\HW-05.02\01.FirstStepsInCoding-Exercise\03.DepositCalculator\obj\Debug\netcoreapp3.1\03.DepositCalculator.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\06.ConditionalStatementsAdvanced-Exercise\03.NewHome\bin\Debug\netcoreapp3.1\03.NewHome.exe
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\06.ConditionalStatementsAdvanced-Exercise\03.NewHome\bin\Debug\netcoreapp3.1\03.NewHome.deps.json
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\06.ConditionalStatementsAdvanced-Exercise\03.NewHome\bin\Debug\netcoreapp3.1\03.NewHome.runtimeconfig.json
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\06.ConditionalStatementsAdvanced-Exercise\03.NewHome\bin\Debug\netcoreapp3.1\03.NewHome.runtimeconfig.dev.json
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\06.ConditionalStatementsAdvanced-Exercise\03.NewHome\bin\Debug\netcoreapp3.1\03.NewHome.dll
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\06.ConditionalStatementsAdvanced-Exercise\03.NewHome\bin\Debug\netcoreapp3.1\03.NewHome.pdb
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\06.ConditionalStatementsAdvanced-Exercise\03.NewHome\obj\Debug\netcoreapp3.1\03.NewHome.csproj.AssemblyReference.cache
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\06.ConditionalStatementsAdvanced-Exercise\03.NewHome\obj\Debug\netcoreapp3.1\03.NewHome.GeneratedMSBuildEditorConfig.editorconfig
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\06.ConditionalStatementsAdvanced-Exercise\03.NewHome\obj\Debug\netcoreapp3.1\03.NewHome.AssemblyInfoInputs.cache
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\06.ConditionalStatementsAdvanced-Exercise\03.NewHome\obj\Debug\netcoreapp3.1\03.NewHome.AssemblyInfo.cs
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\06.ConditionalStatementsAdvanced-Exercise\03.NewHome\obj\Debug\netcoreapp3.1\03.NewHome.csproj.CoreCompileInputs.cache
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\06.ConditionalStatementsAdvanced-Exercise\03.NewHome\obj\Debug\netcoreapp3.1\03.NewHome.dll
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\06.ConditionalStatementsAdvanced-Exercise\03.NewHome\obj\Debug\netcoreapp3.1\03.NewHome.pdb
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\06.ConditionalStatementsAdvanced-Exercise\03.NewHome\obj\Debug\netcoreapp3.1\03.NewHome.genruntimeconfig.cache

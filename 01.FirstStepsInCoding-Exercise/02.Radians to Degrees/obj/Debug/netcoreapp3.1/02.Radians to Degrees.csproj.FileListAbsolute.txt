@@ -1,0 +1,14 @@
+D:\Moi_raboti\Mои работи\Документи\СофтУни\1. откриване на курса-първи стъпки\HW-05.02\01.FirstStepsInCoding-Exercise\02.Radians to Degrees\bin\Debug\netcoreapp3.1\02.Radians to Degrees.exe
+D:\Moi_raboti\Mои работи\Документи\СофтУни\1. откриване на курса-първи стъпки\HW-05.02\01.FirstStepsInCoding-Exercise\02.Radians to Degrees\bin\Debug\netcoreapp3.1\02.Radians to Degrees.deps.json
+D:\Moi_raboti\Mои работи\Документи\СофтУни\1. откриване на курса-първи стъпки\HW-05.02\01.FirstStepsInCoding-Exercise\02.Radians to Degrees\bin\Debug\netcoreapp3.1\02.Radians to Degrees.runtimeconfig.json
+D:\Moi_raboti\Mои работи\Документи\СофтУни\1. откриване на курса-първи стъпки\HW-05.02\01.FirstStepsInCoding-Exercise\02.Radians to Degrees\bin\Debug\netcoreapp3.1\02.Radians to Degrees.runtimeconfig.dev.json
+D:\Moi_raboti\Mои работи\Документи\СофтУни\1. откриване на курса-първи стъпки\HW-05.02\01.FirstStepsInCoding-Exercise\02.Radians to Degrees\bin\Debug\netcoreapp3.1\02.Radians to Degrees.dll
+D:\Moi_raboti\Mои работи\Документи\СофтУни\1. откриване на курса-първи стъпки\HW-05.02\01.FirstStepsInCoding-Exercise\02.Radians to Degrees\bin\Debug\netcoreapp3.1\02.Radians to Degrees.pdb
+D:\Moi_raboti\Mои работи\Документи\СофтУни\1. откриване на курса-първи стъпки\HW-05.02\01.FirstStepsInCoding-Exercise\02.Radians to Degrees\obj\Debug\netcoreapp3.1\02.Radians to Degrees.csproj.AssemblyReference.cache
+D:\Moi_raboti\Mои работи\Документи\СофтУни\1. откриване на курса-първи стъпки\HW-05.02\01.FirstStepsInCoding-Exercise\02.Radians to Degrees\obj\Debug\netcoreapp3.1\02.Radians to Degrees.GeneratedMSBuildEditorConfig.editorconfig
+D:\Moi_raboti\Mои работи\Документи\СофтУни\1. откриване на курса-първи стъпки\HW-05.02\01.FirstStepsInCoding-Exercise\02.Radians to Degrees\obj\Debug\netcoreapp3.1\02.Radians to Degrees.AssemblyInfoInputs.cache
+D:\Moi_raboti\Mои работи\Документи\СофтУни\1. откриване на курса-първи стъпки\HW-05.02\01.FirstStepsInCoding-Exercise\02.Radians to Degrees\obj\Debug\netcoreapp3.1\02.Radians to Degrees.AssemblyInfo.cs
+D:\Moi_raboti\Mои работи\Документи\СофтУни\1. откриване на курса-първи стъпки\HW-05.02\01.FirstStepsInCoding-Exercise\02.Radians to Degrees\obj\Debug\netcoreapp3.1\02.Radians to Degrees.csproj.CoreCompileInputs.cache
+D:\Moi_raboti\Mои работи\Документи\СофтУни\1. откриване на курса-първи стъпки\HW-05.02\01.FirstStepsInCoding-Exercise\02.Radians to Degrees\obj\Debug\netcoreapp3.1\02.Radians to Degrees.dll
+D:\Moi_raboti\Mои работи\Документи\СофтУни\1. откриване на курса-първи стъпки\HW-05.02\01.FirstStepsInCoding-Exercise\02.Radians to Degrees\obj\Debug\netcoreapp3.1\02.Radians to Degrees.pdb
+D:\Moi_raboti\Mои работи\Документи\СофтУни\1. откриване на курса-първи стъпки\HW-05.02\01.FirstStepsInCoding-Exercise\02.Radians to Degrees\obj\Debug\netcoreapp3.1\02.Radians to Degrees.genruntimeconfig.cache

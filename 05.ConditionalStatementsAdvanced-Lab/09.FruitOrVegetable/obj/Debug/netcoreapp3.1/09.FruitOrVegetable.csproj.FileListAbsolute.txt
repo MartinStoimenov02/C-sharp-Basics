@@ -1,0 +1,14 @@
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\05.ConditionalStatementsAdvanced-Lab\09.FruitOrVegetable\bin\Debug\netcoreapp3.1\09.FruitOrVegetable.exe
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\05.ConditionalStatementsAdvanced-Lab\09.FruitOrVegetable\bin\Debug\netcoreapp3.1\09.FruitOrVegetable.deps.json
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\05.ConditionalStatementsAdvanced-Lab\09.FruitOrVegetable\bin\Debug\netcoreapp3.1\09.FruitOrVegetable.runtimeconfig.json
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\05.ConditionalStatementsAdvanced-Lab\09.FruitOrVegetable\bin\Debug\netcoreapp3.1\09.FruitOrVegetable.runtimeconfig.dev.json
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\05.ConditionalStatementsAdvanced-Lab\09.FruitOrVegetable\bin\Debug\netcoreapp3.1\09.FruitOrVegetable.dll
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\05.ConditionalStatementsAdvanced-Lab\09.FruitOrVegetable\bin\Debug\netcoreapp3.1\09.FruitOrVegetable.pdb
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\05.ConditionalStatementsAdvanced-Lab\09.FruitOrVegetable\obj\Debug\netcoreapp3.1\09.FruitOrVegetable.csproj.AssemblyReference.cache
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\05.ConditionalStatementsAdvanced-Lab\09.FruitOrVegetable\obj\Debug\netcoreapp3.1\09.FruitOrVegetable.GeneratedMSBuildEditorConfig.editorconfig
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\05.ConditionalStatementsAdvanced-Lab\09.FruitOrVegetable\obj\Debug\netcoreapp3.1\09.FruitOrVegetable.AssemblyInfoInputs.cache
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\05.ConditionalStatementsAdvanced-Lab\09.FruitOrVegetable\obj\Debug\netcoreapp3.1\09.FruitOrVegetable.AssemblyInfo.cs
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\05.ConditionalStatementsAdvanced-Lab\09.FruitOrVegetable\obj\Debug\netcoreapp3.1\09.FruitOrVegetable.csproj.CoreCompileInputs.cache
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\05.ConditionalStatementsAdvanced-Lab\09.FruitOrVegetable\obj\Debug\netcoreapp3.1\09.FruitOrVegetable.dll
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\05.ConditionalStatementsAdvanced-Lab\09.FruitOrVegetable\obj\Debug\netcoreapp3.1\09.FruitOrVegetable.pdb
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\05.ConditionalStatementsAdvanced-Lab\09.FruitOrVegetable\obj\Debug\netcoreapp3.1\09.FruitOrVegetable.genruntimeconfig.cache

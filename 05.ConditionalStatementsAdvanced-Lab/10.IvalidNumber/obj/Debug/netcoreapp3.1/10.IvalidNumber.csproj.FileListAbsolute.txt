@@ -1,0 +1,14 @@
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\05.ConditionalStatementsAdvanced-Lab\10.IvalidNumber\bin\Debug\netcoreapp3.1\10.IvalidNumber.exe
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\05.ConditionalStatementsAdvanced-Lab\10.IvalidNumber\bin\Debug\netcoreapp3.1\10.IvalidNumber.deps.json
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\05.ConditionalStatementsAdvanced-Lab\10.IvalidNumber\bin\Debug\netcoreapp3.1\10.IvalidNumber.runtimeconfig.json
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\05.ConditionalStatementsAdvanced-Lab\10.IvalidNumber\bin\Debug\netcoreapp3.1\10.IvalidNumber.runtimeconfig.dev.json
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\05.ConditionalStatementsAdvanced-Lab\10.IvalidNumber\bin\Debug\netcoreapp3.1\10.IvalidNumber.dll
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\05.ConditionalStatementsAdvanced-Lab\10.IvalidNumber\bin\Debug\netcoreapp3.1\10.IvalidNumber.pdb
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\05.ConditionalStatementsAdvanced-Lab\10.IvalidNumber\obj\Debug\netcoreapp3.1\10.IvalidNumber.csproj.AssemblyReference.cache
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\05.ConditionalStatementsAdvanced-Lab\10.IvalidNumber\obj\Debug\netcoreapp3.1\10.IvalidNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\05.ConditionalStatementsAdvanced-Lab\10.IvalidNumber\obj\Debug\netcoreapp3.1\10.IvalidNumber.AssemblyInfoInputs.cache
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\05.ConditionalStatementsAdvanced-Lab\10.IvalidNumber\obj\Debug\netcoreapp3.1\10.IvalidNumber.AssemblyInfo.cs
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\05.ConditionalStatementsAdvanced-Lab\10.IvalidNumber\obj\Debug\netcoreapp3.1\10.IvalidNumber.csproj.CoreCompileInputs.cache
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\05.ConditionalStatementsAdvanced-Lab\10.IvalidNumber\obj\Debug\netcoreapp3.1\10.IvalidNumber.dll
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\05.ConditionalStatementsAdvanced-Lab\10.IvalidNumber\obj\Debug\netcoreapp3.1\10.IvalidNumber.pdb
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\05.ConditionalStatementsAdvanced-Lab\10.IvalidNumber\obj\Debug\netcoreapp3.1\10.IvalidNumber.genruntimeconfig.cache

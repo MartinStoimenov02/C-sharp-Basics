@@ -1,0 +1,14 @@
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\05.ConditionalStatementsAdvanced-Lab\04.AgeAndGenderAddress\bin\Debug\netcoreapp3.1\04.AgeAndGenderAddress.exe
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\05.ConditionalStatementsAdvanced-Lab\04.AgeAndGenderAddress\bin\Debug\netcoreapp3.1\04.AgeAndGenderAddress.deps.json
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\05.ConditionalStatementsAdvanced-Lab\04.AgeAndGenderAddress\bin\Debug\netcoreapp3.1\04.AgeAndGenderAddress.runtimeconfig.json
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\05.ConditionalStatementsAdvanced-Lab\04.AgeAndGenderAddress\bin\Debug\netcoreapp3.1\04.AgeAndGenderAddress.runtimeconfig.dev.json
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\05.ConditionalStatementsAdvanced-Lab\04.AgeAndGenderAddress\bin\Debug\netcoreapp3.1\04.AgeAndGenderAddress.dll
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\05.ConditionalStatementsAdvanced-Lab\04.AgeAndGenderAddress\bin\Debug\netcoreapp3.1\04.AgeAndGenderAddress.pdb
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\05.ConditionalStatementsAdvanced-Lab\04.AgeAndGenderAddress\obj\Debug\netcoreapp3.1\04.AgeAndGenderAddress.csproj.AssemblyReference.cache
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\05.ConditionalStatementsAdvanced-Lab\04.AgeAndGenderAddress\obj\Debug\netcoreapp3.1\04.AgeAndGenderAddress.GeneratedMSBuildEditorConfig.editorconfig
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\05.ConditionalStatementsAdvanced-Lab\04.AgeAndGenderAddress\obj\Debug\netcoreapp3.1\04.AgeAndGenderAddress.AssemblyInfoInputs.cache
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\05.ConditionalStatementsAdvanced-Lab\04.AgeAndGenderAddress\obj\Debug\netcoreapp3.1\04.AgeAndGenderAddress.AssemblyInfo.cs
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\05.ConditionalStatementsAdvanced-Lab\04.AgeAndGenderAddress\obj\Debug\netcoreapp3.1\04.AgeAndGenderAddress.csproj.CoreCompileInputs.cache
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\05.ConditionalStatementsAdvanced-Lab\04.AgeAndGenderAddress\obj\Debug\netcoreapp3.1\04.AgeAndGenderAddress.dll
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\05.ConditionalStatementsAdvanced-Lab\04.AgeAndGenderAddress\obj\Debug\netcoreapp3.1\04.AgeAndGenderAddress.pdb
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\05.ConditionalStatementsAdvanced-Lab\04.AgeAndGenderAddress\obj\Debug\netcoreapp3.1\04.AgeAndGenderAddress.genruntimeconfig.cache

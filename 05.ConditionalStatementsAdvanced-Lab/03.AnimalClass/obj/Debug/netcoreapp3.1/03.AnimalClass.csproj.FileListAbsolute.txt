@@ -1,0 +1,14 @@
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\05.ConditionalStatementsAdvanced-Lab\03.AnimalClass\bin\Debug\netcoreapp3.1\03.AnimalClass.exe
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\05.ConditionalStatementsAdvanced-Lab\03.AnimalClass\bin\Debug\netcoreapp3.1\03.AnimalClass.deps.json
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\05.ConditionalStatementsAdvanced-Lab\03.AnimalClass\bin\Debug\netcoreapp3.1\03.AnimalClass.runtimeconfig.json
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\05.ConditionalStatementsAdvanced-Lab\03.AnimalClass\bin\Debug\netcoreapp3.1\03.AnimalClass.runtimeconfig.dev.json
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\05.ConditionalStatementsAdvanced-Lab\03.AnimalClass\bin\Debug\netcoreapp3.1\03.AnimalClass.dll
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\05.ConditionalStatementsAdvanced-Lab\03.AnimalClass\bin\Debug\netcoreapp3.1\03.AnimalClass.pdb
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\05.ConditionalStatementsAdvanced-Lab\03.AnimalClass\obj\Debug\netcoreapp3.1\03.AnimalClass.csproj.AssemblyReference.cache
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\05.ConditionalStatementsAdvanced-Lab\03.AnimalClass\obj\Debug\netcoreapp3.1\03.AnimalClass.GeneratedMSBuildEditorConfig.editorconfig
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\05.ConditionalStatementsAdvanced-Lab\03.AnimalClass\obj\Debug\netcoreapp3.1\03.AnimalClass.AssemblyInfoInputs.cache
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\05.ConditionalStatementsAdvanced-Lab\03.AnimalClass\obj\Debug\netcoreapp3.1\03.AnimalClass.AssemblyInfo.cs
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\05.ConditionalStatementsAdvanced-Lab\03.AnimalClass\obj\Debug\netcoreapp3.1\03.AnimalClass.csproj.CoreCompileInputs.cache
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\05.ConditionalStatementsAdvanced-Lab\03.AnimalClass\obj\Debug\netcoreapp3.1\03.AnimalClass.dll
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\05.ConditionalStatementsAdvanced-Lab\03.AnimalClass\obj\Debug\netcoreapp3.1\03.AnimalClass.pdb
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\05.ConditionalStatementsAdvanced-Lab\03.AnimalClass\obj\Debug\netcoreapp3.1\03.AnimalClass.genruntimeconfig.cache

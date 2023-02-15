@@ -1,0 +1,14 @@
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\04.PBCSharpForLoop-Lab\09.LeftRightSum\obj\Debug\netcoreapp3.1\09.LeftRightSum.csproj.AssemblyReference.cache
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\04.PBCSharpForLoop-Lab\09.LeftRightSum\obj\Debug\netcoreapp3.1\09.LeftRightSum.GeneratedMSBuildEditorConfig.editorconfig
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\04.PBCSharpForLoop-Lab\09.LeftRightSum\obj\Debug\netcoreapp3.1\09.LeftRightSum.AssemblyInfoInputs.cache
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\04.PBCSharpForLoop-Lab\09.LeftRightSum\obj\Debug\netcoreapp3.1\09.LeftRightSum.AssemblyInfo.cs
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\04.PBCSharpForLoop-Lab\09.LeftRightSum\obj\Debug\netcoreapp3.1\09.LeftRightSum.csproj.CoreCompileInputs.cache
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\04.PBCSharpForLoop-Lab\09.LeftRightSum\bin\Debug\netcoreapp3.1\09.LeftRightSum.exe
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\04.PBCSharpForLoop-Lab\09.LeftRightSum\bin\Debug\netcoreapp3.1\09.LeftRightSum.deps.json
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\04.PBCSharpForLoop-Lab\09.LeftRightSum\bin\Debug\netcoreapp3.1\09.LeftRightSum.runtimeconfig.json
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\04.PBCSharpForLoop-Lab\09.LeftRightSum\bin\Debug\netcoreapp3.1\09.LeftRightSum.runtimeconfig.dev.json
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\04.PBCSharpForLoop-Lab\09.LeftRightSum\bin\Debug\netcoreapp3.1\09.LeftRightSum.dll
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\04.PBCSharpForLoop-Lab\09.LeftRightSum\bin\Debug\netcoreapp3.1\09.LeftRightSum.pdb
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\04.PBCSharpForLoop-Lab\09.LeftRightSum\obj\Debug\netcoreapp3.1\09.LeftRightSum.dll
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\04.PBCSharpForLoop-Lab\09.LeftRightSum\obj\Debug\netcoreapp3.1\09.LeftRightSum.pdb
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\04.PBCSharpForLoop-Lab\09.LeftRightSum\obj\Debug\netcoreapp3.1\09.LeftRightSum.genruntimeconfig.cache

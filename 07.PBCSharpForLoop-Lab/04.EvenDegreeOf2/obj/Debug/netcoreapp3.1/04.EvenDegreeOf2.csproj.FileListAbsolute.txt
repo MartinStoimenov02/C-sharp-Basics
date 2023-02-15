@@ -1,0 +1,14 @@
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\04.PBCSharpForLoop-Lab\04.EvenDegreeOf2\bin\Debug\netcoreapp3.1\04.EvenDegreeOf2.exe
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\04.PBCSharpForLoop-Lab\04.EvenDegreeOf2\bin\Debug\netcoreapp3.1\04.EvenDegreeOf2.deps.json
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\04.PBCSharpForLoop-Lab\04.EvenDegreeOf2\bin\Debug\netcoreapp3.1\04.EvenDegreeOf2.runtimeconfig.json
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\04.PBCSharpForLoop-Lab\04.EvenDegreeOf2\bin\Debug\netcoreapp3.1\04.EvenDegreeOf2.runtimeconfig.dev.json
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\04.PBCSharpForLoop-Lab\04.EvenDegreeOf2\bin\Debug\netcoreapp3.1\04.EvenDegreeOf2.dll
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\04.PBCSharpForLoop-Lab\04.EvenDegreeOf2\bin\Debug\netcoreapp3.1\04.EvenDegreeOf2.pdb
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\04.PBCSharpForLoop-Lab\04.EvenDegreeOf2\obj\Debug\netcoreapp3.1\04.EvenDegreeOf2.csproj.AssemblyReference.cache
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\04.PBCSharpForLoop-Lab\04.EvenDegreeOf2\obj\Debug\netcoreapp3.1\04.EvenDegreeOf2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\04.PBCSharpForLoop-Lab\04.EvenDegreeOf2\obj\Debug\netcoreapp3.1\04.EvenDegreeOf2.AssemblyInfoInputs.cache
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\04.PBCSharpForLoop-Lab\04.EvenDegreeOf2\obj\Debug\netcoreapp3.1\04.EvenDegreeOf2.AssemblyInfo.cs
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\04.PBCSharpForLoop-Lab\04.EvenDegreeOf2\obj\Debug\netcoreapp3.1\04.EvenDegreeOf2.csproj.CoreCompileInputs.cache
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\04.PBCSharpForLoop-Lab\04.EvenDegreeOf2\obj\Debug\netcoreapp3.1\04.EvenDegreeOf2.dll
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\04.PBCSharpForLoop-Lab\04.EvenDegreeOf2\obj\Debug\netcoreapp3.1\04.EvenDegreeOf2.pdb
+D:\Moi_raboti\GitHub\SoftUni---C-Basics\04.PBCSharpForLoop-Lab\04.EvenDegreeOf2\obj\Debug\netcoreapp3.1\04.EvenDegreeOf2.genruntimeconfig.cache
