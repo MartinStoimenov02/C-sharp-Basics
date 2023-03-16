@@ -1,0 +1,14 @@
+D:\Moi_raboti\GitHub\C-sharp-Basics\10.WhileLoop-Exercise\02.ExamPreparation\bin\Debug\netcoreapp3.1\02.ExamPreparation.exe
+D:\Moi_raboti\GitHub\C-sharp-Basics\10.WhileLoop-Exercise\02.ExamPreparation\bin\Debug\netcoreapp3.1\02.ExamPreparation.deps.json
+D:\Moi_raboti\GitHub\C-sharp-Basics\10.WhileLoop-Exercise\02.ExamPreparation\bin\Debug\netcoreapp3.1\02.ExamPreparation.runtimeconfig.json
+D:\Moi_raboti\GitHub\C-sharp-Basics\10.WhileLoop-Exercise\02.ExamPreparation\bin\Debug\netcoreapp3.1\02.ExamPreparation.runtimeconfig.dev.json
+D:\Moi_raboti\GitHub\C-sharp-Basics\10.WhileLoop-Exercise\02.ExamPreparation\bin\Debug\netcoreapp3.1\02.ExamPreparation.dll
+D:\Moi_raboti\GitHub\C-sharp-Basics\10.WhileLoop-Exercise\02.ExamPreparation\bin\Debug\netcoreapp3.1\02.ExamPreparation.pdb
+D:\Moi_raboti\GitHub\C-sharp-Basics\10.WhileLoop-Exercise\02.ExamPreparation\obj\Debug\netcoreapp3.1\02.ExamPreparation.csproj.AssemblyReference.cache
+D:\Moi_raboti\GitHub\C-sharp-Basics\10.WhileLoop-Exercise\02.ExamPreparation\obj\Debug\netcoreapp3.1\02.ExamPreparation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Moi_raboti\GitHub\C-sharp-Basics\10.WhileLoop-Exercise\02.ExamPreparation\obj\Debug\netcoreapp3.1\02.ExamPreparation.AssemblyInfoInputs.cache
+D:\Moi_raboti\GitHub\C-sharp-Basics\10.WhileLoop-Exercise\02.ExamPreparation\obj\Debug\netcoreapp3.1\02.ExamPreparation.AssemblyInfo.cs
+D:\Moi_raboti\GitHub\C-sharp-Basics\10.WhileLoop-Exercise\02.ExamPreparation\obj\Debug\netcoreapp3.1\02.ExamPreparation.csproj.CoreCompileInputs.cache
+D:\Moi_raboti\GitHub\C-sharp-Basics\10.WhileLoop-Exercise\02.ExamPreparation\obj\Debug\netcoreapp3.1\02.ExamPreparation.dll
+D:\Moi_raboti\GitHub\C-sharp-Basics\10.WhileLoop-Exercise\02.ExamPreparation\obj\Debug\netcoreapp3.1\02.ExamPreparation.pdb
+D:\Moi_raboti\GitHub\C-sharp-Basics\10.WhileLoop-Exercise\02.ExamPreparation\obj\Debug\netcoreapp3.1\02.ExamPreparation.genruntimeconfig.cache

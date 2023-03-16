@@ -1,0 +1,14 @@
+D:\Moi_raboti\GitHub\C-sharp-Basics\09.WhileLoop-Lab\07.MinNumber\bin\Debug\netcoreapp3.1\07.MinNumber.exe
+D:\Moi_raboti\GitHub\C-sharp-Basics\09.WhileLoop-Lab\07.MinNumber\bin\Debug\netcoreapp3.1\07.MinNumber.deps.json
+D:\Moi_raboti\GitHub\C-sharp-Basics\09.WhileLoop-Lab\07.MinNumber\bin\Debug\netcoreapp3.1\07.MinNumber.runtimeconfig.json
+D:\Moi_raboti\GitHub\C-sharp-Basics\09.WhileLoop-Lab\07.MinNumber\bin\Debug\netcoreapp3.1\07.MinNumber.runtimeconfig.dev.json
+D:\Moi_raboti\GitHub\C-sharp-Basics\09.WhileLoop-Lab\07.MinNumber\bin\Debug\netcoreapp3.1\07.MinNumber.dll
+D:\Moi_raboti\GitHub\C-sharp-Basics\09.WhileLoop-Lab\07.MinNumber\bin\Debug\netcoreapp3.1\07.MinNumber.pdb
+D:\Moi_raboti\GitHub\C-sharp-Basics\09.WhileLoop-Lab\07.MinNumber\obj\Debug\netcoreapp3.1\07.MinNumber.csproj.AssemblyReference.cache
+D:\Moi_raboti\GitHub\C-sharp-Basics\09.WhileLoop-Lab\07.MinNumber\obj\Debug\netcoreapp3.1\07.MinNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\Moi_raboti\GitHub\C-sharp-Basics\09.WhileLoop-Lab\07.MinNumber\obj\Debug\netcoreapp3.1\07.MinNumber.AssemblyInfoInputs.cache
+D:\Moi_raboti\GitHub\C-sharp-Basics\09.WhileLoop-Lab\07.MinNumber\obj\Debug\netcoreapp3.1\07.MinNumber.AssemblyInfo.cs
+D:\Moi_raboti\GitHub\C-sharp-Basics\09.WhileLoop-Lab\07.MinNumber\obj\Debug\netcoreapp3.1\07.MinNumber.csproj.CoreCompileInputs.cache
+D:\Moi_raboti\GitHub\C-sharp-Basics\09.WhileLoop-Lab\07.MinNumber\obj\Debug\netcoreapp3.1\07.MinNumber.dll
+D:\Moi_raboti\GitHub\C-sharp-Basics\09.WhileLoop-Lab\07.MinNumber\obj\Debug\netcoreapp3.1\07.MinNumber.pdb
+D:\Moi_raboti\GitHub\C-sharp-Basics\09.WhileLoop-Lab\07.MinNumber\obj\Debug\netcoreapp3.1\07.MinNumber.genruntimeconfig.cache

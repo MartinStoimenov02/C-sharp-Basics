@@ -1,0 +1,14 @@
+D:\Moi_raboti\GitHub\C-sharp-Basics\09.WhileLoop-Lab\03.SumNumbers\bin\Debug\netcoreapp3.1\03.SumNumbers.exe
+D:\Moi_raboti\GitHub\C-sharp-Basics\09.WhileLoop-Lab\03.SumNumbers\bin\Debug\netcoreapp3.1\03.SumNumbers.deps.json
+D:\Moi_raboti\GitHub\C-sharp-Basics\09.WhileLoop-Lab\03.SumNumbers\bin\Debug\netcoreapp3.1\03.SumNumbers.runtimeconfig.json
+D:\Moi_raboti\GitHub\C-sharp-Basics\09.WhileLoop-Lab\03.SumNumbers\bin\Debug\netcoreapp3.1\03.SumNumbers.runtimeconfig.dev.json
+D:\Moi_raboti\GitHub\C-sharp-Basics\09.WhileLoop-Lab\03.SumNumbers\bin\Debug\netcoreapp3.1\03.SumNumbers.dll
+D:\Moi_raboti\GitHub\C-sharp-Basics\09.WhileLoop-Lab\03.SumNumbers\bin\Debug\netcoreapp3.1\03.SumNumbers.pdb
+D:\Moi_raboti\GitHub\C-sharp-Basics\09.WhileLoop-Lab\03.SumNumbers\obj\Debug\netcoreapp3.1\03.SumNumbers.csproj.AssemblyReference.cache
+D:\Moi_raboti\GitHub\C-sharp-Basics\09.WhileLoop-Lab\03.SumNumbers\obj\Debug\netcoreapp3.1\03.SumNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Moi_raboti\GitHub\C-sharp-Basics\09.WhileLoop-Lab\03.SumNumbers\obj\Debug\netcoreapp3.1\03.SumNumbers.AssemblyInfoInputs.cache
+D:\Moi_raboti\GitHub\C-sharp-Basics\09.WhileLoop-Lab\03.SumNumbers\obj\Debug\netcoreapp3.1\03.SumNumbers.AssemblyInfo.cs
+D:\Moi_raboti\GitHub\C-sharp-Basics\09.WhileLoop-Lab\03.SumNumbers\obj\Debug\netcoreapp3.1\03.SumNumbers.csproj.CoreCompileInputs.cache
+D:\Moi_raboti\GitHub\C-sharp-Basics\09.WhileLoop-Lab\03.SumNumbers\obj\Debug\netcoreapp3.1\03.SumNumbers.dll
+D:\Moi_raboti\GitHub\C-sharp-Basics\09.WhileLoop-Lab\03.SumNumbers\obj\Debug\netcoreapp3.1\03.SumNumbers.pdb
+D:\Moi_raboti\GitHub\C-sharp-Basics\09.WhileLoop-Lab\03.SumNumbers\obj\Debug\netcoreapp3.1\03.SumNumbers.genruntimeconfig.cache

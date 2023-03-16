@@ -1,0 +1,14 @@
+D:\Moi_raboti\GitHub\C-sharp-Basics\09.WhileLoop-Lab\01.ReadText\bin\Debug\netcoreapp3.1\01.ReadText.exe
+D:\Moi_raboti\GitHub\C-sharp-Basics\09.WhileLoop-Lab\01.ReadText\bin\Debug\netcoreapp3.1\01.ReadText.deps.json
+D:\Moi_raboti\GitHub\C-sharp-Basics\09.WhileLoop-Lab\01.ReadText\bin\Debug\netcoreapp3.1\01.ReadText.runtimeconfig.json
+D:\Moi_raboti\GitHub\C-sharp-Basics\09.WhileLoop-Lab\01.ReadText\bin\Debug\netcoreapp3.1\01.ReadText.runtimeconfig.dev.json
+D:\Moi_raboti\GitHub\C-sharp-Basics\09.WhileLoop-Lab\01.ReadText\bin\Debug\netcoreapp3.1\01.ReadText.dll
+D:\Moi_raboti\GitHub\C-sharp-Basics\09.WhileLoop-Lab\01.ReadText\bin\Debug\netcoreapp3.1\01.ReadText.pdb
+D:\Moi_raboti\GitHub\C-sharp-Basics\09.WhileLoop-Lab\01.ReadText\obj\Debug\netcoreapp3.1\01.ReadText.csproj.AssemblyReference.cache
+D:\Moi_raboti\GitHub\C-sharp-Basics\09.WhileLoop-Lab\01.ReadText\obj\Debug\netcoreapp3.1\01.ReadText.GeneratedMSBuildEditorConfig.editorconfig
+D:\Moi_raboti\GitHub\C-sharp-Basics\09.WhileLoop-Lab\01.ReadText\obj\Debug\netcoreapp3.1\01.ReadText.AssemblyInfoInputs.cache
+D:\Moi_raboti\GitHub\C-sharp-Basics\09.WhileLoop-Lab\01.ReadText\obj\Debug\netcoreapp3.1\01.ReadText.AssemblyInfo.cs
+D:\Moi_raboti\GitHub\C-sharp-Basics\09.WhileLoop-Lab\01.ReadText\obj\Debug\netcoreapp3.1\01.ReadText.csproj.CoreCompileInputs.cache
+D:\Moi_raboti\GitHub\C-sharp-Basics\09.WhileLoop-Lab\01.ReadText\obj\Debug\netcoreapp3.1\01.ReadText.dll
+D:\Moi_raboti\GitHub\C-sharp-Basics\09.WhileLoop-Lab\01.ReadText\obj\Debug\netcoreapp3.1\01.ReadText.pdb
+D:\Moi_raboti\GitHub\C-sharp-Basics\09.WhileLoop-Lab\01.ReadText\obj\Debug\netcoreapp3.1\01.ReadText.genruntimeconfig.cache

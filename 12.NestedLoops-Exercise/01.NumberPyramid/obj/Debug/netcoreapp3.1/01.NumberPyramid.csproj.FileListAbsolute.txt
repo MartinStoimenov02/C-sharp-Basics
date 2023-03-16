@@ -1,0 +1,14 @@
+D:\Moi_raboti\GitHub\C-sharp-Basics\12.NestedLoops-Exercise\01.NumberPyramid\bin\Debug\netcoreapp3.1\01.NumberPyramid.exe
+D:\Moi_raboti\GitHub\C-sharp-Basics\12.NestedLoops-Exercise\01.NumberPyramid\bin\Debug\netcoreapp3.1\01.NumberPyramid.deps.json
+D:\Moi_raboti\GitHub\C-sharp-Basics\12.NestedLoops-Exercise\01.NumberPyramid\bin\Debug\netcoreapp3.1\01.NumberPyramid.runtimeconfig.json
+D:\Moi_raboti\GitHub\C-sharp-Basics\12.NestedLoops-Exercise\01.NumberPyramid\bin\Debug\netcoreapp3.1\01.NumberPyramid.runtimeconfig.dev.json
+D:\Moi_raboti\GitHub\C-sharp-Basics\12.NestedLoops-Exercise\01.NumberPyramid\bin\Debug\netcoreapp3.1\01.NumberPyramid.dll
+D:\Moi_raboti\GitHub\C-sharp-Basics\12.NestedLoops-Exercise\01.NumberPyramid\bin\Debug\netcoreapp3.1\01.NumberPyramid.pdb
+D:\Moi_raboti\GitHub\C-sharp-Basics\12.NestedLoops-Exercise\01.NumberPyramid\obj\Debug\netcoreapp3.1\01.NumberPyramid.csproj.AssemblyReference.cache
+D:\Moi_raboti\GitHub\C-sharp-Basics\12.NestedLoops-Exercise\01.NumberPyramid\obj\Debug\netcoreapp3.1\01.NumberPyramid.GeneratedMSBuildEditorConfig.editorconfig
+D:\Moi_raboti\GitHub\C-sharp-Basics\12.NestedLoops-Exercise\01.NumberPyramid\obj\Debug\netcoreapp3.1\01.NumberPyramid.AssemblyInfoInputs.cache
+D:\Moi_raboti\GitHub\C-sharp-Basics\12.NestedLoops-Exercise\01.NumberPyramid\obj\Debug\netcoreapp3.1\01.NumberPyramid.AssemblyInfo.cs
+D:\Moi_raboti\GitHub\C-sharp-Basics\12.NestedLoops-Exercise\01.NumberPyramid\obj\Debug\netcoreapp3.1\01.NumberPyramid.csproj.CoreCompileInputs.cache
+D:\Moi_raboti\GitHub\C-sharp-Basics\12.NestedLoops-Exercise\01.NumberPyramid\obj\Debug\netcoreapp3.1\01.NumberPyramid.dll
+D:\Moi_raboti\GitHub\C-sharp-Basics\12.NestedLoops-Exercise\01.NumberPyramid\obj\Debug\netcoreapp3.1\01.NumberPyramid.pdb
+D:\Moi_raboti\GitHub\C-sharp-Basics\12.NestedLoops-Exercise\01.NumberPyramid\obj\Debug\netcoreapp3.1\01.NumberPyramid.genruntimeconfig.cache

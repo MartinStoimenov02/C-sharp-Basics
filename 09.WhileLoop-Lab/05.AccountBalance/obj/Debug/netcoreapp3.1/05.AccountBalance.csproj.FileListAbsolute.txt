@@ -1,0 +1,14 @@
+D:\Moi_raboti\GitHub\C-sharp-Basics\09.WhileLoop-Lab\05.AccountBalance\bin\Debug\netcoreapp3.1\05.AccountBalance.exe
+D:\Moi_raboti\GitHub\C-sharp-Basics\09.WhileLoop-Lab\05.AccountBalance\bin\Debug\netcoreapp3.1\05.AccountBalance.deps.json
+D:\Moi_raboti\GitHub\C-sharp-Basics\09.WhileLoop-Lab\05.AccountBalance\bin\Debug\netcoreapp3.1\05.AccountBalance.runtimeconfig.json
+D:\Moi_raboti\GitHub\C-sharp-Basics\09.WhileLoop-Lab\05.AccountBalance\bin\Debug\netcoreapp3.1\05.AccountBalance.runtimeconfig.dev.json
+D:\Moi_raboti\GitHub\C-sharp-Basics\09.WhileLoop-Lab\05.AccountBalance\bin\Debug\netcoreapp3.1\05.AccountBalance.dll
+D:\Moi_raboti\GitHub\C-sharp-Basics\09.WhileLoop-Lab\05.AccountBalance\bin\Debug\netcoreapp3.1\05.AccountBalance.pdb
+D:\Moi_raboti\GitHub\C-sharp-Basics\09.WhileLoop-Lab\05.AccountBalance\obj\Debug\netcoreapp3.1\05.AccountBalance.csproj.AssemblyReference.cache
+D:\Moi_raboti\GitHub\C-sharp-Basics\09.WhileLoop-Lab\05.AccountBalance\obj\Debug\netcoreapp3.1\05.AccountBalance.GeneratedMSBuildEditorConfig.editorconfig
+D:\Moi_raboti\GitHub\C-sharp-Basics\09.WhileLoop-Lab\05.AccountBalance\obj\Debug\netcoreapp3.1\05.AccountBalance.AssemblyInfoInputs.cache
+D:\Moi_raboti\GitHub\C-sharp-Basics\09.WhileLoop-Lab\05.AccountBalance\obj\Debug\netcoreapp3.1\05.AccountBalance.AssemblyInfo.cs
+D:\Moi_raboti\GitHub\C-sharp-Basics\09.WhileLoop-Lab\05.AccountBalance\obj\Debug\netcoreapp3.1\05.AccountBalance.csproj.CoreCompileInputs.cache
+D:\Moi_raboti\GitHub\C-sharp-Basics\09.WhileLoop-Lab\05.AccountBalance\obj\Debug\netcoreapp3.1\05.AccountBalance.dll
+D:\Moi_raboti\GitHub\C-sharp-Basics\09.WhileLoop-Lab\05.AccountBalance\obj\Debug\netcoreapp3.1\05.AccountBalance.pdb
+D:\Moi_raboti\GitHub\C-sharp-Basics\09.WhileLoop-Lab\05.AccountBalance\obj\Debug\netcoreapp3.1\05.AccountBalance.genruntimeconfig.cache

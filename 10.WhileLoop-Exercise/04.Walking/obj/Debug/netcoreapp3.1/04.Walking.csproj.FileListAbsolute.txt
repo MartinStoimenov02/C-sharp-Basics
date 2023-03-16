@@ -1,0 +1,14 @@
+D:\Moi_raboti\GitHub\C-sharp-Basics\10.WhileLoop-Exercise\04.Walking\bin\Debug\netcoreapp3.1\04.Walking.exe
+D:\Moi_raboti\GitHub\C-sharp-Basics\10.WhileLoop-Exercise\04.Walking\bin\Debug\netcoreapp3.1\04.Walking.deps.json
+D:\Moi_raboti\GitHub\C-sharp-Basics\10.WhileLoop-Exercise\04.Walking\bin\Debug\netcoreapp3.1\04.Walking.runtimeconfig.json
+D:\Moi_raboti\GitHub\C-sharp-Basics\10.WhileLoop-Exercise\04.Walking\bin\Debug\netcoreapp3.1\04.Walking.runtimeconfig.dev.json
+D:\Moi_raboti\GitHub\C-sharp-Basics\10.WhileLoop-Exercise\04.Walking\bin\Debug\netcoreapp3.1\04.Walking.dll
+D:\Moi_raboti\GitHub\C-sharp-Basics\10.WhileLoop-Exercise\04.Walking\bin\Debug\netcoreapp3.1\04.Walking.pdb
+D:\Moi_raboti\GitHub\C-sharp-Basics\10.WhileLoop-Exercise\04.Walking\obj\Debug\netcoreapp3.1\04.Walking.csproj.AssemblyReference.cache
+D:\Moi_raboti\GitHub\C-sharp-Basics\10.WhileLoop-Exercise\04.Walking\obj\Debug\netcoreapp3.1\04.Walking.GeneratedMSBuildEditorConfig.editorconfig
+D:\Moi_raboti\GitHub\C-sharp-Basics\10.WhileLoop-Exercise\04.Walking\obj\Debug\netcoreapp3.1\04.Walking.AssemblyInfoInputs.cache
+D:\Moi_raboti\GitHub\C-sharp-Basics\10.WhileLoop-Exercise\04.Walking\obj\Debug\netcoreapp3.1\04.Walking.AssemblyInfo.cs
+D:\Moi_raboti\GitHub\C-sharp-Basics\10.WhileLoop-Exercise\04.Walking\obj\Debug\netcoreapp3.1\04.Walking.csproj.CoreCompileInputs.cache
+D:\Moi_raboti\GitHub\C-sharp-Basics\10.WhileLoop-Exercise\04.Walking\obj\Debug\netcoreapp3.1\04.Walking.dll
+D:\Moi_raboti\GitHub\C-sharp-Basics\10.WhileLoop-Exercise\04.Walking\obj\Debug\netcoreapp3.1\04.Walking.pdb
+D:\Moi_raboti\GitHub\C-sharp-Basics\10.WhileLoop-Exercise\04.Walking\obj\Debug\netcoreapp3.1\04.Walking.genruntimeconfig.cache

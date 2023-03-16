@@ -1,0 +1,14 @@
+D:\Moi_raboti\GitHub\C-sharp-Basics\10.WhileLoop-Exercise\06.Cake\bin\Debug\netcoreapp3.1\06.Cake.exe
+D:\Moi_raboti\GitHub\C-sharp-Basics\10.WhileLoop-Exercise\06.Cake\bin\Debug\netcoreapp3.1\06.Cake.deps.json
+D:\Moi_raboti\GitHub\C-sharp-Basics\10.WhileLoop-Exercise\06.Cake\bin\Debug\netcoreapp3.1\06.Cake.runtimeconfig.json
+D:\Moi_raboti\GitHub\C-sharp-Basics\10.WhileLoop-Exercise\06.Cake\bin\Debug\netcoreapp3.1\06.Cake.runtimeconfig.dev.json
+D:\Moi_raboti\GitHub\C-sharp-Basics\10.WhileLoop-Exercise\06.Cake\bin\Debug\netcoreapp3.1\06.Cake.dll
+D:\Moi_raboti\GitHub\C-sharp-Basics\10.WhileLoop-Exercise\06.Cake\bin\Debug\netcoreapp3.1\06.Cake.pdb
+D:\Moi_raboti\GitHub\C-sharp-Basics\10.WhileLoop-Exercise\06.Cake\obj\Debug\netcoreapp3.1\06.Cake.csproj.AssemblyReference.cache
+D:\Moi_raboti\GitHub\C-sharp-Basics\10.WhileLoop-Exercise\06.Cake\obj\Debug\netcoreapp3.1\06.Cake.GeneratedMSBuildEditorConfig.editorconfig
+D:\Moi_raboti\GitHub\C-sharp-Basics\10.WhileLoop-Exercise\06.Cake\obj\Debug\netcoreapp3.1\06.Cake.AssemblyInfoInputs.cache
+D:\Moi_raboti\GitHub\C-sharp-Basics\10.WhileLoop-Exercise\06.Cake\obj\Debug\netcoreapp3.1\06.Cake.AssemblyInfo.cs
+D:\Moi_raboti\GitHub\C-sharp-Basics\10.WhileLoop-Exercise\06.Cake\obj\Debug\netcoreapp3.1\06.Cake.csproj.CoreCompileInputs.cache
+D:\Moi_raboti\GitHub\C-sharp-Basics\10.WhileLoop-Exercise\06.Cake\obj\Debug\netcoreapp3.1\06.Cake.dll
+D:\Moi_raboti\GitHub\C-sharp-Basics\10.WhileLoop-Exercise\06.Cake\obj\Debug\netcoreapp3.1\06.Cake.pdb
+D:\Moi_raboti\GitHub\C-sharp-Basics\10.WhileLoop-Exercise\06.Cake\obj\Debug\netcoreapp3.1\06.Cake.genruntimeconfig.cache

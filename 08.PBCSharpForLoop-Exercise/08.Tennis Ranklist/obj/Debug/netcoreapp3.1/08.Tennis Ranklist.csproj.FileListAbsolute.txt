@@ -1,0 +1,14 @@
+D:\Moi_raboti\GitHub\C-sharp-Basics\08.PBCSharpForLoop-Exercise\08.Tennis Ranklist\bin\Debug\netcoreapp3.1\08.Tennis Ranklist.exe
+D:\Moi_raboti\GitHub\C-sharp-Basics\08.PBCSharpForLoop-Exercise\08.Tennis Ranklist\bin\Debug\netcoreapp3.1\08.Tennis Ranklist.deps.json
+D:\Moi_raboti\GitHub\C-sharp-Basics\08.PBCSharpForLoop-Exercise\08.Tennis Ranklist\bin\Debug\netcoreapp3.1\08.Tennis Ranklist.runtimeconfig.json
+D:\Moi_raboti\GitHub\C-sharp-Basics\08.PBCSharpForLoop-Exercise\08.Tennis Ranklist\bin\Debug\netcoreapp3.1\08.Tennis Ranklist.runtimeconfig.dev.json
+D:\Moi_raboti\GitHub\C-sharp-Basics\08.PBCSharpForLoop-Exercise\08.Tennis Ranklist\bin\Debug\netcoreapp3.1\08.Tennis Ranklist.dll
+D:\Moi_raboti\GitHub\C-sharp-Basics\08.PBCSharpForLoop-Exercise\08.Tennis Ranklist\bin\Debug\netcoreapp3.1\08.Tennis Ranklist.pdb
+D:\Moi_raboti\GitHub\C-sharp-Basics\08.PBCSharpForLoop-Exercise\08.Tennis Ranklist\obj\Debug\netcoreapp3.1\08.Tennis Ranklist.csproj.AssemblyReference.cache
+D:\Moi_raboti\GitHub\C-sharp-Basics\08.PBCSharpForLoop-Exercise\08.Tennis Ranklist\obj\Debug\netcoreapp3.1\08.Tennis Ranklist.GeneratedMSBuildEditorConfig.editorconfig
+D:\Moi_raboti\GitHub\C-sharp-Basics\08.PBCSharpForLoop-Exercise\08.Tennis Ranklist\obj\Debug\netcoreapp3.1\08.Tennis Ranklist.AssemblyInfoInputs.cache
+D:\Moi_raboti\GitHub\C-sharp-Basics\08.PBCSharpForLoop-Exercise\08.Tennis Ranklist\obj\Debug\netcoreapp3.1\08.Tennis Ranklist.AssemblyInfo.cs
+D:\Moi_raboti\GitHub\C-sharp-Basics\08.PBCSharpForLoop-Exercise\08.Tennis Ranklist\obj\Debug\netcoreapp3.1\08.Tennis Ranklist.csproj.CoreCompileInputs.cache
+D:\Moi_raboti\GitHub\C-sharp-Basics\08.PBCSharpForLoop-Exercise\08.Tennis Ranklist\obj\Debug\netcoreapp3.1\08.Tennis Ranklist.dll
+D:\Moi_raboti\GitHub\C-sharp-Basics\08.PBCSharpForLoop-Exercise\08.Tennis Ranklist\obj\Debug\netcoreapp3.1\08.Tennis Ranklist.pdb
+D:\Moi_raboti\GitHub\C-sharp-Basics\08.PBCSharpForLoop-Exercise\08.Tennis Ranklist\obj\Debug\netcoreapp3.1\08.Tennis Ranklist.genruntimeconfig.cache

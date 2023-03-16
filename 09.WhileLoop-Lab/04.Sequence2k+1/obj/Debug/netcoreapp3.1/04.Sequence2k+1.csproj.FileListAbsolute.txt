@@ -1,0 +1,14 @@
+D:\Moi_raboti\GitHub\C-sharp-Basics\09.WhileLoop-Lab\04.Sequence2k+1\bin\Debug\netcoreapp3.1\04.Sequence2k+1.exe
+D:\Moi_raboti\GitHub\C-sharp-Basics\09.WhileLoop-Lab\04.Sequence2k+1\bin\Debug\netcoreapp3.1\04.Sequence2k+1.deps.json
+D:\Moi_raboti\GitHub\C-sharp-Basics\09.WhileLoop-Lab\04.Sequence2k+1\bin\Debug\netcoreapp3.1\04.Sequence2k+1.runtimeconfig.json
+D:\Moi_raboti\GitHub\C-sharp-Basics\09.WhileLoop-Lab\04.Sequence2k+1\bin\Debug\netcoreapp3.1\04.Sequence2k+1.runtimeconfig.dev.json
+D:\Moi_raboti\GitHub\C-sharp-Basics\09.WhileLoop-Lab\04.Sequence2k+1\bin\Debug\netcoreapp3.1\04.Sequence2k+1.dll
+D:\Moi_raboti\GitHub\C-sharp-Basics\09.WhileLoop-Lab\04.Sequence2k+1\bin\Debug\netcoreapp3.1\04.Sequence2k+1.pdb
+D:\Moi_raboti\GitHub\C-sharp-Basics\09.WhileLoop-Lab\04.Sequence2k+1\obj\Debug\netcoreapp3.1\04.Sequence2k+1.csproj.AssemblyReference.cache
+D:\Moi_raboti\GitHub\C-sharp-Basics\09.WhileLoop-Lab\04.Sequence2k+1\obj\Debug\netcoreapp3.1\04.Sequence2k+1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Moi_raboti\GitHub\C-sharp-Basics\09.WhileLoop-Lab\04.Sequence2k+1\obj\Debug\netcoreapp3.1\04.Sequence2k+1.AssemblyInfoInputs.cache
+D:\Moi_raboti\GitHub\C-sharp-Basics\09.WhileLoop-Lab\04.Sequence2k+1\obj\Debug\netcoreapp3.1\04.Sequence2k+1.AssemblyInfo.cs
+D:\Moi_raboti\GitHub\C-sharp-Basics\09.WhileLoop-Lab\04.Sequence2k+1\obj\Debug\netcoreapp3.1\04.Sequence2k+1.csproj.CoreCompileInputs.cache
+D:\Moi_raboti\GitHub\C-sharp-Basics\09.WhileLoop-Lab\04.Sequence2k+1\obj\Debug\netcoreapp3.1\04.Sequence2k+1.dll
+D:\Moi_raboti\GitHub\C-sharp-Basics\09.WhileLoop-Lab\04.Sequence2k+1\obj\Debug\netcoreapp3.1\04.Sequence2k+1.pdb
+D:\Moi_raboti\GitHub\C-sharp-Basics\09.WhileLoop-Lab\04.Sequence2k+1\obj\Debug\netcoreapp3.1\04.Sequence2k+1.genruntimeconfig.cache

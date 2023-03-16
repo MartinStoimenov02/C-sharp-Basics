@@ -1,0 +1,14 @@
+D:\Moi_raboti\GitHub\C-sharp-Basics\09.WhileLoop-Lab\06.MaxNumber\bin\Debug\netcoreapp3.1\06.MaxNumber.exe
+D:\Moi_raboti\GitHub\C-sharp-Basics\09.WhileLoop-Lab\06.MaxNumber\bin\Debug\netcoreapp3.1\06.MaxNumber.deps.json
+D:\Moi_raboti\GitHub\C-sharp-Basics\09.WhileLoop-Lab\06.MaxNumber\bin\Debug\netcoreapp3.1\06.MaxNumber.runtimeconfig.json
+D:\Moi_raboti\GitHub\C-sharp-Basics\09.WhileLoop-Lab\06.MaxNumber\bin\Debug\netcoreapp3.1\06.MaxNumber.runtimeconfig.dev.json
+D:\Moi_raboti\GitHub\C-sharp-Basics\09.WhileLoop-Lab\06.MaxNumber\bin\Debug\netcoreapp3.1\06.MaxNumber.dll
+D:\Moi_raboti\GitHub\C-sharp-Basics\09.WhileLoop-Lab\06.MaxNumber\bin\Debug\netcoreapp3.1\06.MaxNumber.pdb
+D:\Moi_raboti\GitHub\C-sharp-Basics\09.WhileLoop-Lab\06.MaxNumber\obj\Debug\netcoreapp3.1\06.MaxNumber.csproj.AssemblyReference.cache
+D:\Moi_raboti\GitHub\C-sharp-Basics\09.WhileLoop-Lab\06.MaxNumber\obj\Debug\netcoreapp3.1\06.MaxNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\Moi_raboti\GitHub\C-sharp-Basics\09.WhileLoop-Lab\06.MaxNumber\obj\Debug\netcoreapp3.1\06.MaxNumber.AssemblyInfoInputs.cache
+D:\Moi_raboti\GitHub\C-sharp-Basics\09.WhileLoop-Lab\06.MaxNumber\obj\Debug\netcoreapp3.1\06.MaxNumber.AssemblyInfo.cs
+D:\Moi_raboti\GitHub\C-sharp-Basics\09.WhileLoop-Lab\06.MaxNumber\obj\Debug\netcoreapp3.1\06.MaxNumber.csproj.CoreCompileInputs.cache
+D:\Moi_raboti\GitHub\C-sharp-Basics\09.WhileLoop-Lab\06.MaxNumber\obj\Debug\netcoreapp3.1\06.MaxNumber.dll
+D:\Moi_raboti\GitHub\C-sharp-Basics\09.WhileLoop-Lab\06.MaxNumber\obj\Debug\netcoreapp3.1\06.MaxNumber.pdb
+D:\Moi_raboti\GitHub\C-sharp-Basics\09.WhileLoop-Lab\06.MaxNumber\obj\Debug\netcoreapp3.1\06.MaxNumber.genruntimeconfig.cache

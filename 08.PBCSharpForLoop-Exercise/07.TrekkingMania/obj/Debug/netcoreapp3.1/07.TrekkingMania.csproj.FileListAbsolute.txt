@@ -1,0 +1,14 @@
+D:\Moi_raboti\GitHub\C-sharp-Basics\08.PBCSharpForLoop-Exercise\07.TrekkingMania\bin\Debug\netcoreapp3.1\07.TrekkingMania.exe
+D:\Moi_raboti\GitHub\C-sharp-Basics\08.PBCSharpForLoop-Exercise\07.TrekkingMania\bin\Debug\netcoreapp3.1\07.TrekkingMania.deps.json
+D:\Moi_raboti\GitHub\C-sharp-Basics\08.PBCSharpForLoop-Exercise\07.TrekkingMania\bin\Debug\netcoreapp3.1\07.TrekkingMania.runtimeconfig.json
+D:\Moi_raboti\GitHub\C-sharp-Basics\08.PBCSharpForLoop-Exercise\07.TrekkingMania\bin\Debug\netcoreapp3.1\07.TrekkingMania.runtimeconfig.dev.json
+D:\Moi_raboti\GitHub\C-sharp-Basics\08.PBCSharpForLoop-Exercise\07.TrekkingMania\bin\Debug\netcoreapp3.1\07.TrekkingMania.dll
+D:\Moi_raboti\GitHub\C-sharp-Basics\08.PBCSharpForLoop-Exercise\07.TrekkingMania\bin\Debug\netcoreapp3.1\07.TrekkingMania.pdb
+D:\Moi_raboti\GitHub\C-sharp-Basics\08.PBCSharpForLoop-Exercise\07.TrekkingMania\obj\Debug\netcoreapp3.1\07.TrekkingMania.csproj.AssemblyReference.cache
+D:\Moi_raboti\GitHub\C-sharp-Basics\08.PBCSharpForLoop-Exercise\07.TrekkingMania\obj\Debug\netcoreapp3.1\07.TrekkingMania.GeneratedMSBuildEditorConfig.editorconfig
+D:\Moi_raboti\GitHub\C-sharp-Basics\08.PBCSharpForLoop-Exercise\07.TrekkingMania\obj\Debug\netcoreapp3.1\07.TrekkingMania.AssemblyInfoInputs.cache
+D:\Moi_raboti\GitHub\C-sharp-Basics\08.PBCSharpForLoop-Exercise\07.TrekkingMania\obj\Debug\netcoreapp3.1\07.TrekkingMania.AssemblyInfo.cs
+D:\Moi_raboti\GitHub\C-sharp-Basics\08.PBCSharpForLoop-Exercise\07.TrekkingMania\obj\Debug\netcoreapp3.1\07.TrekkingMania.csproj.CoreCompileInputs.cache
+D:\Moi_raboti\GitHub\C-sharp-Basics\08.PBCSharpForLoop-Exercise\07.TrekkingMania\obj\Debug\netcoreapp3.1\07.TrekkingMania.dll
+D:\Moi_raboti\GitHub\C-sharp-Basics\08.PBCSharpForLoop-Exercise\07.TrekkingMania\obj\Debug\netcoreapp3.1\07.TrekkingMania.pdb
+D:\Moi_raboti\GitHub\C-sharp-Basics\08.PBCSharpForLoop-Exercise\07.TrekkingMania\obj\Debug\netcoreapp3.1\07.TrekkingMania.genruntimeconfig.cache

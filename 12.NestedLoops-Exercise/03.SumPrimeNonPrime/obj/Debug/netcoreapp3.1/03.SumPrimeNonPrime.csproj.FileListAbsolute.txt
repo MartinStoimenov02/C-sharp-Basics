@@ -1,0 +1,14 @@
+D:\Moi_raboti\GitHub\C-sharp-Basics\12.NestedLoops-Exercise\03.SumPrimeNonPrime\bin\Debug\netcoreapp3.1\03.SumPrimeNonPrime.exe
+D:\Moi_raboti\GitHub\C-sharp-Basics\12.NestedLoops-Exercise\03.SumPrimeNonPrime\bin\Debug\netcoreapp3.1\03.SumPrimeNonPrime.deps.json
+D:\Moi_raboti\GitHub\C-sharp-Basics\12.NestedLoops-Exercise\03.SumPrimeNonPrime\bin\Debug\netcoreapp3.1\03.SumPrimeNonPrime.runtimeconfig.json
+D:\Moi_raboti\GitHub\C-sharp-Basics\12.NestedLoops-Exercise\03.SumPrimeNonPrime\bin\Debug\netcoreapp3.1\03.SumPrimeNonPrime.runtimeconfig.dev.json
+D:\Moi_raboti\GitHub\C-sharp-Basics\12.NestedLoops-Exercise\03.SumPrimeNonPrime\bin\Debug\netcoreapp3.1\03.SumPrimeNonPrime.dll
+D:\Moi_raboti\GitHub\C-sharp-Basics\12.NestedLoops-Exercise\03.SumPrimeNonPrime\bin\Debug\netcoreapp3.1\03.SumPrimeNonPrime.pdb
+D:\Moi_raboti\GitHub\C-sharp-Basics\12.NestedLoops-Exercise\03.SumPrimeNonPrime\obj\Debug\netcoreapp3.1\03.SumPrimeNonPrime.csproj.AssemblyReference.cache
+D:\Moi_raboti\GitHub\C-sharp-Basics\12.NestedLoops-Exercise\03.SumPrimeNonPrime\obj\Debug\netcoreapp3.1\03.SumPrimeNonPrime.GeneratedMSBuildEditorConfig.editorconfig
+D:\Moi_raboti\GitHub\C-sharp-Basics\12.NestedLoops-Exercise\03.SumPrimeNonPrime\obj\Debug\netcoreapp3.1\03.SumPrimeNonPrime.AssemblyInfoInputs.cache
+D:\Moi_raboti\GitHub\C-sharp-Basics\12.NestedLoops-Exercise\03.SumPrimeNonPrime\obj\Debug\netcoreapp3.1\03.SumPrimeNonPrime.AssemblyInfo.cs
+D:\Moi_raboti\GitHub\C-sharp-Basics\12.NestedLoops-Exercise\03.SumPrimeNonPrime\obj\Debug\netcoreapp3.1\03.SumPrimeNonPrime.csproj.CoreCompileInputs.cache
+D:\Moi_raboti\GitHub\C-sharp-Basics\12.NestedLoops-Exercise\03.SumPrimeNonPrime\obj\Debug\netcoreapp3.1\03.SumPrimeNonPrime.dll
+D:\Moi_raboti\GitHub\C-sharp-Basics\12.NestedLoops-Exercise\03.SumPrimeNonPrime\obj\Debug\netcoreapp3.1\03.SumPrimeNonPrime.pdb
+D:\Moi_raboti\GitHub\C-sharp-Basics\12.NestedLoops-Exercise\03.SumPrimeNonPrime\obj\Debug\netcoreapp3.1\03.SumPrimeNonPrime.genruntimeconfig.cache

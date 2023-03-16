@@ -1,0 +1,14 @@
+D:\Moi_raboti\GitHub\C-sharp-Basics\09.WhileLoop-Lab\08.Graduation\bin\Debug\netcoreapp3.1\08.Graduation.exe
+D:\Moi_raboti\GitHub\C-sharp-Basics\09.WhileLoop-Lab\08.Graduation\bin\Debug\netcoreapp3.1\08.Graduation.deps.json
+D:\Moi_raboti\GitHub\C-sharp-Basics\09.WhileLoop-Lab\08.Graduation\bin\Debug\netcoreapp3.1\08.Graduation.runtimeconfig.json
+D:\Moi_raboti\GitHub\C-sharp-Basics\09.WhileLoop-Lab\08.Graduation\bin\Debug\netcoreapp3.1\08.Graduation.runtimeconfig.dev.json
+D:\Moi_raboti\GitHub\C-sharp-Basics\09.WhileLoop-Lab\08.Graduation\bin\Debug\netcoreapp3.1\08.Graduation.dll
+D:\Moi_raboti\GitHub\C-sharp-Basics\09.WhileLoop-Lab\08.Graduation\bin\Debug\netcoreapp3.1\08.Graduation.pdb
+D:\Moi_raboti\GitHub\C-sharp-Basics\09.WhileLoop-Lab\08.Graduation\obj\Debug\netcoreapp3.1\08.Graduation.csproj.AssemblyReference.cache
+D:\Moi_raboti\GitHub\C-sharp-Basics\09.WhileLoop-Lab\08.Graduation\obj\Debug\netcoreapp3.1\08.Graduation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Moi_raboti\GitHub\C-sharp-Basics\09.WhileLoop-Lab\08.Graduation\obj\Debug\netcoreapp3.1\08.Graduation.AssemblyInfoInputs.cache
+D:\Moi_raboti\GitHub\C-sharp-Basics\09.WhileLoop-Lab\08.Graduation\obj\Debug\netcoreapp3.1\08.Graduation.AssemblyInfo.cs
+D:\Moi_raboti\GitHub\C-sharp-Basics\09.WhileLoop-Lab\08.Graduation\obj\Debug\netcoreapp3.1\08.Graduation.csproj.CoreCompileInputs.cache
+D:\Moi_raboti\GitHub\C-sharp-Basics\09.WhileLoop-Lab\08.Graduation\obj\Debug\netcoreapp3.1\08.Graduation.dll
+D:\Moi_raboti\GitHub\C-sharp-Basics\09.WhileLoop-Lab\08.Graduation\obj\Debug\netcoreapp3.1\08.Graduation.pdb
+D:\Moi_raboti\GitHub\C-sharp-Basics\09.WhileLoop-Lab\08.Graduation\obj\Debug\netcoreapp3.1\08.Graduation.genruntimeconfig.cache

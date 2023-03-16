@@ -1,0 +1,14 @@
+D:\Moi_raboti\GitHub\C-sharp-Basics\11.NestedLoops-Lab\01.Clock\bin\Debug\netcoreapp3.1\01.Clock.exe
+D:\Moi_raboti\GitHub\C-sharp-Basics\11.NestedLoops-Lab\01.Clock\bin\Debug\netcoreapp3.1\01.Clock.deps.json
+D:\Moi_raboti\GitHub\C-sharp-Basics\11.NestedLoops-Lab\01.Clock\bin\Debug\netcoreapp3.1\01.Clock.runtimeconfig.json
+D:\Moi_raboti\GitHub\C-sharp-Basics\11.NestedLoops-Lab\01.Clock\bin\Debug\netcoreapp3.1\01.Clock.runtimeconfig.dev.json
+D:\Moi_raboti\GitHub\C-sharp-Basics\11.NestedLoops-Lab\01.Clock\bin\Debug\netcoreapp3.1\01.Clock.dll
+D:\Moi_raboti\GitHub\C-sharp-Basics\11.NestedLoops-Lab\01.Clock\bin\Debug\netcoreapp3.1\01.Clock.pdb
+D:\Moi_raboti\GitHub\C-sharp-Basics\11.NestedLoops-Lab\01.Clock\obj\Debug\netcoreapp3.1\01.Clock.csproj.AssemblyReference.cache
+D:\Moi_raboti\GitHub\C-sharp-Basics\11.NestedLoops-Lab\01.Clock\obj\Debug\netcoreapp3.1\01.Clock.GeneratedMSBuildEditorConfig.editorconfig
+D:\Moi_raboti\GitHub\C-sharp-Basics\11.NestedLoops-Lab\01.Clock\obj\Debug\netcoreapp3.1\01.Clock.AssemblyInfoInputs.cache
+D:\Moi_raboti\GitHub\C-sharp-Basics\11.NestedLoops-Lab\01.Clock\obj\Debug\netcoreapp3.1\01.Clock.AssemblyInfo.cs
+D:\Moi_raboti\GitHub\C-sharp-Basics\11.NestedLoops-Lab\01.Clock\obj\Debug\netcoreapp3.1\01.Clock.csproj.CoreCompileInputs.cache
+D:\Moi_raboti\GitHub\C-sharp-Basics\11.NestedLoops-Lab\01.Clock\obj\Debug\netcoreapp3.1\01.Clock.dll
+D:\Moi_raboti\GitHub\C-sharp-Basics\11.NestedLoops-Lab\01.Clock\obj\Debug\netcoreapp3.1\01.Clock.pdb
+D:\Moi_raboti\GitHub\C-sharp-Basics\11.NestedLoops-Lab\01.Clock\obj\Debug\netcoreapp3.1\01.Clock.genruntimeconfig.cache

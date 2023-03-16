@@ -1,0 +1,14 @@
+D:\Moi_raboti\GitHub\C-sharp-Basics\10.WhileLoop-Exercise\01.OldBooks\bin\Debug\netcoreapp3.1\01.OldBooks.exe
+D:\Moi_raboti\GitHub\C-sharp-Basics\10.WhileLoop-Exercise\01.OldBooks\bin\Debug\netcoreapp3.1\01.OldBooks.deps.json
+D:\Moi_raboti\GitHub\C-sharp-Basics\10.WhileLoop-Exercise\01.OldBooks\bin\Debug\netcoreapp3.1\01.OldBooks.runtimeconfig.json
+D:\Moi_raboti\GitHub\C-sharp-Basics\10.WhileLoop-Exercise\01.OldBooks\bin\Debug\netcoreapp3.1\01.OldBooks.runtimeconfig.dev.json
+D:\Moi_raboti\GitHub\C-sharp-Basics\10.WhileLoop-Exercise\01.OldBooks\bin\Debug\netcoreapp3.1\01.OldBooks.dll
+D:\Moi_raboti\GitHub\C-sharp-Basics\10.WhileLoop-Exercise\01.OldBooks\bin\Debug\netcoreapp3.1\01.OldBooks.pdb
+D:\Moi_raboti\GitHub\C-sharp-Basics\10.WhileLoop-Exercise\01.OldBooks\obj\Debug\netcoreapp3.1\01.OldBooks.csproj.AssemblyReference.cache
+D:\Moi_raboti\GitHub\C-sharp-Basics\10.WhileLoop-Exercise\01.OldBooks\obj\Debug\netcoreapp3.1\01.OldBooks.GeneratedMSBuildEditorConfig.editorconfig
+D:\Moi_raboti\GitHub\C-sharp-Basics\10.WhileLoop-Exercise\01.OldBooks\obj\Debug\netcoreapp3.1\01.OldBooks.AssemblyInfoInputs.cache
+D:\Moi_raboti\GitHub\C-sharp-Basics\10.WhileLoop-Exercise\01.OldBooks\obj\Debug\netcoreapp3.1\01.OldBooks.AssemblyInfo.cs
+D:\Moi_raboti\GitHub\C-sharp-Basics\10.WhileLoop-Exercise\01.OldBooks\obj\Debug\netcoreapp3.1\01.OldBooks.csproj.CoreCompileInputs.cache
+D:\Moi_raboti\GitHub\C-sharp-Basics\10.WhileLoop-Exercise\01.OldBooks\obj\Debug\netcoreapp3.1\01.OldBooks.dll
+D:\Moi_raboti\GitHub\C-sharp-Basics\10.WhileLoop-Exercise\01.OldBooks\obj\Debug\netcoreapp3.1\01.OldBooks.pdb
+D:\Moi_raboti\GitHub\C-sharp-Basics\10.WhileLoop-Exercise\01.OldBooks\obj\Debug\netcoreapp3.1\01.OldBooks.genruntimeconfig.cache

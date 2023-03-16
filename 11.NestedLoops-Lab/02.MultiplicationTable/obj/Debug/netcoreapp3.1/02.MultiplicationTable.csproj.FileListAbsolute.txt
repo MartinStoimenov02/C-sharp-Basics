@@ -1,0 +1,14 @@
+D:\Moi_raboti\GitHub\C-sharp-Basics\11.NestedLoops-Lab\02.MultiplicationTable\bin\Debug\netcoreapp3.1\02.MultiplicationTable.exe
+D:\Moi_raboti\GitHub\C-sharp-Basics\11.NestedLoops-Lab\02.MultiplicationTable\bin\Debug\netcoreapp3.1\02.MultiplicationTable.deps.json
+D:\Moi_raboti\GitHub\C-sharp-Basics\11.NestedLoops-Lab\02.MultiplicationTable\bin\Debug\netcoreapp3.1\02.MultiplicationTable.runtimeconfig.json
+D:\Moi_raboti\GitHub\C-sharp-Basics\11.NestedLoops-Lab\02.MultiplicationTable\bin\Debug\netcoreapp3.1\02.MultiplicationTable.runtimeconfig.dev.json
+D:\Moi_raboti\GitHub\C-sharp-Basics\11.NestedLoops-Lab\02.MultiplicationTable\bin\Debug\netcoreapp3.1\02.MultiplicationTable.dll
+D:\Moi_raboti\GitHub\C-sharp-Basics\11.NestedLoops-Lab\02.MultiplicationTable\bin\Debug\netcoreapp3.1\02.MultiplicationTable.pdb
+D:\Moi_raboti\GitHub\C-sharp-Basics\11.NestedLoops-Lab\02.MultiplicationTable\obj\Debug\netcoreapp3.1\02.MultiplicationTable.csproj.AssemblyReference.cache
+D:\Moi_raboti\GitHub\C-sharp-Basics\11.NestedLoops-Lab\02.MultiplicationTable\obj\Debug\netcoreapp3.1\02.MultiplicationTable.GeneratedMSBuildEditorConfig.editorconfig
+D:\Moi_raboti\GitHub\C-sharp-Basics\11.NestedLoops-Lab\02.MultiplicationTable\obj\Debug\netcoreapp3.1\02.MultiplicationTable.AssemblyInfoInputs.cache
+D:\Moi_raboti\GitHub\C-sharp-Basics\11.NestedLoops-Lab\02.MultiplicationTable\obj\Debug\netcoreapp3.1\02.MultiplicationTable.AssemblyInfo.cs
+D:\Moi_raboti\GitHub\C-sharp-Basics\11.NestedLoops-Lab\02.MultiplicationTable\obj\Debug\netcoreapp3.1\02.MultiplicationTable.csproj.CoreCompileInputs.cache
+D:\Moi_raboti\GitHub\C-sharp-Basics\11.NestedLoops-Lab\02.MultiplicationTable\obj\Debug\netcoreapp3.1\02.MultiplicationTable.dll
+D:\Moi_raboti\GitHub\C-sharp-Basics\11.NestedLoops-Lab\02.MultiplicationTable\obj\Debug\netcoreapp3.1\02.MultiplicationTable.pdb
+D:\Moi_raboti\GitHub\C-sharp-Basics\11.NestedLoops-Lab\02.MultiplicationTable\obj\Debug\netcoreapp3.1\02.MultiplicationTable.genruntimeconfig.cache

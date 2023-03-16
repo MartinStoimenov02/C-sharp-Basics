@@ -5,19 +5,21 @@ VisualStudioVersion = 17.4.33213.308
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.Numbers0-1000EndedIn7", "01.Numbers0-1000EndedIn7\01.Numbers0-1000EndedIn7.csproj", "{11A626C5-B64D-4BC2-904E-D5B0D77394B2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.HalfSumElement", "02.HalfSumElement\02.HalfSumElement.csproj", "{1C9CD8C8-F864-43CF-A6B8-2141EF3E3865}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.HalfSumElement", "02.HalfSumElement\02.HalfSumElement.csproj", "{1C9CD8C8-F864-43CF-A6B8-2141EF3E3865}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.Histogram", "03.Histogram\03.Histogram.csproj", "{E2022AE2-76EB-4C54-9A17-6E06FF61A8E2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03.Histogram", "03.Histogram\03.Histogram.csproj", "{E2022AE2-76EB-4C54-9A17-6E06FF61A8E2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.CleverLily", "04.CleverLily\04.CleverLily.csproj", "{9C43EE4A-0553-4739-81E3-565DD0F38902}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04.CleverLily", "04.CleverLily\04.CleverLily.csproj", "{9C43EE4A-0553-4739-81E3-565DD0F38902}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.Salary", "05.Salary\05.Salary.csproj", "{9A141217-837D-4906-8851-7A64815C2FC5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05.Salary", "05.Salary\05.Salary.csproj", "{9A141217-837D-4906-8851-7A64815C2FC5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.Oscars", "06.Oscars\06.Oscars.csproj", "{7BE462CF-DB04-466D-BF88-27EC395FF397}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06.Oscars", "06.Oscars\06.Oscars.csproj", "{7BE462CF-DB04-466D-BF88-27EC395FF397}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.1.CleverLily", "04.1.CleverLily\04.1.CleverLily.csproj", "{3D4C7E2F-DED2-4DDC-8626-7FA337AC0130}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04.1.CleverLily", "04.1.CleverLily\04.1.CleverLily.csproj", "{3D4C7E2F-DED2-4DDC-8626-7FA337AC0130}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.TrekkingMania", "07.TrekkingMania\07.TrekkingMania.csproj", "{C6F5446D-E371-4EDE-9CD6-50E3DD93FF50}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07.TrekkingMania", "07.TrekkingMania\07.TrekkingMania.csproj", "{C6F5446D-E371-4EDE-9CD6-50E3DD93FF50}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08.Tennis Ranklist", "08.Tennis Ranklist\08.Tennis Ranklist.csproj", "{2B4D9C6F-663E-4AB3-85AC-ED7BFAF1788B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +59,10 @@ Global
 		{C6F5446D-E371-4EDE-9CD6-50E3DD93FF50}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C6F5446D-E371-4EDE-9CD6-50E3DD93FF50}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C6F5446D-E371-4EDE-9CD6-50E3DD93FF50}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B4D9C6F-663E-4AB3-85AC-ED7BFAF1788B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B4D9C6F-663E-4AB3-85AC-ED7BFAF1788B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B4D9C6F-663E-4AB3-85AC-ED7BFAF1788B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B4D9C6F-663E-4AB3-85AC-ED7BFAF1788B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,14 @@
+D:\Moi_raboti\GitHub\C-sharp-Basics\12.NestedLoops-Exercise\04.TrainTheTrainers\bin\Debug\netcoreapp3.1\04.TrainTheTrainers.exe
+D:\Moi_raboti\GitHub\C-sharp-Basics\12.NestedLoops-Exercise\04.TrainTheTrainers\bin\Debug\netcoreapp3.1\04.TrainTheTrainers.deps.json
+D:\Moi_raboti\GitHub\C-sharp-Basics\12.NestedLoops-Exercise\04.TrainTheTrainers\bin\Debug\netcoreapp3.1\04.TrainTheTrainers.runtimeconfig.json
+D:\Moi_raboti\GitHub\C-sharp-Basics\12.NestedLoops-Exercise\04.TrainTheTrainers\bin\Debug\netcoreapp3.1\04.TrainTheTrainers.runtimeconfig.dev.json
+D:\Moi_raboti\GitHub\C-sharp-Basics\12.NestedLoops-Exercise\04.TrainTheTrainers\bin\Debug\netcoreapp3.1\04.TrainTheTrainers.dll
+D:\Moi_raboti\GitHub\C-sharp-Basics\12.NestedLoops-Exercise\04.TrainTheTrainers\bin\Debug\netcoreapp3.1\04.TrainTheTrainers.pdb
+D:\Moi_raboti\GitHub\C-sharp-Basics\12.NestedLoops-Exercise\04.TrainTheTrainers\obj\Debug\netcoreapp3.1\04.TrainTheTrainers.csproj.AssemblyReference.cache
+D:\Moi_raboti\GitHub\C-sharp-Basics\12.NestedLoops-Exercise\04.TrainTheTrainers\obj\Debug\netcoreapp3.1\04.TrainTheTrainers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Moi_raboti\GitHub\C-sharp-Basics\12.NestedLoops-Exercise\04.TrainTheTrainers\obj\Debug\netcoreapp3.1\04.TrainTheTrainers.AssemblyInfoInputs.cache
+D:\Moi_raboti\GitHub\C-sharp-Basics\12.NestedLoops-Exercise\04.TrainTheTrainers\obj\Debug\netcoreapp3.1\04.TrainTheTrainers.AssemblyInfo.cs
+D:\Moi_raboti\GitHub\C-sharp-Basics\12.NestedLoops-Exercise\04.TrainTheTrainers\obj\Debug\netcoreapp3.1\04.TrainTheTrainers.csproj.CoreCompileInputs.cache
+D:\Moi_raboti\GitHub\C-sharp-Basics\12.NestedLoops-Exercise\04.TrainTheTrainers\obj\Debug\netcoreapp3.1\04.TrainTheTrainers.dll
+D:\Moi_raboti\GitHub\C-sharp-Basics\12.NestedLoops-Exercise\04.TrainTheTrainers\obj\Debug\netcoreapp3.1\04.TrainTheTrainers.pdb
+D:\Moi_raboti\GitHub\C-sharp-Basics\12.NestedLoops-Exercise\04.TrainTheTrainers\obj\Debug\netcoreapp3.1\04.TrainTheTrainers.genruntimeconfig.cache

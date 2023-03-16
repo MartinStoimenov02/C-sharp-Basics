@@ -1,0 +1,14 @@
+D:\Moi_raboti\GitHub\C-sharp-Basics\12.NestedLoops-Exercise\05.SpecialNumbers\bin\Debug\netcoreapp3.1\05.SpecialNumbers.exe
+D:\Moi_raboti\GitHub\C-sharp-Basics\12.NestedLoops-Exercise\05.SpecialNumbers\bin\Debug\netcoreapp3.1\05.SpecialNumbers.deps.json
+D:\Moi_raboti\GitHub\C-sharp-Basics\12.NestedLoops-Exercise\05.SpecialNumbers\bin\Debug\netcoreapp3.1\05.SpecialNumbers.runtimeconfig.json
+D:\Moi_raboti\GitHub\C-sharp-Basics\12.NestedLoops-Exercise\05.SpecialNumbers\bin\Debug\netcoreapp3.1\05.SpecialNumbers.runtimeconfig.dev.json
+D:\Moi_raboti\GitHub\C-sharp-Basics\12.NestedLoops-Exercise\05.SpecialNumbers\bin\Debug\netcoreapp3.1\05.SpecialNumbers.dll
+D:\Moi_raboti\GitHub\C-sharp-Basics\12.NestedLoops-Exercise\05.SpecialNumbers\bin\Debug\netcoreapp3.1\05.SpecialNumbers.pdb
+D:\Moi_raboti\GitHub\C-sharp-Basics\12.NestedLoops-Exercise\05.SpecialNumbers\obj\Debug\netcoreapp3.1\05.SpecialNumbers.csproj.AssemblyReference.cache
+D:\Moi_raboti\GitHub\C-sharp-Basics\12.NestedLoops-Exercise\05.SpecialNumbers\obj\Debug\netcoreapp3.1\05.SpecialNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Moi_raboti\GitHub\C-sharp-Basics\12.NestedLoops-Exercise\05.SpecialNumbers\obj\Debug\netcoreapp3.1\05.SpecialNumbers.AssemblyInfoInputs.cache
+D:\Moi_raboti\GitHub\C-sharp-Basics\12.NestedLoops-Exercise\05.SpecialNumbers\obj\Debug\netcoreapp3.1\05.SpecialNumbers.AssemblyInfo.cs
+D:\Moi_raboti\GitHub\C-sharp-Basics\12.NestedLoops-Exercise\05.SpecialNumbers\obj\Debug\netcoreapp3.1\05.SpecialNumbers.csproj.CoreCompileInputs.cache
+D:\Moi_raboti\GitHub\C-sharp-Basics\12.NestedLoops-Exercise\05.SpecialNumbers\obj\Debug\netcoreapp3.1\05.SpecialNumbers.dll
+D:\Moi_raboti\GitHub\C-sharp-Basics\12.NestedLoops-Exercise\05.SpecialNumbers\obj\Debug\netcoreapp3.1\05.SpecialNumbers.pdb
+D:\Moi_raboti\GitHub\C-sharp-Basics\12.NestedLoops-Exercise\05.SpecialNumbers\obj\Debug\netcoreapp3.1\05.SpecialNumbers.genruntimeconfig.cache

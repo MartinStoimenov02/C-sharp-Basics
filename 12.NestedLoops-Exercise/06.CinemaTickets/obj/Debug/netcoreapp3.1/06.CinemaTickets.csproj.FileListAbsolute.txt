@@ -1,0 +1,14 @@
+D:\Moi_raboti\GitHub\C-sharp-Basics\12.NestedLoops-Exercise\06.CinemaTickets\bin\Debug\netcoreapp3.1\06.CinemaTickets.exe
+D:\Moi_raboti\GitHub\C-sharp-Basics\12.NestedLoops-Exercise\06.CinemaTickets\bin\Debug\netcoreapp3.1\06.CinemaTickets.deps.json
+D:\Moi_raboti\GitHub\C-sharp-Basics\12.NestedLoops-Exercise\06.CinemaTickets\bin\Debug\netcoreapp3.1\06.CinemaTickets.runtimeconfig.json
+D:\Moi_raboti\GitHub\C-sharp-Basics\12.NestedLoops-Exercise\06.CinemaTickets\bin\Debug\netcoreapp3.1\06.CinemaTickets.runtimeconfig.dev.json
+D:\Moi_raboti\GitHub\C-sharp-Basics\12.NestedLoops-Exercise\06.CinemaTickets\bin\Debug\netcoreapp3.1\06.CinemaTickets.dll
+D:\Moi_raboti\GitHub\C-sharp-Basics\12.NestedLoops-Exercise\06.CinemaTickets\bin\Debug\netcoreapp3.1\06.CinemaTickets.pdb
+D:\Moi_raboti\GitHub\C-sharp-Basics\12.NestedLoops-Exercise\06.CinemaTickets\obj\Debug\netcoreapp3.1\06.CinemaTickets.csproj.AssemblyReference.cache
+D:\Moi_raboti\GitHub\C-sharp-Basics\12.NestedLoops-Exercise\06.CinemaTickets\obj\Debug\netcoreapp3.1\06.CinemaTickets.GeneratedMSBuildEditorConfig.editorconfig
+D:\Moi_raboti\GitHub\C-sharp-Basics\12.NestedLoops-Exercise\06.CinemaTickets\obj\Debug\netcoreapp3.1\06.CinemaTickets.AssemblyInfoInputs.cache
+D:\Moi_raboti\GitHub\C-sharp-Basics\12.NestedLoops-Exercise\06.CinemaTickets\obj\Debug\netcoreapp3.1\06.CinemaTickets.AssemblyInfo.cs
+D:\Moi_raboti\GitHub\C-sharp-Basics\12.NestedLoops-Exercise\06.CinemaTickets\obj\Debug\netcoreapp3.1\06.CinemaTickets.csproj.CoreCompileInputs.cache
+D:\Moi_raboti\GitHub\C-sharp-Basics\12.NestedLoops-Exercise\06.CinemaTickets\obj\Debug\netcoreapp3.1\06.CinemaTickets.dll
+D:\Moi_raboti\GitHub\C-sharp-Basics\12.NestedLoops-Exercise\06.CinemaTickets\obj\Debug\netcoreapp3.1\06.CinemaTickets.pdb
+D:\Moi_raboti\GitHub\C-sharp-Basics\12.NestedLoops-Exercise\06.CinemaTickets\obj\Debug\netcoreapp3.1\06.CinemaTickets.genruntimeconfig.cache

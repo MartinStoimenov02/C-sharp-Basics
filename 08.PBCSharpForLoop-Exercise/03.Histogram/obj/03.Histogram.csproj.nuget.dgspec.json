@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Moi_raboti\\GitHub\\SoftUni---C-Basics\\08.PBCSharpForLoop-Exercise\\03.Histogram\\03.Histogram.csproj": {}
+    "D:\\Moi_raboti\\GitHub\\C-sharp-Basics\\08.PBCSharpForLoop-Exercise\\03.Histogram\\03.Histogram.csproj": {}
   },
   "projects": {
-    "D:\\Moi_raboti\\GitHub\\SoftUni---C-Basics\\08.PBCSharpForLoop-Exercise\\03.Histogram\\03.Histogram.csproj": {
+    "D:\\Moi_raboti\\GitHub\\C-sharp-Basics\\08.PBCSharpForLoop-Exercise\\03.Histogram\\03.Histogram.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Moi_raboti\\GitHub\\SoftUni---C-Basics\\08.PBCSharpForLoop-Exercise\\03.Histogram\\03.Histogram.csproj",
+        "projectUniqueName": "D:\\Moi_raboti\\GitHub\\C-sharp-Basics\\08.PBCSharpForLoop-Exercise\\03.Histogram\\03.Histogram.csproj",
         "projectName": "03.Histogram",
-        "projectPath": "D:\\Moi_raboti\\GitHub\\SoftUni---C-Basics\\08.PBCSharpForLoop-Exercise\\03.Histogram\\03.Histogram.csproj",
+        "projectPath": "D:\\Moi_raboti\\GitHub\\C-sharp-Basics\\08.PBCSharpForLoop-Exercise\\03.Histogram\\03.Histogram.csproj",
         "packagesPath": "C:\\Users\\marti\\.nuget\\packages\\",
-        "outputPath": "D:\\Moi_raboti\\GitHub\\SoftUni---C-Basics\\08.PBCSharpForLoop-Exercise\\03.Histogram\\obj\\",
+        "outputPath": "D:\\Moi_raboti\\GitHub\\C-sharp-Basics\\08.PBCSharpForLoop-Exercise\\03.Histogram\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

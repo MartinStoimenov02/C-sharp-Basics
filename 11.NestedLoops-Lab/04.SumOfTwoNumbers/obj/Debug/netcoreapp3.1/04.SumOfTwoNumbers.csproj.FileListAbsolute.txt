@@ -1,0 +1,14 @@
+D:\Moi_raboti\GitHub\C-sharp-Basics\11.NestedLoops-Lab\04.SumOfTwoNumbers\bin\Debug\netcoreapp3.1\04.SumOfTwoNumbers.exe
+D:\Moi_raboti\GitHub\C-sharp-Basics\11.NestedLoops-Lab\04.SumOfTwoNumbers\bin\Debug\netcoreapp3.1\04.SumOfTwoNumbers.deps.json
+D:\Moi_raboti\GitHub\C-sharp-Basics\11.NestedLoops-Lab\04.SumOfTwoNumbers\bin\Debug\netcoreapp3.1\04.SumOfTwoNumbers.runtimeconfig.json
+D:\Moi_raboti\GitHub\C-sharp-Basics\11.NestedLoops-Lab\04.SumOfTwoNumbers\bin\Debug\netcoreapp3.1\04.SumOfTwoNumbers.runtimeconfig.dev.json
+D:\Moi_raboti\GitHub\C-sharp-Basics\11.NestedLoops-Lab\04.SumOfTwoNumbers\bin\Debug\netcoreapp3.1\04.SumOfTwoNumbers.dll
+D:\Moi_raboti\GitHub\C-sharp-Basics\11.NestedLoops-Lab\04.SumOfTwoNumbers\bin\Debug\netcoreapp3.1\04.SumOfTwoNumbers.pdb
+D:\Moi_raboti\GitHub\C-sharp-Basics\11.NestedLoops-Lab\04.SumOfTwoNumbers\obj\Debug\netcoreapp3.1\04.SumOfTwoNumbers.csproj.AssemblyReference.cache
+D:\Moi_raboti\GitHub\C-sharp-Basics\11.NestedLoops-Lab\04.SumOfTwoNumbers\obj\Debug\netcoreapp3.1\04.SumOfTwoNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Moi_raboti\GitHub\C-sharp-Basics\11.NestedLoops-Lab\04.SumOfTwoNumbers\obj\Debug\netcoreapp3.1\04.SumOfTwoNumbers.AssemblyInfoInputs.cache
+D:\Moi_raboti\GitHub\C-sharp-Basics\11.NestedLoops-Lab\04.SumOfTwoNumbers\obj\Debug\netcoreapp3.1\04.SumOfTwoNumbers.AssemblyInfo.cs
+D:\Moi_raboti\GitHub\C-sharp-Basics\11.NestedLoops-Lab\04.SumOfTwoNumbers\obj\Debug\netcoreapp3.1\04.SumOfTwoNumbers.csproj.CoreCompileInputs.cache
+D:\Moi_raboti\GitHub\C-sharp-Basics\11.NestedLoops-Lab\04.SumOfTwoNumbers\obj\Debug\netcoreapp3.1\04.SumOfTwoNumbers.dll
+D:\Moi_raboti\GitHub\C-sharp-Basics\11.NestedLoops-Lab\04.SumOfTwoNumbers\obj\Debug\netcoreapp3.1\04.SumOfTwoNumbers.pdb
+D:\Moi_raboti\GitHub\C-sharp-Basics\11.NestedLoops-Lab\04.SumOfTwoNumbers\obj\Debug\netcoreapp3.1\04.SumOfTwoNumbers.genruntimeconfig.cache

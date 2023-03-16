@@ -1,0 +1,14 @@
+D:\Moi_raboti\GitHub\C-sharp-Basics\11.NestedLoops-Lab\03.Combinations\bin\Debug\netcoreapp3.1\03.Combinations.exe
+D:\Moi_raboti\GitHub\C-sharp-Basics\11.NestedLoops-Lab\03.Combinations\bin\Debug\netcoreapp3.1\03.Combinations.deps.json
+D:\Moi_raboti\GitHub\C-sharp-Basics\11.NestedLoops-Lab\03.Combinations\bin\Debug\netcoreapp3.1\03.Combinations.runtimeconfig.json
+D:\Moi_raboti\GitHub\C-sharp-Basics\11.NestedLoops-Lab\03.Combinations\bin\Debug\netcoreapp3.1\03.Combinations.runtimeconfig.dev.json
+D:\Moi_raboti\GitHub\C-sharp-Basics\11.NestedLoops-Lab\03.Combinations\bin\Debug\netcoreapp3.1\03.Combinations.dll
+D:\Moi_raboti\GitHub\C-sharp-Basics\11.NestedLoops-Lab\03.Combinations\bin\Debug\netcoreapp3.1\03.Combinations.pdb
+D:\Moi_raboti\GitHub\C-sharp-Basics\11.NestedLoops-Lab\03.Combinations\obj\Debug\netcoreapp3.1\03.Combinations.csproj.AssemblyReference.cache
+D:\Moi_raboti\GitHub\C-sharp-Basics\11.NestedLoops-Lab\03.Combinations\obj\Debug\netcoreapp3.1\03.Combinations.GeneratedMSBuildEditorConfig.editorconfig
+D:\Moi_raboti\GitHub\C-sharp-Basics\11.NestedLoops-Lab\03.Combinations\obj\Debug\netcoreapp3.1\03.Combinations.AssemblyInfoInputs.cache
+D:\Moi_raboti\GitHub\C-sharp-Basics\11.NestedLoops-Lab\03.Combinations\obj\Debug\netcoreapp3.1\03.Combinations.AssemblyInfo.cs
+D:\Moi_raboti\GitHub\C-sharp-Basics\11.NestedLoops-Lab\03.Combinations\obj\Debug\netcoreapp3.1\03.Combinations.csproj.CoreCompileInputs.cache
+D:\Moi_raboti\GitHub\C-sharp-Basics\11.NestedLoops-Lab\03.Combinations\obj\Debug\netcoreapp3.1\03.Combinations.dll
+D:\Moi_raboti\GitHub\C-sharp-Basics\11.NestedLoops-Lab\03.Combinations\obj\Debug\netcoreapp3.1\03.Combinations.pdb
+D:\Moi_raboti\GitHub\C-sharp-Basics\11.NestedLoops-Lab\03.Combinations\obj\Debug\netcoreapp3.1\03.Combinations.genruntimeconfig.cache

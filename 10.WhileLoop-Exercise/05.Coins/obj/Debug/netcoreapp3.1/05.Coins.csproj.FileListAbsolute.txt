@@ -1,0 +1,14 @@
+D:\Moi_raboti\GitHub\C-sharp-Basics\10.WhileLoop-Exercise\05.Coins\bin\Debug\netcoreapp3.1\05.Coins.exe
+D:\Moi_raboti\GitHub\C-sharp-Basics\10.WhileLoop-Exercise\05.Coins\bin\Debug\netcoreapp3.1\05.Coins.deps.json
+D:\Moi_raboti\GitHub\C-sharp-Basics\10.WhileLoop-Exercise\05.Coins\bin\Debug\netcoreapp3.1\05.Coins.runtimeconfig.json
+D:\Moi_raboti\GitHub\C-sharp-Basics\10.WhileLoop-Exercise\05.Coins\bin\Debug\netcoreapp3.1\05.Coins.runtimeconfig.dev.json
+D:\Moi_raboti\GitHub\C-sharp-Basics\10.WhileLoop-Exercise\05.Coins\bin\Debug\netcoreapp3.1\05.Coins.dll
+D:\Moi_raboti\GitHub\C-sharp-Basics\10.WhileLoop-Exercise\05.Coins\bin\Debug\netcoreapp3.1\05.Coins.pdb
+D:\Moi_raboti\GitHub\C-sharp-Basics\10.WhileLoop-Exercise\05.Coins\obj\Debug\netcoreapp3.1\05.Coins.csproj.AssemblyReference.cache
+D:\Moi_raboti\GitHub\C-sharp-Basics\10.WhileLoop-Exercise\05.Coins\obj\Debug\netcoreapp3.1\05.Coins.GeneratedMSBuildEditorConfig.editorconfig
+D:\Moi_raboti\GitHub\C-sharp-Basics\10.WhileLoop-Exercise\05.Coins\obj\Debug\netcoreapp3.1\05.Coins.AssemblyInfoInputs.cache
+D:\Moi_raboti\GitHub\C-sharp-Basics\10.WhileLoop-Exercise\05.Coins\obj\Debug\netcoreapp3.1\05.Coins.AssemblyInfo.cs
+D:\Moi_raboti\GitHub\C-sharp-Basics\10.WhileLoop-Exercise\05.Coins\obj\Debug\netcoreapp3.1\05.Coins.csproj.CoreCompileInputs.cache
+D:\Moi_raboti\GitHub\C-sharp-Basics\10.WhileLoop-Exercise\05.Coins\obj\Debug\netcoreapp3.1\05.Coins.dll
+D:\Moi_raboti\GitHub\C-sharp-Basics\10.WhileLoop-Exercise\05.Coins\obj\Debug\netcoreapp3.1\05.Coins.pdb
+D:\Moi_raboti\GitHub\C-sharp-Basics\10.WhileLoop-Exercise\05.Coins\obj\Debug\netcoreapp3.1\05.Coins.genruntimeconfig.cache
