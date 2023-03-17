@@ -1,0 +1,14 @@
+D:\Moi_raboti\GitHub\C-sharp-Basics\TestExam\06.TournamentOfChristmas\bin\Debug\netcoreapp3.1\06.TournamentOfChristmas.exe
+D:\Moi_raboti\GitHub\C-sharp-Basics\TestExam\06.TournamentOfChristmas\bin\Debug\netcoreapp3.1\06.TournamentOfChristmas.deps.json
+D:\Moi_raboti\GitHub\C-sharp-Basics\TestExam\06.TournamentOfChristmas\bin\Debug\netcoreapp3.1\06.TournamentOfChristmas.runtimeconfig.json
+D:\Moi_raboti\GitHub\C-sharp-Basics\TestExam\06.TournamentOfChristmas\bin\Debug\netcoreapp3.1\06.TournamentOfChristmas.runtimeconfig.dev.json
+D:\Moi_raboti\GitHub\C-sharp-Basics\TestExam\06.TournamentOfChristmas\bin\Debug\netcoreapp3.1\06.TournamentOfChristmas.dll
+D:\Moi_raboti\GitHub\C-sharp-Basics\TestExam\06.TournamentOfChristmas\bin\Debug\netcoreapp3.1\06.TournamentOfChristmas.pdb
+D:\Moi_raboti\GitHub\C-sharp-Basics\TestExam\06.TournamentOfChristmas\obj\Debug\netcoreapp3.1\06.TournamentOfChristmas.csproj.AssemblyReference.cache
+D:\Moi_raboti\GitHub\C-sharp-Basics\TestExam\06.TournamentOfChristmas\obj\Debug\netcoreapp3.1\06.TournamentOfChristmas.GeneratedMSBuildEditorConfig.editorconfig
+D:\Moi_raboti\GitHub\C-sharp-Basics\TestExam\06.TournamentOfChristmas\obj\Debug\netcoreapp3.1\06.TournamentOfChristmas.AssemblyInfoInputs.cache
+D:\Moi_raboti\GitHub\C-sharp-Basics\TestExam\06.TournamentOfChristmas\obj\Debug\netcoreapp3.1\06.TournamentOfChristmas.AssemblyInfo.cs
+D:\Moi_raboti\GitHub\C-sharp-Basics\TestExam\06.TournamentOfChristmas\obj\Debug\netcoreapp3.1\06.TournamentOfChristmas.csproj.CoreCompileInputs.cache
+D:\Moi_raboti\GitHub\C-sharp-Basics\TestExam\06.TournamentOfChristmas\obj\Debug\netcoreapp3.1\06.TournamentOfChristmas.dll
+D:\Moi_raboti\GitHub\C-sharp-Basics\TestExam\06.TournamentOfChristmas\obj\Debug\netcoreapp3.1\06.TournamentOfChristmas.pdb
+D:\Moi_raboti\GitHub\C-sharp-Basics\TestExam\06.TournamentOfChristmas\obj\Debug\netcoreapp3.1\06.TournamentOfChristmas.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+D:\Moi_raboti\GitHub\C-sharp-Basics\TestExam\01.BirthdayParty\bin\Debug\netcoreapp3.1\01.BirthdayParty.exe
+D:\Moi_raboti\GitHub\C-sharp-Basics\TestExam\01.BirthdayParty\bin\Debug\netcoreapp3.1\01.BirthdayParty.deps.json
+D:\Moi_raboti\GitHub\C-sharp-Basics\TestExam\01.BirthdayParty\bin\Debug\netcoreapp3.1\01.BirthdayParty.runtimeconfig.json
+D:\Moi_raboti\GitHub\C-sharp-Basics\TestExam\01.BirthdayParty\bin\Debug\netcoreapp3.1\01.BirthdayParty.runtimeconfig.dev.json
+D:\Moi_raboti\GitHub\C-sharp-Basics\TestExam\01.BirthdayParty\bin\Debug\netcoreapp3.1\01.BirthdayParty.dll
+D:\Moi_raboti\GitHub\C-sharp-Basics\TestExam\01.BirthdayParty\bin\Debug\netcoreapp3.1\01.BirthdayParty.pdb
+D:\Moi_raboti\GitHub\C-sharp-Basics\TestExam\01.BirthdayParty\obj\Debug\netcoreapp3.1\01.BirthdayParty.csproj.AssemblyReference.cache
+D:\Moi_raboti\GitHub\C-sharp-Basics\TestExam\01.BirthdayParty\obj\Debug\netcoreapp3.1\01.BirthdayParty.GeneratedMSBuildEditorConfig.editorconfig
+D:\Moi_raboti\GitHub\C-sharp-Basics\TestExam\01.BirthdayParty\obj\Debug\netcoreapp3.1\01.BirthdayParty.AssemblyInfoInputs.cache
+D:\Moi_raboti\GitHub\C-sharp-Basics\TestExam\01.BirthdayParty\obj\Debug\netcoreapp3.1\01.BirthdayParty.AssemblyInfo.cs
+D:\Moi_raboti\GitHub\C-sharp-Basics\TestExam\01.BirthdayParty\obj\Debug\netcoreapp3.1\01.BirthdayParty.csproj.CoreCompileInputs.cache
+D:\Moi_raboti\GitHub\C-sharp-Basics\TestExam\01.BirthdayParty\obj\Debug\netcoreapp3.1\01.BirthdayParty.dll
+D:\Moi_raboti\GitHub\C-sharp-Basics\TestExam\01.BirthdayParty\obj\Debug\netcoreapp3.1\01.BirthdayParty.pdb
+D:\Moi_raboti\GitHub\C-sharp-Basics\TestExam\01.BirthdayParty\obj\Debug\netcoreapp3.1\01.BirthdayParty.genruntimeconfig.cache

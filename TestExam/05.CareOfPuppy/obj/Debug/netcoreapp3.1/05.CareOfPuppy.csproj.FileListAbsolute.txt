@@ -1,0 +1,14 @@
+D:\Moi_raboti\GitHub\C-sharp-Basics\TestExam\05.CareOfPuppy\bin\Debug\netcoreapp3.1\05.CareOfPuppy.exe
+D:\Moi_raboti\GitHub\C-sharp-Basics\TestExam\05.CareOfPuppy\bin\Debug\netcoreapp3.1\05.CareOfPuppy.deps.json
+D:\Moi_raboti\GitHub\C-sharp-Basics\TestExam\05.CareOfPuppy\bin\Debug\netcoreapp3.1\05.CareOfPuppy.runtimeconfig.json
+D:\Moi_raboti\GitHub\C-sharp-Basics\TestExam\05.CareOfPuppy\bin\Debug\netcoreapp3.1\05.CareOfPuppy.runtimeconfig.dev.json
+D:\Moi_raboti\GitHub\C-sharp-Basics\TestExam\05.CareOfPuppy\bin\Debug\netcoreapp3.1\05.CareOfPuppy.dll
+D:\Moi_raboti\GitHub\C-sharp-Basics\TestExam\05.CareOfPuppy\bin\Debug\netcoreapp3.1\05.CareOfPuppy.pdb
+D:\Moi_raboti\GitHub\C-sharp-Basics\TestExam\05.CareOfPuppy\obj\Debug\netcoreapp3.1\05.CareOfPuppy.csproj.AssemblyReference.cache
+D:\Moi_raboti\GitHub\C-sharp-Basics\TestExam\05.CareOfPuppy\obj\Debug\netcoreapp3.1\05.CareOfPuppy.GeneratedMSBuildEditorConfig.editorconfig
+D:\Moi_raboti\GitHub\C-sharp-Basics\TestExam\05.CareOfPuppy\obj\Debug\netcoreapp3.1\05.CareOfPuppy.AssemblyInfoInputs.cache
+D:\Moi_raboti\GitHub\C-sharp-Basics\TestExam\05.CareOfPuppy\obj\Debug\netcoreapp3.1\05.CareOfPuppy.AssemblyInfo.cs
+D:\Moi_raboti\GitHub\C-sharp-Basics\TestExam\05.CareOfPuppy\obj\Debug\netcoreapp3.1\05.CareOfPuppy.csproj.CoreCompileInputs.cache
+D:\Moi_raboti\GitHub\C-sharp-Basics\TestExam\05.CareOfPuppy\obj\Debug\netcoreapp3.1\05.CareOfPuppy.dll
+D:\Moi_raboti\GitHub\C-sharp-Basics\TestExam\05.CareOfPuppy\obj\Debug\netcoreapp3.1\05.CareOfPuppy.pdb
+D:\Moi_raboti\GitHub\C-sharp-Basics\TestExam\05.CareOfPuppy\obj\Debug\netcoreapp3.1\05.CareOfPuppy.genruntimeconfig.cache

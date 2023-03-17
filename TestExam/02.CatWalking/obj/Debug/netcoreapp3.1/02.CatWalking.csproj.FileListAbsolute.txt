@@ -1,0 +1,14 @@
+D:\Moi_raboti\GitHub\C-sharp-Basics\TestExam\02.CatWalking\bin\Debug\netcoreapp3.1\02.CatWalking.exe
+D:\Moi_raboti\GitHub\C-sharp-Basics\TestExam\02.CatWalking\bin\Debug\netcoreapp3.1\02.CatWalking.deps.json
+D:\Moi_raboti\GitHub\C-sharp-Basics\TestExam\02.CatWalking\bin\Debug\netcoreapp3.1\02.CatWalking.runtimeconfig.json
+D:\Moi_raboti\GitHub\C-sharp-Basics\TestExam\02.CatWalking\bin\Debug\netcoreapp3.1\02.CatWalking.runtimeconfig.dev.json
+D:\Moi_raboti\GitHub\C-sharp-Basics\TestExam\02.CatWalking\bin\Debug\netcoreapp3.1\02.CatWalking.dll
+D:\Moi_raboti\GitHub\C-sharp-Basics\TestExam\02.CatWalking\bin\Debug\netcoreapp3.1\02.CatWalking.pdb
+D:\Moi_raboti\GitHub\C-sharp-Basics\TestExam\02.CatWalking\obj\Debug\netcoreapp3.1\02.CatWalking.csproj.AssemblyReference.cache
+D:\Moi_raboti\GitHub\C-sharp-Basics\TestExam\02.CatWalking\obj\Debug\netcoreapp3.1\02.CatWalking.GeneratedMSBuildEditorConfig.editorconfig
+D:\Moi_raboti\GitHub\C-sharp-Basics\TestExam\02.CatWalking\obj\Debug\netcoreapp3.1\02.CatWalking.AssemblyInfoInputs.cache
+D:\Moi_raboti\GitHub\C-sharp-Basics\TestExam\02.CatWalking\obj\Debug\netcoreapp3.1\02.CatWalking.AssemblyInfo.cs
+D:\Moi_raboti\GitHub\C-sharp-Basics\TestExam\02.CatWalking\obj\Debug\netcoreapp3.1\02.CatWalking.csproj.CoreCompileInputs.cache
+D:\Moi_raboti\GitHub\C-sharp-Basics\TestExam\02.CatWalking\obj\Debug\netcoreapp3.1\02.CatWalking.dll
+D:\Moi_raboti\GitHub\C-sharp-Basics\TestExam\02.CatWalking\obj\Debug\netcoreapp3.1\02.CatWalking.pdb
+D:\Moi_raboti\GitHub\C-sharp-Basics\TestExam\02.CatWalking\obj\Debug\netcoreapp3.1\02.CatWalking.genruntimeconfig.cache

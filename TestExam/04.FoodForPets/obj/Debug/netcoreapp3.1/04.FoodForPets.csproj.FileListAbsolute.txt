@@ -1,0 +1,14 @@
+D:\Moi_raboti\GitHub\C-sharp-Basics\TestExam\04.FoodForPets\bin\Debug\netcoreapp3.1\04.FoodForPets.exe
+D:\Moi_raboti\GitHub\C-sharp-Basics\TestExam\04.FoodForPets\bin\Debug\netcoreapp3.1\04.FoodForPets.deps.json
+D:\Moi_raboti\GitHub\C-sharp-Basics\TestExam\04.FoodForPets\bin\Debug\netcoreapp3.1\04.FoodForPets.runtimeconfig.json
+D:\Moi_raboti\GitHub\C-sharp-Basics\TestExam\04.FoodForPets\bin\Debug\netcoreapp3.1\04.FoodForPets.runtimeconfig.dev.json
+D:\Moi_raboti\GitHub\C-sharp-Basics\TestExam\04.FoodForPets\bin\Debug\netcoreapp3.1\04.FoodForPets.dll
+D:\Moi_raboti\GitHub\C-sharp-Basics\TestExam\04.FoodForPets\bin\Debug\netcoreapp3.1\04.FoodForPets.pdb
+D:\Moi_raboti\GitHub\C-sharp-Basics\TestExam\04.FoodForPets\obj\Debug\netcoreapp3.1\04.FoodForPets.csproj.AssemblyReference.cache
+D:\Moi_raboti\GitHub\C-sharp-Basics\TestExam\04.FoodForPets\obj\Debug\netcoreapp3.1\04.FoodForPets.GeneratedMSBuildEditorConfig.editorconfig
+D:\Moi_raboti\GitHub\C-sharp-Basics\TestExam\04.FoodForPets\obj\Debug\netcoreapp3.1\04.FoodForPets.AssemblyInfoInputs.cache
+D:\Moi_raboti\GitHub\C-sharp-Basics\TestExam\04.FoodForPets\obj\Debug\netcoreapp3.1\04.FoodForPets.AssemblyInfo.cs
+D:\Moi_raboti\GitHub\C-sharp-Basics\TestExam\04.FoodForPets\obj\Debug\netcoreapp3.1\04.FoodForPets.csproj.CoreCompileInputs.cache
+D:\Moi_raboti\GitHub\C-sharp-Basics\TestExam\04.FoodForPets\obj\Debug\netcoreapp3.1\04.FoodForPets.dll
+D:\Moi_raboti\GitHub\C-sharp-Basics\TestExam\04.FoodForPets\obj\Debug\netcoreapp3.1\04.FoodForPets.pdb
+D:\Moi_raboti\GitHub\C-sharp-Basics\TestExam\04.FoodForPets\obj\Debug\netcoreapp3.1\04.FoodForPets.genruntimeconfig.cache

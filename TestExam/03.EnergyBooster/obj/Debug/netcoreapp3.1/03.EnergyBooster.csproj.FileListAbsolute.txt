@@ -1,0 +1,14 @@
+D:\Moi_raboti\GitHub\C-sharp-Basics\TestExam\03.EnergyBooster\bin\Debug\netcoreapp3.1\03.EnergyBooster.exe
+D:\Moi_raboti\GitHub\C-sharp-Basics\TestExam\03.EnergyBooster\bin\Debug\netcoreapp3.1\03.EnergyBooster.deps.json
+D:\Moi_raboti\GitHub\C-sharp-Basics\TestExam\03.EnergyBooster\bin\Debug\netcoreapp3.1\03.EnergyBooster.runtimeconfig.json
+D:\Moi_raboti\GitHub\C-sharp-Basics\TestExam\03.EnergyBooster\bin\Debug\netcoreapp3.1\03.EnergyBooster.runtimeconfig.dev.json
+D:\Moi_raboti\GitHub\C-sharp-Basics\TestExam\03.EnergyBooster\bin\Debug\netcoreapp3.1\03.EnergyBooster.dll
+D:\Moi_raboti\GitHub\C-sharp-Basics\TestExam\03.EnergyBooster\bin\Debug\netcoreapp3.1\03.EnergyBooster.pdb
+D:\Moi_raboti\GitHub\C-sharp-Basics\TestExam\03.EnergyBooster\obj\Debug\netcoreapp3.1\03.EnergyBooster.csproj.AssemblyReference.cache
+D:\Moi_raboti\GitHub\C-sharp-Basics\TestExam\03.EnergyBooster\obj\Debug\netcoreapp3.1\03.EnergyBooster.GeneratedMSBuildEditorConfig.editorconfig
+D:\Moi_raboti\GitHub\C-sharp-Basics\TestExam\03.EnergyBooster\obj\Debug\netcoreapp3.1\03.EnergyBooster.AssemblyInfoInputs.cache
+D:\Moi_raboti\GitHub\C-sharp-Basics\TestExam\03.EnergyBooster\obj\Debug\netcoreapp3.1\03.EnergyBooster.AssemblyInfo.cs
+D:\Moi_raboti\GitHub\C-sharp-Basics\TestExam\03.EnergyBooster\obj\Debug\netcoreapp3.1\03.EnergyBooster.csproj.CoreCompileInputs.cache
+D:\Moi_raboti\GitHub\C-sharp-Basics\TestExam\03.EnergyBooster\obj\Debug\netcoreapp3.1\03.EnergyBooster.dll
+D:\Moi_raboti\GitHub\C-sharp-Basics\TestExam\03.EnergyBooster\obj\Debug\netcoreapp3.1\03.EnergyBooster.pdb
+D:\Moi_raboti\GitHub\C-sharp-Basics\TestExam\03.EnergyBooster\obj\Debug\netcoreapp3.1\03.EnergyBooster.genruntimeconfig.cache
