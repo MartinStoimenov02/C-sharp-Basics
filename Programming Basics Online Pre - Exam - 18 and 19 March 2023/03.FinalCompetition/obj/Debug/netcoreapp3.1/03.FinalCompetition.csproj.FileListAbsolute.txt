@@ -1,0 +1,14 @@
+D:\Moi_raboti\GitHub\C-sharp-Basics\Programming Basics Online Pre - Exam - 18 and 19 March 2023\03.FinalCompetition\bin\Debug\netcoreapp3.1\03.FinalCompetition.exe
+D:\Moi_raboti\GitHub\C-sharp-Basics\Programming Basics Online Pre - Exam - 18 and 19 March 2023\03.FinalCompetition\bin\Debug\netcoreapp3.1\03.FinalCompetition.deps.json
+D:\Moi_raboti\GitHub\C-sharp-Basics\Programming Basics Online Pre - Exam - 18 and 19 March 2023\03.FinalCompetition\bin\Debug\netcoreapp3.1\03.FinalCompetition.runtimeconfig.json
+D:\Moi_raboti\GitHub\C-sharp-Basics\Programming Basics Online Pre - Exam - 18 and 19 March 2023\03.FinalCompetition\bin\Debug\netcoreapp3.1\03.FinalCompetition.runtimeconfig.dev.json
+D:\Moi_raboti\GitHub\C-sharp-Basics\Programming Basics Online Pre - Exam - 18 and 19 March 2023\03.FinalCompetition\bin\Debug\netcoreapp3.1\03.FinalCompetition.dll
+D:\Moi_raboti\GitHub\C-sharp-Basics\Programming Basics Online Pre - Exam - 18 and 19 March 2023\03.FinalCompetition\bin\Debug\netcoreapp3.1\03.FinalCompetition.pdb
+D:\Moi_raboti\GitHub\C-sharp-Basics\Programming Basics Online Pre - Exam - 18 and 19 March 2023\03.FinalCompetition\obj\Debug\netcoreapp3.1\03.FinalCompetition.csproj.AssemblyReference.cache
+D:\Moi_raboti\GitHub\C-sharp-Basics\Programming Basics Online Pre - Exam - 18 and 19 March 2023\03.FinalCompetition\obj\Debug\netcoreapp3.1\03.FinalCompetition.GeneratedMSBuildEditorConfig.editorconfig
+D:\Moi_raboti\GitHub\C-sharp-Basics\Programming Basics Online Pre - Exam - 18 and 19 March 2023\03.FinalCompetition\obj\Debug\netcoreapp3.1\03.FinalCompetition.AssemblyInfoInputs.cache
+D:\Moi_raboti\GitHub\C-sharp-Basics\Programming Basics Online Pre - Exam - 18 and 19 March 2023\03.FinalCompetition\obj\Debug\netcoreapp3.1\03.FinalCompetition.AssemblyInfo.cs
+D:\Moi_raboti\GitHub\C-sharp-Basics\Programming Basics Online Pre - Exam - 18 and 19 March 2023\03.FinalCompetition\obj\Debug\netcoreapp3.1\03.FinalCompetition.csproj.CoreCompileInputs.cache
+D:\Moi_raboti\GitHub\C-sharp-Basics\Programming Basics Online Pre - Exam - 18 and 19 March 2023\03.FinalCompetition\obj\Debug\netcoreapp3.1\03.FinalCompetition.dll
+D:\Moi_raboti\GitHub\C-sharp-Basics\Programming Basics Online Pre - Exam - 18 and 19 March 2023\03.FinalCompetition\obj\Debug\netcoreapp3.1\03.FinalCompetition.pdb
+D:\Moi_raboti\GitHub\C-sharp-Basics\Programming Basics Online Pre - Exam - 18 and 19 March 2023\03.FinalCompetition\obj\Debug\netcoreapp3.1\03.FinalCompetition.genruntimeconfig.cache

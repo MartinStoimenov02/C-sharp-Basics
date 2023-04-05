@@ -1,0 +1,14 @@
+D:\Moi_raboti\GitHub\C-sharp-Basics\Programming Basics Online Pre - Exam - 18 and 19 March 2023\02.BraceletStand\bin\Debug\netcoreapp3.1\02.BraceletStand.exe
+D:\Moi_raboti\GitHub\C-sharp-Basics\Programming Basics Online Pre - Exam - 18 and 19 March 2023\02.BraceletStand\bin\Debug\netcoreapp3.1\02.BraceletStand.deps.json
+D:\Moi_raboti\GitHub\C-sharp-Basics\Programming Basics Online Pre - Exam - 18 and 19 March 2023\02.BraceletStand\bin\Debug\netcoreapp3.1\02.BraceletStand.runtimeconfig.json
+D:\Moi_raboti\GitHub\C-sharp-Basics\Programming Basics Online Pre - Exam - 18 and 19 March 2023\02.BraceletStand\bin\Debug\netcoreapp3.1\02.BraceletStand.runtimeconfig.dev.json
+D:\Moi_raboti\GitHub\C-sharp-Basics\Programming Basics Online Pre - Exam - 18 and 19 March 2023\02.BraceletStand\bin\Debug\netcoreapp3.1\02.BraceletStand.dll
+D:\Moi_raboti\GitHub\C-sharp-Basics\Programming Basics Online Pre - Exam - 18 and 19 March 2023\02.BraceletStand\bin\Debug\netcoreapp3.1\02.BraceletStand.pdb
+D:\Moi_raboti\GitHub\C-sharp-Basics\Programming Basics Online Pre - Exam - 18 and 19 March 2023\02.BraceletStand\obj\Debug\netcoreapp3.1\02.BraceletStand.csproj.AssemblyReference.cache
+D:\Moi_raboti\GitHub\C-sharp-Basics\Programming Basics Online Pre - Exam - 18 and 19 March 2023\02.BraceletStand\obj\Debug\netcoreapp3.1\02.BraceletStand.GeneratedMSBuildEditorConfig.editorconfig
+D:\Moi_raboti\GitHub\C-sharp-Basics\Programming Basics Online Pre - Exam - 18 and 19 March 2023\02.BraceletStand\obj\Debug\netcoreapp3.1\02.BraceletStand.AssemblyInfoInputs.cache
+D:\Moi_raboti\GitHub\C-sharp-Basics\Programming Basics Online Pre - Exam - 18 and 19 March 2023\02.BraceletStand\obj\Debug\netcoreapp3.1\02.BraceletStand.AssemblyInfo.cs
+D:\Moi_raboti\GitHub\C-sharp-Basics\Programming Basics Online Pre - Exam - 18 and 19 March 2023\02.BraceletStand\obj\Debug\netcoreapp3.1\02.BraceletStand.csproj.CoreCompileInputs.cache
+D:\Moi_raboti\GitHub\C-sharp-Basics\Programming Basics Online Pre - Exam - 18 and 19 March 2023\02.BraceletStand\obj\Debug\netcoreapp3.1\02.BraceletStand.dll
+D:\Moi_raboti\GitHub\C-sharp-Basics\Programming Basics Online Pre - Exam - 18 and 19 March 2023\02.BraceletStand\obj\Debug\netcoreapp3.1\02.BraceletStand.pdb
+D:\Moi_raboti\GitHub\C-sharp-Basics\Programming Basics Online Pre - Exam - 18 and 19 March 2023\02.BraceletStand\obj\Debug\netcoreapp3.1\02.BraceletStand.genruntimeconfig.cache

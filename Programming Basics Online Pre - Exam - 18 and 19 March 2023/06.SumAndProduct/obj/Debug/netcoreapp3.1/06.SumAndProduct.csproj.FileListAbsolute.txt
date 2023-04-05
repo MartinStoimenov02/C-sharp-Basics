@@ -1,0 +1,14 @@
+D:\Moi_raboti\GitHub\C-sharp-Basics\Programming Basics Online Pre - Exam - 18 and 19 March 2023\06.SumAndProduct\bin\Debug\netcoreapp3.1\06.SumAndProduct.exe
+D:\Moi_raboti\GitHub\C-sharp-Basics\Programming Basics Online Pre - Exam - 18 and 19 March 2023\06.SumAndProduct\bin\Debug\netcoreapp3.1\06.SumAndProduct.deps.json
+D:\Moi_raboti\GitHub\C-sharp-Basics\Programming Basics Online Pre - Exam - 18 and 19 March 2023\06.SumAndProduct\bin\Debug\netcoreapp3.1\06.SumAndProduct.runtimeconfig.json
+D:\Moi_raboti\GitHub\C-sharp-Basics\Programming Basics Online Pre - Exam - 18 and 19 March 2023\06.SumAndProduct\bin\Debug\netcoreapp3.1\06.SumAndProduct.runtimeconfig.dev.json
+D:\Moi_raboti\GitHub\C-sharp-Basics\Programming Basics Online Pre - Exam - 18 and 19 March 2023\06.SumAndProduct\bin\Debug\netcoreapp3.1\06.SumAndProduct.dll
+D:\Moi_raboti\GitHub\C-sharp-Basics\Programming Basics Online Pre - Exam - 18 and 19 March 2023\06.SumAndProduct\bin\Debug\netcoreapp3.1\06.SumAndProduct.pdb
+D:\Moi_raboti\GitHub\C-sharp-Basics\Programming Basics Online Pre - Exam - 18 and 19 March 2023\06.SumAndProduct\obj\Debug\netcoreapp3.1\06.SumAndProduct.csproj.AssemblyReference.cache
+D:\Moi_raboti\GitHub\C-sharp-Basics\Programming Basics Online Pre - Exam - 18 and 19 March 2023\06.SumAndProduct\obj\Debug\netcoreapp3.1\06.SumAndProduct.GeneratedMSBuildEditorConfig.editorconfig
+D:\Moi_raboti\GitHub\C-sharp-Basics\Programming Basics Online Pre - Exam - 18 and 19 March 2023\06.SumAndProduct\obj\Debug\netcoreapp3.1\06.SumAndProduct.AssemblyInfoInputs.cache
+D:\Moi_raboti\GitHub\C-sharp-Basics\Programming Basics Online Pre - Exam - 18 and 19 March 2023\06.SumAndProduct\obj\Debug\netcoreapp3.1\06.SumAndProduct.AssemblyInfo.cs
+D:\Moi_raboti\GitHub\C-sharp-Basics\Programming Basics Online Pre - Exam - 18 and 19 March 2023\06.SumAndProduct\obj\Debug\netcoreapp3.1\06.SumAndProduct.csproj.CoreCompileInputs.cache
+D:\Moi_raboti\GitHub\C-sharp-Basics\Programming Basics Online Pre - Exam - 18 and 19 March 2023\06.SumAndProduct\obj\Debug\netcoreapp3.1\06.SumAndProduct.dll
+D:\Moi_raboti\GitHub\C-sharp-Basics\Programming Basics Online Pre - Exam - 18 and 19 March 2023\06.SumAndProduct\obj\Debug\netcoreapp3.1\06.SumAndProduct.pdb
+D:\Moi_raboti\GitHub\C-sharp-Basics\Programming Basics Online Pre - Exam - 18 and 19 March 2023\06.SumAndProduct\obj\Debug\netcoreapp3.1\06.SumAndProduct.genruntimeconfig.cache
