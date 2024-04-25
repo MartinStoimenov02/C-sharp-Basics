@@ -1,0 +1,42 @@
+C:\Users\User\Desktop\ТУ\Шести семестър\Програмни среди\PS_44_Nikolay\PS_44_Nikolay\PS_44_Nikolay\EasyMVVM\bin\Debug\net8.0-windows\EasyMVVM.exe
+C:\Users\User\Desktop\ТУ\Шести семестър\Програмни среди\PS_44_Nikolay\PS_44_Nikolay\PS_44_Nikolay\EasyMVVM\bin\Debug\net8.0-windows\EasyMVVM.deps.json
+C:\Users\User\Desktop\ТУ\Шести семестър\Програмни среди\PS_44_Nikolay\PS_44_Nikolay\PS_44_Nikolay\EasyMVVM\bin\Debug\net8.0-windows\EasyMVVM.runtimeconfig.json
+C:\Users\User\Desktop\ТУ\Шести семестър\Програмни среди\PS_44_Nikolay\PS_44_Nikolay\PS_44_Nikolay\EasyMVVM\bin\Debug\net8.0-windows\EasyMVVM.dll
+C:\Users\User\Desktop\ТУ\Шести семестър\Програмни среди\PS_44_Nikolay\PS_44_Nikolay\PS_44_Nikolay\EasyMVVM\bin\Debug\net8.0-windows\EasyMVVM.pdb
+C:\Users\User\Desktop\ТУ\Шести семестър\Програмни среди\PS_44_Nikolay\PS_44_Nikolay\PS_44_Nikolay\EasyMVVM\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\User\Desktop\ТУ\Шести семестър\Програмни среди\PS_44_Nikolay\PS_44_Nikolay\PS_44_Nikolay\EasyMVVM\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\User\Desktop\ТУ\Шести семестър\Програмни среди\PS_44_Nikolay\PS_44_Nikolay\PS_44_Nikolay\EasyMVVM\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\User\Desktop\ТУ\Шести семестър\Програмни среди\PS_44_Nikolay\PS_44_Nikolay\PS_44_Nikolay\EasyMVVM\obj\Debug\net8.0-windows\EasyMVVM_MarkupCompile.cache
+C:\Users\User\Desktop\ТУ\Шести семестър\Програмни среди\PS_44_Nikolay\PS_44_Nikolay\PS_44_Nikolay\EasyMVVM\obj\Debug\net8.0-windows\EasyMVVM_MarkupCompile.lref
+C:\Users\User\Desktop\ТУ\Шести семестър\Програмни среди\PS_44_Nikolay\PS_44_Nikolay\PS_44_Nikolay\EasyMVVM\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\User\Desktop\ТУ\Шести семестър\Програмни среди\PS_44_Nikolay\PS_44_Nikolay\PS_44_Nikolay\EasyMVVM\obj\Debug\net8.0-windows\EasyMVVM.g.resources
+C:\Users\User\Desktop\ТУ\Шести семестър\Програмни среди\PS_44_Nikolay\PS_44_Nikolay\PS_44_Nikolay\EasyMVVM\obj\Debug\net8.0-windows\EasyMVVM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\ТУ\Шести семестър\Програмни среди\PS_44_Nikolay\PS_44_Nikolay\PS_44_Nikolay\EasyMVVM\obj\Debug\net8.0-windows\EasyMVVM.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\ТУ\Шести семестър\Програмни среди\PS_44_Nikolay\PS_44_Nikolay\PS_44_Nikolay\EasyMVVM\obj\Debug\net8.0-windows\EasyMVVM.AssemblyInfo.cs
+C:\Users\User\Desktop\ТУ\Шести семестър\Програмни среди\PS_44_Nikolay\PS_44_Nikolay\PS_44_Nikolay\EasyMVVM\obj\Debug\net8.0-windows\EasyMVVM.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ТУ\Шести семестър\Програмни среди\PS_44_Nikolay\PS_44_Nikolay\PS_44_Nikolay\EasyMVVM\obj\Debug\net8.0-windows\EasyMVVM.dll
+C:\Users\User\Desktop\ТУ\Шести семестър\Програмни среди\PS_44_Nikolay\PS_44_Nikolay\PS_44_Nikolay\EasyMVVM\obj\Debug\net8.0-windows\refint\EasyMVVM.dll
+C:\Users\User\Desktop\ТУ\Шести семестър\Програмни среди\PS_44_Nikolay\PS_44_Nikolay\PS_44_Nikolay\EasyMVVM\obj\Debug\net8.0-windows\EasyMVVM.pdb
+C:\Users\User\Desktop\ТУ\Шести семестър\Програмни среди\PS_44_Nikolay\PS_44_Nikolay\PS_44_Nikolay\EasyMVVM\obj\Debug\net8.0-windows\EasyMVVM.genruntimeconfig.cache
+C:\Users\User\Desktop\ТУ\Шести семестър\Програмни среди\PS_44_Nikolay\PS_44_Nikolay\PS_44_Nikolay\EasyMVVM\obj\Debug\net8.0-windows\ref\EasyMVVM.dll
+C:\Users\Marty\Downloads\PS_44_Martin\EasyMVVM\bin\Debug\net8.0-windows\EasyMVVM.exe
+C:\Users\Marty\Downloads\PS_44_Martin\EasyMVVM\bin\Debug\net8.0-windows\EasyMVVM.deps.json
+C:\Users\Marty\Downloads\PS_44_Martin\EasyMVVM\bin\Debug\net8.0-windows\EasyMVVM.runtimeconfig.json
+C:\Users\Marty\Downloads\PS_44_Martin\EasyMVVM\bin\Debug\net8.0-windows\EasyMVVM.dll
+C:\Users\Marty\Downloads\PS_44_Martin\EasyMVVM\bin\Debug\net8.0-windows\EasyMVVM.pdb
+C:\Users\Marty\Downloads\PS_44_Martin\EasyMVVM\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Marty\Downloads\PS_44_Martin\EasyMVVM\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Marty\Downloads\PS_44_Martin\EasyMVVM\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Marty\Downloads\PS_44_Martin\EasyMVVM\obj\Debug\net8.0-windows\EasyMVVM_MarkupCompile.cache
+C:\Users\Marty\Downloads\PS_44_Martin\EasyMVVM\obj\Debug\net8.0-windows\EasyMVVM_MarkupCompile.lref
+C:\Users\Marty\Downloads\PS_44_Martin\EasyMVVM\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\Marty\Downloads\PS_44_Martin\EasyMVVM\obj\Debug\net8.0-windows\EasyMVVM.g.resources
+C:\Users\Marty\Downloads\PS_44_Martin\EasyMVVM\obj\Debug\net8.0-windows\EasyMVVM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marty\Downloads\PS_44_Martin\EasyMVVM\obj\Debug\net8.0-windows\EasyMVVM.AssemblyInfoInputs.cache
+C:\Users\Marty\Downloads\PS_44_Martin\EasyMVVM\obj\Debug\net8.0-windows\EasyMVVM.AssemblyInfo.cs
+C:\Users\Marty\Downloads\PS_44_Martin\EasyMVVM\obj\Debug\net8.0-windows\EasyMVVM.csproj.CoreCompileInputs.cache
+C:\Users\Marty\Downloads\PS_44_Martin\EasyMVVM\obj\Debug\net8.0-windows\EasyMVVM.dll
+C:\Users\Marty\Downloads\PS_44_Martin\EasyMVVM\obj\Debug\net8.0-windows\refint\EasyMVVM.dll
+C:\Users\Marty\Downloads\PS_44_Martin\EasyMVVM\obj\Debug\net8.0-windows\EasyMVVM.pdb
+C:\Users\Marty\Downloads\PS_44_Martin\EasyMVVM\obj\Debug\net8.0-windows\EasyMVVM.genruntimeconfig.cache
+C:\Users\Marty\Downloads\PS_44_Martin\EasyMVVM\obj\Debug\net8.0-windows\ref\EasyMVVM.dll

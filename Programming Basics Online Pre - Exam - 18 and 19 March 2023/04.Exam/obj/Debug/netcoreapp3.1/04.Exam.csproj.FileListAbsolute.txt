@@ -1,0 +1,14 @@
+D:\Moi_raboti\GitHub\C-sharp-Basics\Programming Basics Online Pre - Exam - 18 and 19 March 2023\04.Exam\bin\Debug\netcoreapp3.1\04.Exam.exe
+D:\Moi_raboti\GitHub\C-sharp-Basics\Programming Basics Online Pre - Exam - 18 and 19 March 2023\04.Exam\bin\Debug\netcoreapp3.1\04.Exam.deps.json
+D:\Moi_raboti\GitHub\C-sharp-Basics\Programming Basics Online Pre - Exam - 18 and 19 March 2023\04.Exam\bin\Debug\netcoreapp3.1\04.Exam.runtimeconfig.json
+D:\Moi_raboti\GitHub\C-sharp-Basics\Programming Basics Online Pre - Exam - 18 and 19 March 2023\04.Exam\bin\Debug\netcoreapp3.1\04.Exam.runtimeconfig.dev.json
+D:\Moi_raboti\GitHub\C-sharp-Basics\Programming Basics Online Pre - Exam - 18 and 19 March 2023\04.Exam\bin\Debug\netcoreapp3.1\04.Exam.dll
+D:\Moi_raboti\GitHub\C-sharp-Basics\Programming Basics Online Pre - Exam - 18 and 19 March 2023\04.Exam\bin\Debug\netcoreapp3.1\04.Exam.pdb
+D:\Moi_raboti\GitHub\C-sharp-Basics\Programming Basics Online Pre - Exam - 18 and 19 March 2023\04.Exam\obj\Debug\netcoreapp3.1\04.Exam.csproj.AssemblyReference.cache
+D:\Moi_raboti\GitHub\C-sharp-Basics\Programming Basics Online Pre - Exam - 18 and 19 March 2023\04.Exam\obj\Debug\netcoreapp3.1\04.Exam.GeneratedMSBuildEditorConfig.editorconfig
+D:\Moi_raboti\GitHub\C-sharp-Basics\Programming Basics Online Pre - Exam - 18 and 19 March 2023\04.Exam\obj\Debug\netcoreapp3.1\04.Exam.AssemblyInfoInputs.cache
+D:\Moi_raboti\GitHub\C-sharp-Basics\Programming Basics Online Pre - Exam - 18 and 19 March 2023\04.Exam\obj\Debug\netcoreapp3.1\04.Exam.AssemblyInfo.cs
+D:\Moi_raboti\GitHub\C-sharp-Basics\Programming Basics Online Pre - Exam - 18 and 19 March 2023\04.Exam\obj\Debug\netcoreapp3.1\04.Exam.csproj.CoreCompileInputs.cache
+D:\Moi_raboti\GitHub\C-sharp-Basics\Programming Basics Online Pre - Exam - 18 and 19 March 2023\04.Exam\obj\Debug\netcoreapp3.1\04.Exam.dll
+D:\Moi_raboti\GitHub\C-sharp-Basics\Programming Basics Online Pre - Exam - 18 and 19 March 2023\04.Exam\obj\Debug\netcoreapp3.1\04.Exam.pdb
+D:\Moi_raboti\GitHub\C-sharp-Basics\Programming Basics Online Pre - Exam - 18 and 19 March 2023\04.Exam\obj\Debug\netcoreapp3.1\04.Exam.genruntimeconfig.cache

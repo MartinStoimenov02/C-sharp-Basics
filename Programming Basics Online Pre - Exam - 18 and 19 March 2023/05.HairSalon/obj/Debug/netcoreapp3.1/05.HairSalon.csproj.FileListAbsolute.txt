@@ -1,0 +1,14 @@
+D:\Moi_raboti\GitHub\C-sharp-Basics\Programming Basics Online Pre - Exam - 18 and 19 March 2023\05.HairSalon\bin\Debug\netcoreapp3.1\05.HairSalon.exe
+D:\Moi_raboti\GitHub\C-sharp-Basics\Programming Basics Online Pre - Exam - 18 and 19 March 2023\05.HairSalon\bin\Debug\netcoreapp3.1\05.HairSalon.deps.json
+D:\Moi_raboti\GitHub\C-sharp-Basics\Programming Basics Online Pre - Exam - 18 and 19 March 2023\05.HairSalon\bin\Debug\netcoreapp3.1\05.HairSalon.runtimeconfig.json
+D:\Moi_raboti\GitHub\C-sharp-Basics\Programming Basics Online Pre - Exam - 18 and 19 March 2023\05.HairSalon\bin\Debug\netcoreapp3.1\05.HairSalon.runtimeconfig.dev.json
+D:\Moi_raboti\GitHub\C-sharp-Basics\Programming Basics Online Pre - Exam - 18 and 19 March 2023\05.HairSalon\bin\Debug\netcoreapp3.1\05.HairSalon.dll
+D:\Moi_raboti\GitHub\C-sharp-Basics\Programming Basics Online Pre - Exam - 18 and 19 March 2023\05.HairSalon\bin\Debug\netcoreapp3.1\05.HairSalon.pdb
+D:\Moi_raboti\GitHub\C-sharp-Basics\Programming Basics Online Pre - Exam - 18 and 19 March 2023\05.HairSalon\obj\Debug\netcoreapp3.1\05.HairSalon.csproj.AssemblyReference.cache
+D:\Moi_raboti\GitHub\C-sharp-Basics\Programming Basics Online Pre - Exam - 18 and 19 March 2023\05.HairSalon\obj\Debug\netcoreapp3.1\05.HairSalon.GeneratedMSBuildEditorConfig.editorconfig
+D:\Moi_raboti\GitHub\C-sharp-Basics\Programming Basics Online Pre - Exam - 18 and 19 March 2023\05.HairSalon\obj\Debug\netcoreapp3.1\05.HairSalon.AssemblyInfoInputs.cache
+D:\Moi_raboti\GitHub\C-sharp-Basics\Programming Basics Online Pre - Exam - 18 and 19 March 2023\05.HairSalon\obj\Debug\netcoreapp3.1\05.HairSalon.AssemblyInfo.cs
+D:\Moi_raboti\GitHub\C-sharp-Basics\Programming Basics Online Pre - Exam - 18 and 19 March 2023\05.HairSalon\obj\Debug\netcoreapp3.1\05.HairSalon.csproj.CoreCompileInputs.cache
+D:\Moi_raboti\GitHub\C-sharp-Basics\Programming Basics Online Pre - Exam - 18 and 19 March 2023\05.HairSalon\obj\Debug\netcoreapp3.1\05.HairSalon.dll
+D:\Moi_raboti\GitHub\C-sharp-Basics\Programming Basics Online Pre - Exam - 18 and 19 March 2023\05.HairSalon\obj\Debug\netcoreapp3.1\05.HairSalon.pdb
+D:\Moi_raboti\GitHub\C-sharp-Basics\Programming Basics Online Pre - Exam - 18 and 19 March 2023\05.HairSalon\obj\Debug\netcoreapp3.1\05.HairSalon.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "CJCHZ+4gc64RyO+0Chb2ISTjHE0fY8T+v0s89c4wIx464bPIs/jMdkyNIH9mingq8+/N1GjYymB5jJ7OvcKlhQ==",
+  "success": true,
+  "projectFilePath": "C:\\DISK_D\\MOI_RABOTI\\Mои работи\\Документи\\ТУ\\6-ти семестър\\ПС\\освобождаване от изпит\\2. допълнително задание\\PS_44_Martin - official - MVVM with more than one view used and viewmodel\\Welcome\\Welcome.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Marty\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.27\\microsoft.windowsdesktop.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\Marty\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.27\\microsoft.netcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\Marty\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.27\\microsoft.aspnetcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\Marty\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.27\\microsoft.netcore.app.host.win-x64.6.0.27.nupkg.sha512"
+  ],
+  "logs": []
+}

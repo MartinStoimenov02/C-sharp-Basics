@@ -1,0 +1,47 @@
+D:\VSProjects\MVVM\worlds-simplest-csharp-wpf-mvvm-example-master\MinimalMVVM\bin\Debug\MinimalMVVM.exe
+D:\VSProjects\MVVM\worlds-simplest-csharp-wpf-mvvm-example-master\MinimalMVVM\bin\Debug\MinimalMVVM.pdb
+D:\VSProjects\MVVM\worlds-simplest-csharp-wpf-mvvm-example-master\MinimalMVVM\obj\Debug\View\MainWindow.g.cs
+D:\VSProjects\MVVM\worlds-simplest-csharp-wpf-mvvm-example-master\MinimalMVVM\obj\Debug\App.g.cs
+D:\VSProjects\MVVM\worlds-simplest-csharp-wpf-mvvm-example-master\MinimalMVVM\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\VSProjects\MVVM\worlds-simplest-csharp-wpf-mvvm-example-master\MinimalMVVM\obj\Debug\MinimalMVVM_MarkupCompile.cache
+D:\VSProjects\MVVM\worlds-simplest-csharp-wpf-mvvm-example-master\MinimalMVVM\obj\Debug\MinimalMVVM_MarkupCompile.lref
+D:\VSProjects\MVVM\worlds-simplest-csharp-wpf-mvvm-example-master\MinimalMVVM\obj\Debug\View\MainWindow.baml
+D:\VSProjects\MVVM\worlds-simplest-csharp-wpf-mvvm-example-master\MinimalMVVM\obj\Debug\MinimalMVVM.g.resources
+D:\VSProjects\MVVM\worlds-simplest-csharp-wpf-mvvm-example-master\MinimalMVVM\obj\Debug\MinimalMVVM.Properties.Resources.resources
+D:\VSProjects\MVVM\worlds-simplest-csharp-wpf-mvvm-example-master\MinimalMVVM\obj\Debug\MinimalMVVM.csproj.GenerateResource.Cache
+D:\VSProjects\MVVM\worlds-simplest-csharp-wpf-mvvm-example-master\MinimalMVVM\obj\Debug\MinimalMVVM.exe
+D:\VSProjects\MVVM\worlds-simplest-csharp-wpf-mvvm-example-master\MinimalMVVM\obj\Debug\MinimalMVVM.pdb
+D:\Dropbox\ПС+ПМУ\Labs\Upr3\PS-Lab3-example3\MinimalMVVM\obj\Debug\MinimalMVVM.exe
+D:\Dropbox\ПС+ПМУ\Labs\Upr3\PS-Lab3-example3\MinimalMVVM\obj\Debug\MinimalMVVM.pdb
+C:\Users\gogo\Desktop\TU 2024 SEM 6\ПС - Програмни Среди\Освобождаване\Решения\PS_STEP_2\PS-Lab3-example3\MinimalMVVM\obj\Debug\MinimalMVVM.csproj.AssemblyReference.cache
+C:\Users\gogo\Desktop\TU 2024 SEM 6\ПС - Програмни Среди\Освобождаване\Решения\PS_STEP_2\PS-Lab3-example3\MinimalMVVM\obj\Debug\App.g.cs
+C:\Users\gogo\Desktop\TU 2024 SEM 6\ПС - Програмни Среди\Освобождаване\Решения\PS_STEP_2\PS-Lab3-example3\MinimalMVVM\obj\Debug\MinimalMVVM_MarkupCompile.cache
+C:\Users\gogo\Desktop\TU 2024 SEM 6\ПС - Програмни Среди\Освобождаване\Решения\PS_STEP_2\PS-Lab3-example3\MinimalMVVM\obj\Debug\MinimalMVVM.exe
+C:\Users\gogo\Desktop\TU 2024 SEM 6\ПС - Програмни Среди\Освобождаване\Решения\PS_STEP_2\PS-Lab3-example3\MinimalMVVM\obj\Debug\MinimalMVVM.pdb
+C:\Users\gogo\Desktop\TU 2024 SEM 6\ПС - Програмни Среди\Освобождаване\Решения\PS_STEP_2\PS-Lab3-example3\MinimalMVVM\bin\Debug\MinimalMVVM.exe.config
+C:\Users\gogo\Desktop\TU 2024 SEM 6\ПС - Програмни Среди\Освобождаване\Решения\PS_STEP_2\PS-Lab3-example3\MinimalMVVM\bin\Debug\MinimalMVVM.exe
+C:\Users\gogo\Desktop\TU 2024 SEM 6\ПС - Програмни Среди\Освобождаване\Решения\PS_STEP_2\PS-Lab3-example3\MinimalMVVM\bin\Debug\MinimalMVVM.pdb
+C:\Users\gogo\Desktop\TU 2024 SEM 6\ПС - Програмни Среди\Освобождаване\Решения\PS_STEP_2\PS-Lab3-example3\MinimalMVVM\obj\Debug\View\MainWindow.g.cs
+C:\Users\gogo\Desktop\TU 2024 SEM 6\ПС - Програмни Среди\Освобождаване\Решения\PS_STEP_2\PS-Lab3-example3\MinimalMVVM\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\gogo\Desktop\TU 2024 SEM 6\ПС - Програмни Среди\Освобождаване\Решения\PS_STEP_2\PS-Lab3-example3\MinimalMVVM\obj\Debug\MinimalMVVM_MarkupCompile.lref
+C:\Users\gogo\Desktop\TU 2024 SEM 6\ПС - Програмни Среди\Освобождаване\Решения\PS_STEP_2\PS-Lab3-example3\MinimalMVVM\obj\Debug\View\MainWindow.baml
+C:\Users\gogo\Desktop\TU 2024 SEM 6\ПС - Програмни Среди\Освобождаване\Решения\PS_STEP_2\PS-Lab3-example3\MinimalMVVM\obj\Debug\MinimalMVVM.g.resources
+C:\Users\gogo\Desktop\TU 2024 SEM 6\ПС - Програмни Среди\Освобождаване\Решения\PS_STEP_2\PS-Lab3-example3\MinimalMVVM\obj\Debug\MinimalMVVM.Properties.Resources.resources
+C:\Users\gogo\Desktop\TU 2024 SEM 6\ПС - Програмни Среди\Освобождаване\Решения\PS_STEP_2\PS-Lab3-example3\MinimalMVVM\obj\Debug\MinimalMVVM.csproj.GenerateResource.cache
+C:\Users\gogo\Desktop\TU 2024 SEM 6\ПС - Програмни Среди\Освобождаване\Решения\PS_STEP_2\PS-Lab3-example3\MinimalMVVM\obj\Debug\MinimalMVVM.csproj.CoreCompileInputs.cache
+C:\Users\Marty\Downloads\PS_44_Martin\MinimalMVVM\bin\Debug\MinimalMVVM.exe.config
+C:\Users\Marty\Downloads\PS_44_Martin\MinimalMVVM\bin\Debug\MinimalMVVM.exe
+C:\Users\Marty\Downloads\PS_44_Martin\MinimalMVVM\bin\Debug\MinimalMVVM.pdb
+C:\Users\Marty\Downloads\PS_44_Martin\MinimalMVVM\obj\Debug\MinimalMVVM.csproj.AssemblyReference.cache
+C:\Users\Marty\Downloads\PS_44_Martin\MinimalMVVM\obj\Debug\View\MainWindow.g.cs
+C:\Users\Marty\Downloads\PS_44_Martin\MinimalMVVM\obj\Debug\App.g.cs
+C:\Users\Marty\Downloads\PS_44_Martin\MinimalMVVM\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Marty\Downloads\PS_44_Martin\MinimalMVVM\obj\Debug\MinimalMVVM_MarkupCompile.cache
+C:\Users\Marty\Downloads\PS_44_Martin\MinimalMVVM\obj\Debug\MinimalMVVM_MarkupCompile.lref
+C:\Users\Marty\Downloads\PS_44_Martin\MinimalMVVM\obj\Debug\View\MainWindow.baml
+C:\Users\Marty\Downloads\PS_44_Martin\MinimalMVVM\obj\Debug\MinimalMVVM.g.resources
+C:\Users\Marty\Downloads\PS_44_Martin\MinimalMVVM\obj\Debug\MinimalMVVM.Properties.Resources.resources
+C:\Users\Marty\Downloads\PS_44_Martin\MinimalMVVM\obj\Debug\MinimalMVVM.csproj.GenerateResource.cache
+C:\Users\Marty\Downloads\PS_44_Martin\MinimalMVVM\obj\Debug\MinimalMVVM.csproj.CoreCompileInputs.cache
+C:\Users\Marty\Downloads\PS_44_Martin\MinimalMVVM\obj\Debug\MinimalMVVM.exe
+C:\Users\Marty\Downloads\PS_44_Martin\MinimalMVVM\obj\Debug\MinimalMVVM.pdb

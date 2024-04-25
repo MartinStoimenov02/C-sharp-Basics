@@ -1,0 +1,48 @@
+﻿<UserControl x:Class="FilterApp.DynamicListView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:FilterApp"
+             mc:Ignorable="d" 
+             Height="Auto" Width="1230">
+    <UserControl.DataContext>
+        <local:TicketListViewModel/>
+        <!--<local:CarListViewModel/>-->
+        <!--<local:BookListViewModel/>-->
+    </UserControl.DataContext>
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="Auto"/>
+            <!-- разделяне на вю-то на две части -->
+            <ColumnDefinition Width="Auto"/>
+        </Grid.ColumnDefinitions>
+
+        <StackPanel x:Name="FiltersPanel" Grid.Column="0" Margin="10">
+            <!-- Filters -->
+            <ItemsControl ItemsSource="{Binding Filters}">
+                <ItemsControl.ItemTemplate>
+                    <DataTemplate>
+                        <StackPanel>
+                            <TextBlock/>
+                            <StackPanel Orientation="Horizontal">
+                                <ComboBox ItemsSource="{Binding FilterValues}" Width="150" Margin="0 0 10 0"
+                                          SelectedItem="{Binding SelectedValue, Mode=TwoWay}"/>
+                                <ComboBox ItemsSource="{Binding PriorityOptions}" Width="50"
+                                    SelectedItem="{Binding Priority, Mode=TwoWay}" 
+                                    IsEnabled="{Binding IsSelected}"/>
+                            </StackPanel>
+                        </StackPanel>
+                    </DataTemplate>
+                </ItemsControl.ItemTemplate>
+            </ItemsControl>
+            <!-- Filter Button -->
+            <Button Content="Apply Filters" Command="{Binding ApplyFiltersCommand}" CommandParameter="{Binding ElementName=FiltersPanel, Path=DataContext.Filters}" Margin="0 10 0 0"/>
+            <Button Content="Clear Filters" Command="{Binding ClearFiltersCommand}"/>
+        </StackPanel>
+
+        <!-- DataGrid -->
+        <DataGrid Grid.Column="1" ItemsSource="{Binding ListViewModel.Items}" AutoGenerateColumns="True" Margin="10"/>
+        <Button Content="Change VM" Click="ChangeViewModel_Click" HorizontalAlignment="Center" VerticalAlignment="Bottom" Margin="0 10"/>
+    </Grid>
+</UserControl>

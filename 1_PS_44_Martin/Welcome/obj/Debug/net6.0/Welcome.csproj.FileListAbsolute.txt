@@ -1,0 +1,57 @@
+C:\Users\marti\Downloads\PS_44_Martin\Welcome\bin\Debug\net6.0\Welcome.exe
+C:\Users\marti\Downloads\PS_44_Martin\Welcome\bin\Debug\net6.0\Welcome.deps.json
+C:\Users\marti\Downloads\PS_44_Martin\Welcome\bin\Debug\net6.0\Welcome.runtimeconfig.json
+C:\Users\marti\Downloads\PS_44_Martin\Welcome\bin\Debug\net6.0\Welcome.dll
+C:\Users\marti\Downloads\PS_44_Martin\Welcome\bin\Debug\net6.0\Welcome.pdb
+C:\Users\marti\Downloads\PS_44_Martin\Welcome\obj\Debug\net6.0\Welcome.csproj.AssemblyReference.cache
+C:\Users\marti\Downloads\PS_44_Martin\Welcome\obj\Debug\net6.0\Welcome.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marti\Downloads\PS_44_Martin\Welcome\obj\Debug\net6.0\Welcome.AssemblyInfoInputs.cache
+C:\Users\marti\Downloads\PS_44_Martin\Welcome\obj\Debug\net6.0\Welcome.AssemblyInfo.cs
+C:\Users\marti\Downloads\PS_44_Martin\Welcome\obj\Debug\net6.0\Welcome.csproj.CoreCompileInputs.cache
+C:\Users\marti\Downloads\PS_44_Martin\Welcome\obj\Debug\net6.0\Welcome.dll
+C:\Users\marti\Downloads\PS_44_Martin\Welcome\obj\Debug\net6.0\refint\Welcome.dll
+C:\Users\marti\Downloads\PS_44_Martin\Welcome\obj\Debug\net6.0\Welcome.pdb
+C:\Users\marti\Downloads\PS_44_Martin\Welcome\obj\Debug\net6.0\Welcome.genruntimeconfig.cache
+C:\Users\marti\Downloads\PS_44_Martin\Welcome\obj\Debug\net6.0\ref\Welcome.dll
+C:\Users\Marty\Downloads\PS_44_Martin\Welcome\bin\Debug\net6.0\Welcome.exe
+C:\Users\Marty\Downloads\PS_44_Martin\Welcome\bin\Debug\net6.0\Welcome.deps.json
+C:\Users\Marty\Downloads\PS_44_Martin\Welcome\bin\Debug\net6.0\Welcome.runtimeconfig.json
+C:\Users\Marty\Downloads\PS_44_Martin\Welcome\bin\Debug\net6.0\Welcome.dll
+C:\Users\Marty\Downloads\PS_44_Martin\Welcome\bin\Debug\net6.0\Welcome.pdb
+C:\Users\Marty\Downloads\PS_44_Martin\Welcome\obj\Debug\net6.0\Welcome.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marty\Downloads\PS_44_Martin\Welcome\obj\Debug\net6.0\Welcome.AssemblyInfoInputs.cache
+C:\Users\Marty\Downloads\PS_44_Martin\Welcome\obj\Debug\net6.0\Welcome.AssemblyInfo.cs
+C:\Users\Marty\Downloads\PS_44_Martin\Welcome\obj\Debug\net6.0\Welcome.csproj.CoreCompileInputs.cache
+C:\Users\Marty\Downloads\PS_44_Martin\Welcome\obj\Debug\net6.0\Welcome.dll
+C:\Users\Marty\Downloads\PS_44_Martin\Welcome\obj\Debug\net6.0\refint\Welcome.dll
+C:\Users\Marty\Downloads\PS_44_Martin\Welcome\obj\Debug\net6.0\Welcome.pdb
+C:\Users\Marty\Downloads\PS_44_Martin\Welcome\obj\Debug\net6.0\Welcome.genruntimeconfig.cache
+C:\Users\Marty\Downloads\PS_44_Martin\Welcome\obj\Debug\net6.0\ref\Welcome.dll
+C:\Users\Marty\Downloads\PS_44_Martin - Copy\Welcome\bin\Debug\net6.0\Welcome.exe
+C:\Users\Marty\Downloads\PS_44_Martin - Copy\Welcome\bin\Debug\net6.0\Welcome.deps.json
+C:\Users\Marty\Downloads\PS_44_Martin - Copy\Welcome\bin\Debug\net6.0\Welcome.runtimeconfig.json
+C:\Users\Marty\Downloads\PS_44_Martin - Copy\Welcome\bin\Debug\net6.0\Welcome.dll
+C:\Users\Marty\Downloads\PS_44_Martin - Copy\Welcome\bin\Debug\net6.0\Welcome.pdb
+C:\Users\Marty\Downloads\PS_44_Martin - Copy\Welcome\obj\Debug\net6.0\Welcome.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marty\Downloads\PS_44_Martin - Copy\Welcome\obj\Debug\net6.0\Welcome.AssemblyInfoInputs.cache
+C:\Users\Marty\Downloads\PS_44_Martin - Copy\Welcome\obj\Debug\net6.0\Welcome.AssemblyInfo.cs
+C:\Users\Marty\Downloads\PS_44_Martin - Copy\Welcome\obj\Debug\net6.0\Welcome.csproj.CoreCompileInputs.cache
+C:\Users\Marty\Downloads\PS_44_Martin - Copy\Welcome\obj\Debug\net6.0\Welcome.dll
+C:\Users\Marty\Downloads\PS_44_Martin - Copy\Welcome\obj\Debug\net6.0\refint\Welcome.dll
+C:\Users\Marty\Downloads\PS_44_Martin - Copy\Welcome\obj\Debug\net6.0\Welcome.pdb
+C:\Users\Marty\Downloads\PS_44_Martin - Copy\Welcome\obj\Debug\net6.0\Welcome.genruntimeconfig.cache
+C:\Users\Marty\Downloads\PS_44_Martin - Copy\Welcome\obj\Debug\net6.0\ref\Welcome.dll
+C:\DISK_D\MOI_RABOTI\Mои работи\Документи\ТУ\6-ти семестър\ПС\освобождаване от изпит\code\PS_44_Martin\Welcome\bin\Debug\net6.0\Welcome.exe
+C:\DISK_D\MOI_RABOTI\Mои работи\Документи\ТУ\6-ти семестър\ПС\освобождаване от изпит\code\PS_44_Martin\Welcome\bin\Debug\net6.0\Welcome.deps.json
+C:\DISK_D\MOI_RABOTI\Mои работи\Документи\ТУ\6-ти семестър\ПС\освобождаване от изпит\code\PS_44_Martin\Welcome\bin\Debug\net6.0\Welcome.runtimeconfig.json
+C:\DISK_D\MOI_RABOTI\Mои работи\Документи\ТУ\6-ти семестър\ПС\освобождаване от изпит\code\PS_44_Martin\Welcome\bin\Debug\net6.0\Welcome.dll
+C:\DISK_D\MOI_RABOTI\Mои работи\Документи\ТУ\6-ти семестър\ПС\освобождаване от изпит\code\PS_44_Martin\Welcome\bin\Debug\net6.0\Welcome.pdb
+C:\DISK_D\MOI_RABOTI\Mои работи\Документи\ТУ\6-ти семестър\ПС\освобождаване от изпит\code\PS_44_Martin\Welcome\obj\Debug\net6.0\Welcome.GeneratedMSBuildEditorConfig.editorconfig
+C:\DISK_D\MOI_RABOTI\Mои работи\Документи\ТУ\6-ти семестър\ПС\освобождаване от изпит\code\PS_44_Martin\Welcome\obj\Debug\net6.0\Welcome.AssemblyInfoInputs.cache
+C:\DISK_D\MOI_RABOTI\Mои работи\Документи\ТУ\6-ти семестър\ПС\освобождаване от изпит\code\PS_44_Martin\Welcome\obj\Debug\net6.0\Welcome.AssemblyInfo.cs
+C:\DISK_D\MOI_RABOTI\Mои работи\Документи\ТУ\6-ти семестър\ПС\освобождаване от изпит\code\PS_44_Martin\Welcome\obj\Debug\net6.0\Welcome.csproj.CoreCompileInputs.cache
+C:\DISK_D\MOI_RABOTI\Mои работи\Документи\ТУ\6-ти семестър\ПС\освобождаване от изпит\code\PS_44_Martin\Welcome\obj\Debug\net6.0\Welcome.dll
+C:\DISK_D\MOI_RABOTI\Mои работи\Документи\ТУ\6-ти семестър\ПС\освобождаване от изпит\code\PS_44_Martin\Welcome\obj\Debug\net6.0\refint\Welcome.dll
+C:\DISK_D\MOI_RABOTI\Mои работи\Документи\ТУ\6-ти семестър\ПС\освобождаване от изпит\code\PS_44_Martin\Welcome\obj\Debug\net6.0\Welcome.pdb
+C:\DISK_D\MOI_RABOTI\Mои работи\Документи\ТУ\6-ти семестър\ПС\освобождаване от изпит\code\PS_44_Martin\Welcome\obj\Debug\net6.0\Welcome.genruntimeconfig.cache
+C:\DISK_D\MOI_RABOTI\Mои работи\Документи\ТУ\6-ти семестър\ПС\освобождаване от изпит\code\PS_44_Martin\Welcome\obj\Debug\net6.0\ref\Welcome.dll

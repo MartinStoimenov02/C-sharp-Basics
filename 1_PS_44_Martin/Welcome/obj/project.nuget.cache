@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Y7T4XL2hQxkqd5u6tG4fS4TCP4ZMiOFp8QdzOuh0Scv+EDs/Q8cTwlKSxy9hpqkQzjENTeUf4KNsjJ0xOsFP0A==",
+  "success": true,
+  "projectFilePath": "C:\\DISK_D\\MOI_RABOTI\\GitHub\\C-sharp-Basics\\C_sharp_TU-MVVM_generic\\1_PS_44_Martin\\Welcome\\Welcome.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Marty\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.27\\microsoft.windowsdesktop.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\Marty\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.27\\microsoft.netcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\Marty\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.27\\microsoft.aspnetcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\Marty\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.27\\microsoft.netcore.app.host.win-x64.6.0.27.nupkg.sha512"
+  ],
+  "logs": []
+}

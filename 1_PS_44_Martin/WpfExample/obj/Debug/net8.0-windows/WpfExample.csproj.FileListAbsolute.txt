@@ -1,0 +1,44 @@
+C:\Users\User\Desktop\ТУ\Шести семестър\Програмни среди\PS_44_Nikolay\PS_44_Nikolay\PS_44_Nikolay\WpfExample\bin\Debug\net8.0-windows\WpfExample.exe
+C:\Users\User\Desktop\ТУ\Шести семестър\Програмни среди\PS_44_Nikolay\PS_44_Nikolay\PS_44_Nikolay\WpfExample\bin\Debug\net8.0-windows\WpfExample.deps.json
+C:\Users\User\Desktop\ТУ\Шести семестър\Програмни среди\PS_44_Nikolay\PS_44_Nikolay\PS_44_Nikolay\WpfExample\bin\Debug\net8.0-windows\WpfExample.runtimeconfig.json
+C:\Users\User\Desktop\ТУ\Шести семестър\Програмни среди\PS_44_Nikolay\PS_44_Nikolay\PS_44_Nikolay\WpfExample\bin\Debug\net8.0-windows\WpfExample.dll
+C:\Users\User\Desktop\ТУ\Шести семестър\Програмни среди\PS_44_Nikolay\PS_44_Nikolay\PS_44_Nikolay\WpfExample\bin\Debug\net8.0-windows\WpfExample.pdb
+C:\Users\User\Desktop\ТУ\Шести семестър\Програмни среди\PS_44_Nikolay\PS_44_Nikolay\PS_44_Nikolay\WpfExample\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\User\Desktop\ТУ\Шести семестър\Програмни среди\PS_44_Nikolay\PS_44_Nikolay\PS_44_Nikolay\WpfExample\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\User\Desktop\ТУ\Шести семестър\Програмни среди\PS_44_Nikolay\PS_44_Nikolay\PS_44_Nikolay\WpfExample\obj\Debug\net8.0-windows\WpfExample_MarkupCompile.cache
+C:\Users\User\Desktop\ТУ\Шести семестър\Програмни среди\PS_44_Nikolay\PS_44_Nikolay\PS_44_Nikolay\WpfExample\obj\Debug\net8.0-windows\WpfExample_MarkupCompile.lref
+C:\Users\User\Desktop\ТУ\Шести семестър\Програмни среди\PS_44_Nikolay\PS_44_Nikolay\PS_44_Nikolay\WpfExample\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\User\Desktop\ТУ\Шести семестър\Програмни среди\PS_44_Nikolay\PS_44_Nikolay\PS_44_Nikolay\WpfExample\obj\Debug\net8.0-windows\WpfExample.g.resources
+C:\Users\User\Desktop\ТУ\Шести семестър\Програмни среди\PS_44_Nikolay\PS_44_Nikolay\PS_44_Nikolay\WpfExample\obj\Debug\net8.0-windows\WpfExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\ТУ\Шести семестър\Програмни среди\PS_44_Nikolay\PS_44_Nikolay\PS_44_Nikolay\WpfExample\obj\Debug\net8.0-windows\WpfExample.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\ТУ\Шести семестър\Програмни среди\PS_44_Nikolay\PS_44_Nikolay\PS_44_Nikolay\WpfExample\obj\Debug\net8.0-windows\WpfExample.AssemblyInfo.cs
+C:\Users\User\Desktop\ТУ\Шести семестър\Програмни среди\PS_44_Nikolay\PS_44_Nikolay\PS_44_Nikolay\WpfExample\obj\Debug\net8.0-windows\WpfExample.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ТУ\Шести семестър\Програмни среди\PS_44_Nikolay\PS_44_Nikolay\PS_44_Nikolay\WpfExample\obj\Debug\net8.0-windows\WpfExample.dll
+C:\Users\User\Desktop\ТУ\Шести семестър\Програмни среди\PS_44_Nikolay\PS_44_Nikolay\PS_44_Nikolay\WpfExample\obj\Debug\net8.0-windows\refint\WpfExample.dll
+C:\Users\User\Desktop\ТУ\Шести семестър\Програмни среди\PS_44_Nikolay\PS_44_Nikolay\PS_44_Nikolay\WpfExample\obj\Debug\net8.0-windows\WpfExample.pdb
+C:\Users\User\Desktop\ТУ\Шести семестър\Програмни среди\PS_44_Nikolay\PS_44_Nikolay\PS_44_Nikolay\WpfExample\obj\Debug\net8.0-windows\WpfExample.genruntimeconfig.cache
+C:\Users\User\Desktop\ТУ\Шести семестър\Програмни среди\PS_44_Nikolay\PS_44_Nikolay\PS_44_Nikolay\WpfExample\obj\Debug\net8.0-windows\ref\WpfExample.dll
+C:\Users\User\Desktop\ТУ\Шести семестър\Програмни среди\PS_44_Nikolay\PS_44_Nikolay\PS_44_Nikolay\WpfExample\obj\Debug\net8.0-windows\NamesWindow.g.cs
+C:\Users\User\Desktop\ТУ\Шести семестър\Програмни среди\PS_44_Nikolay\PS_44_Nikolay\PS_44_Nikolay\WpfExample\obj\Debug\net8.0-windows\NamesWindow.baml
+C:\Users\Marty\Downloads\PS_44_Martin\WpfExample\bin\Debug\net8.0-windows\WpfExample.exe
+C:\Users\Marty\Downloads\PS_44_Martin\WpfExample\bin\Debug\net8.0-windows\WpfExample.deps.json
+C:\Users\Marty\Downloads\PS_44_Martin\WpfExample\bin\Debug\net8.0-windows\WpfExample.runtimeconfig.json
+C:\Users\Marty\Downloads\PS_44_Martin\WpfExample\bin\Debug\net8.0-windows\WpfExample.dll
+C:\Users\Marty\Downloads\PS_44_Martin\WpfExample\bin\Debug\net8.0-windows\WpfExample.pdb
+C:\Users\Marty\Downloads\PS_44_Martin\WpfExample\obj\Debug\net8.0-windows\NamesWindow.baml
+C:\Users\Marty\Downloads\PS_44_Martin\WpfExample\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Marty\Downloads\PS_44_Martin\WpfExample\obj\Debug\net8.0-windows\NamesWindow.g.cs
+C:\Users\Marty\Downloads\PS_44_Martin\WpfExample\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Marty\Downloads\PS_44_Martin\WpfExample\obj\Debug\net8.0-windows\WpfExample_MarkupCompile.cache
+C:\Users\Marty\Downloads\PS_44_Martin\WpfExample\obj\Debug\net8.0-windows\WpfExample_MarkupCompile.lref
+C:\Users\Marty\Downloads\PS_44_Martin\WpfExample\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\Marty\Downloads\PS_44_Martin\WpfExample\obj\Debug\net8.0-windows\WpfExample.g.resources
+C:\Users\Marty\Downloads\PS_44_Martin\WpfExample\obj\Debug\net8.0-windows\WpfExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marty\Downloads\PS_44_Martin\WpfExample\obj\Debug\net8.0-windows\WpfExample.AssemblyInfoInputs.cache
+C:\Users\Marty\Downloads\PS_44_Martin\WpfExample\obj\Debug\net8.0-windows\WpfExample.AssemblyInfo.cs
+C:\Users\Marty\Downloads\PS_44_Martin\WpfExample\obj\Debug\net8.0-windows\WpfExample.csproj.CoreCompileInputs.cache
+C:\Users\Marty\Downloads\PS_44_Martin\WpfExample\obj\Debug\net8.0-windows\WpfExample.dll
+C:\Users\Marty\Downloads\PS_44_Martin\WpfExample\obj\Debug\net8.0-windows\refint\WpfExample.dll
+C:\Users\Marty\Downloads\PS_44_Martin\WpfExample\obj\Debug\net8.0-windows\WpfExample.pdb
+C:\Users\Marty\Downloads\PS_44_Martin\WpfExample\obj\Debug\net8.0-windows\WpfExample.genruntimeconfig.cache
+C:\Users\Marty\Downloads\PS_44_Martin\WpfExample\obj\Debug\net8.0-windows\ref\WpfExample.dll
